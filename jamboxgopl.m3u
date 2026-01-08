@@ -1,140 +1,141 @@
 #EXTM3U
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVP1 HD 
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TVP1_HD_logo.svg/1024px-TVP1_HD_logo.svg.png" ,TVP1 HD 
 plugin://plugin.video.vod_pl?mode=playT&cid=9866669
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVP2 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVP2_HD_logo.svg/2560px-TVP2_HD_logo.svg.png" ,TVP2 HD
 plugin://plugin.video.vod_pl?mode=playT&cid=9866671
-#EXTINF:-1 group-title="-" tvg-logo="" ,Polsat HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_v2.png" ,Polsat HD
 https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TV Puls HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tv-puls.png" ,TV Puls HD
 https://liveovh009.cda.pl/enc103/tvpulsraw/tvpulsraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Puls 2 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/puls-2.png" ,Puls 2 HD
 https://liveovh009.cda.pl/enc103/puls2raw/puls2raw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TV4 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tv-4_v2.png" ,TV4 HD
 https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Polsat 2
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_2.png" ,Polsat 2
 https://s7.vizja.cc/Polsat2/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Stopklatka TV
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Stopklatka_logo.jpg" ,Stopklatka TV
 https://liveovh010.cda.pl/enc102/stopklatkatvhdraw/stopklatkatvhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVP Historia 2
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVP_Historia_2_%282021%29.svg/1200px-TVP_Historia_2_%282021%29.svg.png" ,TVP Historia 2
 plugin://plugin.video.tvpgo/play_channel?code=H2
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVP Info
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tvp_info_v2.png" ,TVP Info
 https://dash2.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVP ABC 2
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TVP_ABC_2_-_Logo_od_15_lutego_2022_roku.png" ,TVP ABC 2
 plugin://plugin.video.tvpgo/play_channel?code=DMPR
-#EXTINF:-1 group-title="-" tvg-logo="" ,WP HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/wp_tv_hd.png" ,WP HD
 https://liveovh010.cda.pl/enc109/wphdraw/wphdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVP 3 Warszawa
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TVP3_Warszawa_2016.svg/1200px-TVP3_Warszawa_2016.svg.png" ,TVP 3 Warszawa
 plugin://plugin.video.vod_pl?mode=playT&cid=9867021
-#EXTINF:-1 group-title="-" tvg-logo="" ,Antena HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/antena_hd.png" ,Antena HD
 https://liveovh009.cda.pl/enc114/antenatvhdraw/antenatvhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,FilmBox Extra HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmbox-extra-hd.png" ,FilmBox Extra HD
 https://liveovh010.cda.pl/enc107/filmboxextrahdraw/filmboxextrahdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,FilmBox Premium HD
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FilmBox_Premium_HD_logo.png/1280px-FilmBox_Premium_HD_logo.png" ,FilmBox Premium HD
 https://liveovh010.cda.pl/enc105/filmboxpremiumhdraw/filmboxpremiumhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,FilmBox Family
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmbox-family.png" ,FilmBox Family
 https://s6.vizja.cc/FilmboxFamily/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,FilmBox Action
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmbox-action.png" ,FilmBox Action
 https://s6.vizja.cc/FilmboxAction/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,FilmBox Arthouse
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmbox-arthouse.png" ,FilmBox Arthouse
 https://liveovh010.cda.pl/enc111/arthousehdraw/arthousehdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Polsat Film
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_film.png" ,Polsat Film
 https://s6.vizja.cc/PolsatFilm/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Romance TV
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/romance-tv.png" ,Romance TV
 https://liveovh010.cda.pl/enc116/romancetvhdraw/romancetvhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Paramount Network
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" ,Paramount Network
 https://liveovh010.cda.pl/enc028/paramountnetworkhdraw/paramountnetworkhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Sundance HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/sundance-tv.png" ,Sundance HD
 https://liveovh010.cda.pl/enc108/sundancehdraw/sundancehdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,BBC First
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_First_2022.svg/960px-BBC_First_2022.svg.png" ,BBC First
 https://liveovh010.cda.pl/enc113/bbcfirsthdraw/bbcfirsthdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Polsat Seriale
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_seriale.png" ,Polsat Seriale
 https://s6.vizja.cc/PolsatSeriale/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Comedy Central
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" ,Comedy Central
 https://liveovh010.cda.pl/enc006/comedycentralhdraw/comedycentralhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,AMC HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/amc.png" ,AMC HD
 https://liveovh010.cda.pl/enc119/amchdraw/amchdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Kino Polska HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/kino-polska-v2.png" ,Kino Polska HD
 https://liveovh010.cda.pl/enc105/kinopolskahdraw/kinopolskahdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Kino TV
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/KINO_TV_WERSJE-01.jpg" ,Kino TV
 https://liveovh010.cda.pl/enc110/kinotvhdraw/kinotvhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Filmax
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmax.png" ,Filmax
 https://liveovh010.cda.pl/enc113/filmaxhdraw/filmaxhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,History HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/history_v2.png" ,History HD
 https://liveovh010.cda.pl/enc102/historyhdraw/historyhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,History 2 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png" ,History 2 HD
 https://liveovh010.cda.pl/enc102/history2hdraw/history2hdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Polsat Viasat Explore
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Polsat-viasat-explore-pl.png" ,Polsat Viasat Explore
 https://liveovh010.cda.pl/enc107/polsatviasatexplorehdraw/polsatviasatexplorehdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Polsat Viasat History
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Polsat-viasat-history-pl.png/250px-Polsat-viasat-history-pl.png" ,Polsat Viasat History
 https://liveovh010.cda.pl/enc105/polsatviasathistoryhdraw/polsatviasathistoryhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Polsat Viasat Nature
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Polsat-viasat-nature-pl.png" ,Polsat Viasat Nature
 https://liveovh010.cda.pl/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,BBC Earth
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bbc-earth.png" ,BBC Earth
 https://liveovh010.cda.pl/enc126/bbcearthhdraw/bbcearthhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,National Geographic HD
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" ,National Geographic HD
 https://liveovh010.cda.pl/enc104/nationalgeographichdraw/nationalgeographichdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/National_Geographic_Wild_Logo_2019.svg/1200px-National_Geographic_Wild_Logo_2019.svg.png" ,NATIONAL GEOGRAPHIC WILD
 https://liveovh010.cda.pl/enc104/nationalgeographicwildhdraw/nationalgeographicwildhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Nat Geo People https://liveovh010.cda.pl/enc101/natgeopeoplehdraw/natgeopeoplehdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,DocuBox
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1280px-New_NatGeo_People_logo.svg.png" ,Nat Geo People 
+https://liveovh010.cda.pl/enc101/natgeopeoplehdraw/natgeopeoplehdraw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/docubox.png" ,DocuBox
 https://liveovh010.cda.pl/enc110/docuboxhdraw/docuboxhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Tele 5
-https://raw.githubusercontent.com/dwiopeser064-cmyk/iptv/refs/heads/main/Tele5.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,HGTV
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tele-5.png" ,Tele 5
+https://raw.githubusercontent.com/dwiopeser064-cmyk/iptv/refs/eads/main/Tele5.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/hgtv.png" ,HGTV
 https://s7.vizja.cc/HGTV/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TLC
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tlc.png" ,TLC
 https://s7.vizja.cc/TLC/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,BBC Lifestyle
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bbc-lifestyle.png" ,BBC Lifestyle
 https://liveovh010.cda.pl/enc114/bbclifestylehdraw/bbclifestylehdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Show TV
+#EXTINF:-1 group-title="-" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Show_TV_Polska.svg/revision/latest/scale-to-width-down/300?cb=20250802154801" ,Show TV
 https://liveovh010.cda.pl/enc101/redcarpettvhdraw/redcarpettvhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Home TV
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/home_tv.png" ,Home TV
 https://liveovh010.cda.pl/enc124/hometvhdraw/hometvhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,BBC Brit
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bbc-brit.png" ,BBC Brit
 https://liveovh010.cda.pl/enc116/bbcbrithdraw/bbcbrithdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,MiniMini+
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/minimini.png" ,MiniMini+
 https://s6.vizja.cc/MiniMini/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Disney Channel
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" ,Disney Channel
 https://liveovh010.cda.pl/enc103/disneychannelhdraw/disneychannelhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Duck TV
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/ducktv.png" ,Duck TV
 https://liveovh010.cda.pl/enc112/ducktvhdraw/ducktvhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,BBC Cbeebies
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bbc-cbeebies.png" ,BBC Cbeebies
 https://liveovh010.cda.pl/enc126/bbccbeebies/bbccbeebies.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Top Kids
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/top-kids.png" ,Top Kids
 https://liveovh010.cda.pl/enc116/topkidshdraw/topkidshdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Da Vinci
+#EXTINF:-1 group-title="-" tvg-logo="https://blog.elsat.pl/wp-content/uploads/2021/05/Da-Vinci-Primary-Logo-RGB.png" ,Da Vinci
 https://liveovh010.cda.pl/enc109/davincihdraw/davincihdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Eurosport 1
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eurosport_1_black.jpg" ,Eurosport 1
 https://s6.vizja.cc/Eurosport1/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Eurosport 2
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eurosport_2_black.jpg" ,Eurosport 2
 https://s6.vizja.cc/Eurosport2/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,FightBox
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/fightbox.png" ,FightBox
 https://liveovh010.cda.pl/enc111/fightboxhdraw/fightboxhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Extreme Sports
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/1200px-Extreme_Sports_Channel.svg.png" ,Extreme Sports
 https://liveovh010.cda.pl/enc124/extremesportshdraw/extremesportshdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,4FUN TV
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/4funtv.png" ,4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,4FUN KIDS
+#EXTINF:-1 group-title="-" tvg-logo="https://dvbt2wpolsce.pl/images/img/logo/4FUN_KIDS.png" ,4FUN KIDS
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,STARS.TV
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/stars.tv_black.png" ,STARS.TV
 https://vs2143.vcdn.biz/3317e07921575591de7fe7f2ca8aa4aa_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157933561/rsid/bf7b7210-2562-4746-8894-1e436c856a59/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/217.114.34.212*asn/u_srvc/81255/u_did/web_4EkNmnFvnTdrznaRQ5T9tIgmJrEeA2DZ/type.live/playlist.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,Power TV
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/power-tv.jpg" ,Power TV
 https://liveovh010.cda.pl/enc120/powertvhdraw/powertvhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Nuta TV
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/nutatv.png" ,Nuta TV
 https://liveovh010.cda.pl/enc120/nutatvhdraw/nutatvhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Polsat News
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_news.png" ,Polsat News
 https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Polsat News 2
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_news_2.png" ,Polsat News 2
 https://s7.vizja.cc/PolsatNews2/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,BIZNES 24
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Biznes_24_logo.jpg" ,BIZNES 24
 https://liveovh010.cda.pl/enc109/biznes24hdraw/biznes24hdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TV Republika
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tv-republika.png" ,TV Republika
 https://liveovh010.cda.pl/enc120/tvrepublikahdraw/tvrepublikahdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Polsat News Polityka
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png" ,Polsat News Polityka
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,wPolsce24
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/WPolsce24_logo_main.svg/1200px-WPolsce24_logo_main.svg.png" ,wPolsce24
 https://liveovh010.cda.pl/enc015/wpolsceplhdraw/wpolsceplhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,News 24
+#EXTINF:-1 group-title="-" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/News24_pl_2022_II.svg/revision/latest/scale-to-width-down/250?cb=20240423231800" ,News 24
 https://liveovh010.cda.pl/enc118/news24hdraw/news24hdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="" ,TVP 1
 plugin://plugin.video.vod_pl?mode=playT&cid=9866669
@@ -144,37 +145,37 @@ plugin://plugin.video.vod_pl?mode=playT&cid=9866671
 https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 group-title="-" tvg-logo="" ,TV4
 https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TV Okazje
+#EXTINF:-1 group-title="-" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/1/1d/TV_Okazje.png/revision/latest?cb=20210125202745&path-prefix=pl" ,TV Okazje
 https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,EWTN Polska
+#EXTINF:-1 group-title="-" tvg-logo="https://ewtn.pl/wp-content/uploads/2020/01/EWTN_Polska_Horizontal.png" ,EWTN Polska
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,Twoja TV
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/twojatv.png" ,Twoja TV
 https://stream.twoja.tv/ttv_hls/live.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,TV Trwam
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tv-trwam.png" ,TV Trwam
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,CNN
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/cnn.png" ,CNN
 https://dash2.antik.sk/live/test_cnn/playlist.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,France 24
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/france-24.png" ,France 24
 https://liveovh010.cda.pl/enc002/france24hdfraraw/france24hdfraraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Freedom
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/1200px-FreeDOMUAlogo.svg.png" ,Freedom
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,LRT Lituanica
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" ,LRT Lituanica
 https://stream-live.lrt.lt/lituanica/master.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,Espresso TV
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Espreso_TV_%282018%29.svg/2560px-Espreso_TV_%282018%29.svg.png" ,Espresso TV
 https://dash2.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="" ,Show TV HD
 https://liveovh010.cda.pl/enc101/redcarpettvhdraw/redcarpettvhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,dlaCiebie.tv
+#EXTINF:-1 group-title="-" tvg-logo="https://rene.com.pl/wp-content/uploads/2018/09/logo_telewizji_dlaCiebietv_kolor.png" ,dlaCiebie.tv
 http://94.246.128.53:1935/tv/dlaCiebieTv/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVT Rybnik
+#EXTINF:-1 group-title="-" tvg-logo="https://telewizjatvt.pl/2020/wp-content/uploads/2020/03/cropped-tvt-logotyp.png" ,TVT Rybnik
 https://liveovh010.cda.pl/enc117/tvtraw/tvtraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVC
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/TVC_Logo.png" ,TVC
 https://liveovh010.cda.pl/enc118/tvchdraw/tvchdraw.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,Bombaska Telewizja Boża
+#EXTINF:-1 group-title="-" tvg-logo="https://kononopedia.ru/lib/exe/fetch.php?w=150&tok=a1d221&media=kanaly:logo_btb.png" ,Bombaska Telewizja Boża
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,Toya TV
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/toya.png" ,Toya TV
 https://cdn-14-go.toya.net.pl/drm/001_toyahd/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,Echo 24
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Echo24tv.jpg" ,Echo 24
 https://liveovh010.cda.pl/enc027/echo24hdraw/echo24hdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="" ,995
 https://go.jambox.pl
