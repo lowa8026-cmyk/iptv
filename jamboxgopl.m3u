@@ -131,6 +131,8 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/stars.tv_black.png" ,STARS.TV
 https://vs2143.vcdn.biz/3317e07921575591de7fe7f2ca8aa4aa_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157933561/rsid/bf7b7210-2562-4746-8894-1e436c856a59/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/217.114.34.212*asn/u_srvc/81255/u_did/web_4EkNmnFvnTdrznaRQ5T9tIgmJrEeA2DZ/type.live/playlist.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/stars.tv_black.png" ,STARS TV
+https://s7.vizja.cc/StarsTV/mpegts
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/power-tv.jpg" ,Power TV
 https://liveovh010.cda.pl/enc120/powertvhdraw/powertvhdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/nutatv.png" ,Nuta TV
