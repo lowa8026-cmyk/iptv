@@ -137,13 +137,13 @@ https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 https://liveovh010.cda.pl/enc015/wpolsceplhdraw/wpolsceplhdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/News24_pl_2022_II.svg/revision/latest/scale-to-width-down/250?cb=20240423231800" ,News 24
 https://liveovh010.cda.pl/enc118/news24hdraw/news24hdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVP 1
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/960px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" ,TVP 1
 plugin://plugin.video.vod_pl?mode=playT&cid=9866669
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVP 2
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/500px-Telewizja_Polska_-_TVP2_logo_2003.svg.png" ,TVP 2
 plugin://plugin.video.vod_pl?mode=playT&cid=9866671
-#EXTINF:-1 group-title="-" tvg-logo="" ,Polsat
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_v2.png" ,Polsat
 https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TV4
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tv-4_v2.png" ,TV4
 https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/1/1d/TV_Okazje.png/revision/latest?cb=20210125202745&path-prefix=pl" ,TV Okazje
 https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
@@ -163,7 +163,7 @@ https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 https://stream-live.lrt.lt/lituanica/master.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Espreso_TV_%282018%29.svg/2560px-Espreso_TV_%282018%29.svg.png" ,Espresso TV
 https://dash2.antik.sk/live/test_espresso/playlist.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,Show TV HD
+#EXTINF:-1 group-title="-" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Show_TV_Polska.svg/revision/latest/scale-to-width-down/300?cb=20250802154801" ,Show TV HD
 https://liveovh010.cda.pl/enc101/redcarpettvhdraw/redcarpettvhdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://rene.com.pl/wp-content/uploads/2018/09/logo_telewizji_dlaCiebietv_kolor.png" ,dlaCiebie.tv
 http://94.246.128.53:1935/tv/dlaCiebieTv/manifest.mpd
@@ -171,7 +171,7 @@ http://94.246.128.53:1935/tv/dlaCiebieTv/manifest.mpd
 https://liveovh010.cda.pl/enc117/tvtraw/tvtraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/TVC_Logo.png" ,TVC
 https://liveovh010.cda.pl/enc118/tvchdraw/tvchdraw.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,Bombaska Telewizja Boża
+#EXTINF:-1 group-title="-" tvg-logo="https://kononopedia.ru/lib/exe/fetch.php?w=150&tok=a1d221&media=kanaly:logo_btb.png" ,Bombaska Telewizja Boża
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/toya.png" ,Toya TV
 https://cdn-14-go.toya.net.pl/drm/001_toyahd/manifest.mpd
