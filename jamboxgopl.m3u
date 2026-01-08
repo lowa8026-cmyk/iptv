@@ -5,12 +5,24 @@ plugin://plugin.video.vod_pl?mode=playT&cid=9866669
 plugin://plugin.video.vod_pl?mode=playT&cid=9866671
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_v2.png" ,Polsat HD
 https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tv-puls.png" ,TV Puls HD
-https://liveovh009.cda.pl/enc103/tvpulsraw/tvpulsraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/puls-2.png" ,Puls 2 HD
-https://liveovh009.cda.pl/enc103/puls2raw/puls2raw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVN_logo_2024.svg/960px-TVN_logo_2024.svg.png" ,TVN HD
+plugin://plugin.video.vod_pl?mode=playT&cid=1908473
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVN7_logo_2021.svg/1280px-TVN7_logo_2021.svg.png" ,TVN 7 HD
+plugin://plugin.video.vod_pl?mode=playT&cid=1908474
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tv-4_v2.png" ,TV4 HD
 https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tv-puls.png" ,TV Puls HD
+https://liveovh009.cda.pl/enc103/tvpulsraw/tvpulsraw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tvn-24.png" ,TVN 24
+https://turbotv.tv/play/link/b7cf84c6-42e8-4867-b4cb-3d9edf6ccdb8/eyJpdiI6Ikc4Lzdvb21qRGJJUmVsK2kwbHRvWlE9PSIsInZhbHVlIjoiWndycjh6ZVUvWlN0Ni9Sc3JCcm9tRXlhZjVTY2ZGVUVYMHFhbW1waUcyVFg3UGFLWE5wTWFSV3Zhb2ZLVGhvTlJxWHhXak9yYzBjRGdtK3grNkVOaHVsTlFyNlE0eFc2bVhGaWdMRzlCKzJhQXZMa1lKNmdSZDA4bjYwWjZsN1QiLCJtYWMiOiJkNGQ4NDVhMjdkMDg0ZGI5ODU2MDM0N2IzZmZhNWE2ZGNhNjc1MTI3ZTcwNDc4MGM5YWQ2NTExMDcwMWU4NTg5IiwidGFnIjoiIn0=.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tvn24-bis-hd.png" ,TVN 24 BIS
+plugin://plugin.video.vod_pl?mode=playT&cid=57633
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TTV_logo_2015.svg/960px-TTV_logo_2015.svg.png" ,TTV
+plugin://plugin.video.vod_pl?mode=playT&cid=1908475
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVP3-Kielce.svg/960px-TVP3-Kielce.svg.png" ,TVP 3 Kielce
+plugin://plugin.video.vod_pl?mode=playT&cid=9866677
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/puls-2.png" ,Puls 2 HD
+https://liveovh009.cda.pl/enc103/puls2raw/puls2raw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_2.png" ,Polsat 2
 https://s7.vizja.cc/Polsat2/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Stopklatka_logo.jpg" ,Stopklatka TV
