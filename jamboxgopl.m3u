@@ -171,7 +171,7 @@ http://94.246.128.53:1935/tv/dlaCiebieTv/manifest.mpd
 https://liveovh010.cda.pl/enc117/tvtraw/tvtraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/TVC_Logo.png" ,TVC
 https://liveovh010.cda.pl/enc118/tvchdraw/tvchdraw.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://kononopedia.ru/lib/exe/fetch.php?w=150&tok=a1d221&media=kanaly:logo_btb.png" ,Bombaska Telewizja Boża
+#EXTINF:-1 group-title="-" tvg-logo="https://yt3.googleusercontent.com/J7cv5fJlmv2iMmFGz1muzckjtaafA4m2aZp5_OJQVszex_27V233RBNkBzyQo7Wg0WrCJ4hPnQ=s120-c-k-c0x00ffffff-no-rj" ,Bombaska Telewizja Boża
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/toya.png" ,Toya TV
 https://cdn-14-go.toya.net.pl/drm/001_toyahd/manifest.mpd
