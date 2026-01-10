@@ -191,8 +191,10 @@ http://217.173.176.107:1935/live/tvk.stream/manifest.mpd
 https://liveovh010.cda.pl/enc118/tvchdraw/tvchdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://www.lubin.pl/wp-content/uploads/tv-regionalna-logo.png" ,TV Regionalna
 https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="" ,Bombaska Telewizja Boża
+#EXTINF:-1 group-title="-" tvg-logo="https://kononopedia.ru/lib/exe/fetch.php?cache=&media=kanaly:logo_btb.png" ,BTB
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://btb.j00r.us/images/logo_BTBMusic.webp" ,BTB Music
+https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/toya.png" ,Toya TV
 https://cdn-14-go.toya.net.pl/drm/001_toyahd/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Echo24tv.jpg" ,Echo 24
