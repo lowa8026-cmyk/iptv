@@ -39,11 +39,11 @@ https://liveovh010.cda.pl/enc109/wphdraw/wphdraw.mpd
 plugin://plugin.video.vod_pl?mode=playT&cid=9867021
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/antena_hd.png" ,Antena HD
 https://liveovh009.cda.pl/enc114/antenatvhdraw/antenatvhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVC HD
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TVC_%282024-present%29.png" ,TVC HD
 http://80.53.89.117:29980/TVC/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVC Super
+#EXTINF:-1 group-title="-" tvg-logo="https://mwenetworks.pl/images/loga-kolorowe/tvc-super.png" ,TVC Super
 http://80.53.89.117:29980/TVCSuper/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVC Reality
+#EXTINF:-1 group-title="-" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/42/TVC_Reality_%282026-.n.v.%29.png/revision/latest?cb=20260101142226" ,TVC Reality
 http://80.53.89.117:29980/TVCReality/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmbox-extra-hd.png" ,FilmBox Extra HD
 https://liveovh010.cda.pl/enc107/filmboxextrahdraw/filmboxextrahdraw.mpd
@@ -137,6 +137,8 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/stars.tv_black.png" ,STARS.TV
 https://vs2143.vcdn.biz/3317e07921575591de7fe7f2ca8aa4aa_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157933561/rsid/bf7b7210-2562-4746-8894-1e436c856a59/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/217.114.34.212*asn/u_srvc/81255/u_did/web_4EkNmnFvnTdrznaRQ5T9tIgmJrEeA2DZ/type.live/playlist.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://n-22-20.dcs.redcdn.pl/scale/o2/misot/prod/upload/live/652332/images/3824659_1721208168574?srcx=0&srcy=0&srcw=600&srch=600&dstw=600&dsth=600&srcmode=0&quality=80&type=0" ,Szlagier TV
+http://80.53.89.117:29980/SzlagierTV/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/power-tv.jpg" ,Power TV
 https://liveovh010.cda.pl/enc120/powertvhdraw/powertvhdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/nutatv.png" ,Nuta TV
