@@ -140,7 +140,7 @@ https://liveovh010.cda.pl/enc120/nutatvhdraw/nutatvhdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_news.png" ,Polsat News
 https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_news_2.png" ,Polsat News 2
-https://cdn-s-lb2.pluscdn.pl/ch/1442864/5/dash/e7f4555f/live.mpd
+https://s7.vizja.cc/PolsatNews2/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Biznes_24_logo.jpg" ,BIZNES 24
 https://liveovh010.cda.pl/enc109/biznes24hdraw/biznes24hdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tv-republika.png" ,TV Republika
