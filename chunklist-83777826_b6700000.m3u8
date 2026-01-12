@@ -2,12 +2,10 @@
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:NO
 #EXT-X-TARGETDURATION:4
-#EXT-X-MEDIA-SEQUENCE:44205882732
+#EXT-X-MEDIA-SEQUENCE:442058109
 #EXTINF:4,
 http://ghosttv.art:80/play/live.php?mac=00:1A:79:64:07:12&stream=264894&extension=ts&play_token=Vg4WVKkF6Y
 #EXTINF:4,
 http://ghosttv.art:80/play/live.php?mac=00:1A:79:64:07:12&stream=264894&extension=ts&play_token=hjAsuop22g
 #EXTINF:4,
 http://ghosttv.art:80/play/live.php?mac=00:1A:79:64:07:12&stream=264894&extension=ts&play_token=dashpKopes
-#EXTINF:4,
-http://ghosttv.art:80/play/live.php?mac=00:1A:79:64:07:12&stream=264894&extension=ts&play_token=8Pjei9odls
