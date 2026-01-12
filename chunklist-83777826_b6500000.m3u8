@@ -1,1 +1,11 @@
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:442058109
+#EXTINF:4,
+http://ghosttv.art:80/play/live.php?mac=00:1A:79:64:07:12&stream=264894&extension=ts&play_token=8Poeope38J
+#EXTINF:4,
+http://ghosttv.art:80/play/live.php?mac=00:1A:79:64:07:12&stream=264894&extension=ts&play_token=SBtu3JrOPk
+#EXTINF:4,
+http://ghosttv.art:80/play/live.php?mac=00:1A:79:64:07:12&stream=264894&extension=ts&play_token=rZ559zOlnw
