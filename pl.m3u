@@ -97,7 +97,7 @@ https://liveovh010.cda.pl/enc107/polsatviasatexplorehdraw/polsatviasatexplorehdr
 https://liveovh010.cda.pl/enc105/polsatviasathistoryhdraw/polsatviasathistoryhdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Polsat-viasat-nature-pl.png" ,Polsat Viasat Nature
 https://liveovh010.cda.pl/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_doku.png" ,Polsat Dok HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_doku.png" ,Polsat Doku HD
 https://s7.vizja.cc/PolsatDoku/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bbc-earth.png" ,BBC Earth
 https://liveovh010.cda.pl/enc126/bbcearthhdraw/bbcearthhdraw.mpd
