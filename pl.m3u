@@ -137,6 +137,34 @@ https://liveovh010.cda.pl/enc126/bbccbeebies/bbccbeebies.mpd
 https://liveovh010.cda.pl/enc116/topkidshdraw/topkidshdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://blog.elsat.pl/wp-content/uploads/2021/05/Da-Vinci-Primary-Logo-RGB.png" ,Da Vinci
 https://liveovh010.cda.pl/enc109/davincihdraw/davincihdraw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/960px-Polsat_Sport_1_2024.svg.png" ,Polsat Sport 1
+https://s6.vizja.cc/PolsatSport1/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/960px-Polsat_Sport_2_2024.svg.png" ,Polsat Sport 2
+https://s6.vizja.cc/PolsatSport2/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/960px-Polsat_Sport_3_2024.svg.png" ,Polsat Sport 3
+https://s6.vizja.cc/PolsatSport3/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Fight_2021_gradient.svg/960px-Polsat_Sport_Fight_2021_gradient.svg.png" ,Polsat Sport Fight
+https://s6.vizja.cc/PolsatSportFight/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Polsat_Sport_Premium_1_2021_gradient.svg/960px-Polsat_Sport_Premium_1_2021_gradient.svg.png" ,Polsat Sport Premium 1
+https://s6.vizja.cc/PolsatSportPremium1/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polsat_Sport_Premium_2_2021_gradient.svg/960px-Polsat_Sport_Premium_2_2021_gradient.svg.png" ,Polsat Sport Premium 2
+https://s6.vizja.cc/PolsatSportPremium2/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_Extra_1_2025_gradient.svg/960px-Polsat_Sport_Extra_1_2025_gradient.svg.png" ,Polsat Sport Extra 1
+https://s6.vizja.cc/PolsatSportExtra1/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Polsat_Sport_Extra_2_2025_gradient.svg/960px-Polsat_Sport_Extra_2_2025_gradient.svg.png" ,Polsat Sport Extra 2
+https://s6.vizja.cc/PolsatSportExtra2/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Polsat_Sport_Extra_3_2025_gradient.svg/960px-Polsat_Sport_Extra_3_2025_gradient.svg.png" ,Polsat Sport Extra 3
+https://s6.vizja.cc/PolsatSportExtra3/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Polsat_Sport_Extra_4_2025_gradient.svg/960px-Polsat_Sport_Extra_4_2025_gradient.svg.png" ,Polsat Sport Extra 4
+https://s6.vizja.cc/PolsatSportExtra4/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png" ,Eleven Sports 1
+https://s6.vizja.cc/ElevenSports1/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png" ,Eleven Sports 2
+https://s6.vizja.cc/ElevenSports2/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png" ,Eleven Sports 3
+https://s6.vizja.cc/ElevenSports3/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://r-scale-70.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266433.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" ,Eleven Sports 4
+https://s6.vizja.cc/ElevenSports4/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eurosport_1_black.jpg" ,Eurosport 1
 https://s6.vizja.cc/Eurosport1/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eurosport_2_black.jpg" ,Eurosport 2
