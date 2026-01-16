@@ -45,6 +45,12 @@ https://liveovh010.cda.pl/enc109/wphdraw/wphdraw.mpd
 plugin://plugin.video.vod_pl?mode=playT&cid=9867021
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/antena_hd.png" ,Antena HD
 https://liveovh009.cda.pl/enc114/antenatvhdraw/antenatvhdraw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="" ,Canal+ Premium
+https://s6.vizja.cc/CanalPlusPremium/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="" ,Canal+ 1
+#EXTINF:-1 group-title="-" tvg-logo="" ,Canal+ Film
+#EXTINF:-1 group-title="-" tvg-logo="" ,Canal+ Seriale
+#EXTINF:-1 group-title="-" tvg-logo="" ,Canal+ Dokument
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmbox-extra-hd.png" ,FilmBox Extra HD
 https://liveovh010.cda.pl/enc107/filmboxextrahdraw/filmboxextrahdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FilmBox_Premium_HD_logo.png/1280px-FilmBox_Premium_HD_logo.png" ,FilmBox Premium HD
@@ -55,6 +61,10 @@ https://s6.vizja.cc/FilmboxFamily/manifest.mpd
 https://s6.vizja.cc/FilmboxAction/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmbox-arthouse.png" ,FilmBox Arthouse
 https://liveovh010.cda.pl/enc111/arthousehdraw/arthousehdraw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="" ,FX
+https://s6.vizja.cc/FX/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="" ,FX Comedy
+https://s6.vizja.cc/FXComedy/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_film.png" ,Polsat Film
 https://s6.vizja.cc/PolsatFilm/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/romance-tv.png" ,Romance TV
