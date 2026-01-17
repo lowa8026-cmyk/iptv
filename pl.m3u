@@ -45,8 +45,33 @@ https://liveovh010.cda.pl/enc109/wphdraw/wphdraw.mpd
 plugin://plugin.video.vod_pl?mode=playT&cid=9867021
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/antena_hd.png" ,Antena HD
 https://liveovh009.cda.pl/enc114/antenatvhdraw/antenatvhdraw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" ,Paramount Network HD
+https://liveovh010.cda.pl/enc028/paramountnetworkhdraw/paramountnetworkhdraw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/kino-polska-v2.png" ,Kino Polska HD
+https://liveovh010.cda.pl/enc105/kinopolskahdraw/kinopolskahdraw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/KINO_TV_WERSJE-01.jpg" ,Kino TV
+https://liveovh010.cda.pl/enc110/kinotvhdraw/kinotvhdraw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://r-scale-6d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330170/images/52496628?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" ,Warner TV
+https://s6.vizja.cc/WarnerTV/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/axn.png" ,AXN HD
+https://s6.vizja.cc/AXN/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/axn-black.png" ,AXN Black
+https://s6.vizja.cc/AXNBlack/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/axn-white.png" ,AXN White
+https://s6.vizja.cc/AXNWhite/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/axn-spin.png" ,AXN Spin HD
+https://s7.vizja.cc/AXNSpin/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_First_2022.svg/960px-BBC_First_2022.svg.png" ,BBC First
+https://liveovh010.cda.pl/enc113/bbcfirsthdraw/bbcfirsthdraw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/amc.png" ,AMC HD
+https://liveovh010.cda.pl/enc119/amchdraw/amchdraw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/13-ulica.png" ,13 Ulica
+https://s6.vizja.cc/13Ulica/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/7f/Polsat_Comedy_Central_Extra_%282020-.n.v.%29.png/revision/latest?cb=20201030161422" ,Polsat Comedy Central Extra HD
+https://s7.vizja.cc/PolsatComedyCentralExtra/manifest.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" ,Comedy Central HD
+https://liveovh010.cda.pl/enc006/comedycentralhdraw/comedycentralhdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="" ,Canal+ Premium
-https://s6.vizja.cc/CanalPlusPremium/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="" ,Canal+ 1
 #EXTINF:-1 group-title="-" tvg-logo="" ,Canal+ Film
 #EXTINF:-1 group-title="-" tvg-logo="" ,Canal+ Seriale
@@ -57,36 +82,20 @@ https://liveovh010.cda.pl/enc107/filmboxextrahdraw/filmboxextrahdraw.mpd
 https://liveovh010.cda.pl/enc105/filmboxpremiumhdraw/filmboxpremiumhdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmbox-family.png" ,FilmBox Family
 https://s6.vizja.cc/FilmboxFamily/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmbox-action.png" ,FilmBox Action
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/l-migrated/filmbox-action.png" ,FilmBox Action
 https://s6.vizja.cc/FilmboxAction/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmbox-arthouse.png" ,FilmBox Arthouse
 https://liveovh010.cda.pl/enc111/arthousehdraw/arthousehdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="" ,FX
-https://s6.vizja.cc/FX/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="" ,FX Comedy
-https://s6.vizja.cc/FXComedy/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_film.png" ,Polsat Film
 https://s6.vizja.cc/PolsatFilm/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/romance-tv.png" ,Romance TV
 https://liveovh010.cda.pl/enc116/romancetvhdraw/romancetvhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" ,Paramount Network HD
-https://liveovh010.cda.pl/enc028/paramountnetworkhdraw/paramountnetworkhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" ,Comedy Central HD
-https://liveovh010.cda.pl/enc006/comedycentralhdraw/comedycentralhdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/7f/Polsat_Comedy_Central_Extra_%282020-.n.v.%29.png/revision/latest?cb=20201030161422" ,Polsat Comedy Central Extra HD
-https://s7.vizja.cc/PolsatComedyCentralExtra/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/sundance-tv.png" ,Sundance HD
+#EXTINF:-1 group-title-migrated/sundance-tv.png" ,Sundance HD
 https://liveovh010.cda.pl/enc108/sundancehdraw/sundancehdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_First_2022.svg/960px-BBC_First_2022.svg.png" ,BBC First
-https://liveovh010.cda.pl/enc113/bbcfirsthdraw/bbcfirsthdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_seriale.png" ,Polsat Seriale
 https://s6.vizja.cc/PolsatSeriale/manifest.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/amc.png" ,AMC HD
-https://liveovh010.cda.pl/enc119/amchdraw/amchdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/kino-polska-v2.png" ,Kino Polska HD
-https://liveovh010.cda.pl/enc105/kinopolskahdraw/kinopolskahdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/KINO_TV_WERSJE-01.jpg" ,Kino TV
-https://liveovh010.cda.pl/enc110/kinotvhdraw/kinotvhdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/filmax.png" ,Filmax
 https://liveovh010.cda.pl/enc113/filmaxhdraw/filmaxhdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_news.png" ,Polsat News HD
@@ -99,6 +108,8 @@ https://liveovh010.cda.pl/enc120/tvrepublikahdraw/tvrepublikahdraw.mpd
 https://liveovh010.cda.pl/enc015/wpolsceplhdraw/wpolsceplhdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/history_v2.png" ,History HD
 https://liveovh010.cda.pl/enc102/historyhdraw/historyhdraw.mpd
+#EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Nowa_TV.png" ,Nowa TV
+https://s7.vizja.cc/Nowa/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png" ,History 2 HD
 https://liveovh010.cda.pl/enc102/history2hdraw/history2hdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Polsat-viasat-explore-pl.png" ,Polsat Viasat Explore
@@ -107,7 +118,7 @@ https://liveovh010.cda.pl/enc107/polsatviasatexplorehdraw/polsatviasatexplorehdr
 https://liveovh010.cda.pl/enc105/polsatviasathistoryhdraw/polsatviasathistoryhdraw.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Polsat-viasat-nature-pl.png" ,Polsat Viasat Nature
 https://liveovh010.cda.pl/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.mpd
-#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_doku.png" ,Polsat Doku HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsa_doku.png" ,Polsat Doku HD
 https://s7.vizja.cc/PolsatDoku/manifest.mpd
 #EXTINF:-1 group-title="-" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bbc-earth.png" ,BBC Earth
 https://liveovh010.cda.pl/enc126/bbcearthhdraw/bbcearthhdraw.mpd
