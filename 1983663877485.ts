@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=968000,RESOLUTION=576x324,NAME="320p"
-https://raw.githubusercontent.com/lowa8026-cmyk/iptv/refs/heads/main/chunklist-83777826_b6900000.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3128000,RESOLUTION=1024x576,NAME="576p"
-https://raw.githubusercontent.com/lowa8026-cmyk/iptv/refs/heads/main/chunklist-83777826_b6700000.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4992000,RESOLUTION=1920x1080,NAME="1080p"
-https://raw.githubusercontent.com/lowa8026-cmyk/iptv/refs/heads/main/chunklist-83777826_b6500000.m3u8
