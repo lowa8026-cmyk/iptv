@@ -5,5 +5,5 @@ http://cdn-s-lb2.pluscdn.pl/lv/1517831/350/dash/e32e6046/live.mpd
 http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd
 #EXTINF:0, Do jednej bramki odcinek 188
 http://cdn-s-lb2.pluscdn.pl/lv/1520348/356/dash/f4043d71/live.mpd
-#EXTINF:0, Nieznany
-rtmp://a.rtmp.youtube.com/live2
+#EXTINF:0, Polsat 1
+https://rough-unit-d15e.cevol12352.workers.dev/polsat1/index.m3u8
