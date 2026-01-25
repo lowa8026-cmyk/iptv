@@ -1,5 +1,79 @@
 #EXTM3U
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVP1 HD 
-
-#EXTINF:-1 group-title="-" tvg-logo="" ,TVP2 HD
-
+#EXTINF:-1 tvg-logo="" ,TVP 1
+https://cdndai.pl/tvp1hd/manifest.mpd
+#EXTINF:-1 tvg-logo="" ,TVP 2
+https://cdndai.pl/tvp2hd/manifest.mpd
+#EXTINF:-1 tvg-logo="" ,TV Puls
+https://rough-unit-d15e.cevol12352.workers.dev/puls_/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Puls 2
+https://rough-unit-d15e.cevol12352.workers.dev/elevensports_123/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Polsat News
+http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+#EXTINF:-1 tvg-logo="" ,Republika
+https://rough-unit-d15e.cevol12352.workers.dev/jtv6/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Polsat News 2
+http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111082
+#EXTINF:-1 tvg-logo="" ,TVN 24
+https://rough-unit-d15e.cevol12352.workers.dev/tvn24najlepszyt/index.m3u8
+#EXTINF:-1 tvg-logo="" ,TVN 24 BiS
+https://rough-unit-d15e.cevol12352.workers.dev/ldntv/index.m3u8
+#EXTINF:-1 tvg-logo="" ,TVP Info
+#EXTINF:-1 tvg-logo="" ,Canal+ Premium
+#EXTINF:-1 tvg-logo="" ,Canal+ 1
+#EXTINF:-1 tvg-logo="" ,Canal+ Film
+#EXTINF:-1 tvg-logo="" ,Canal+ Seriale
+#EXTINF:-1 tvg-logo="" ,Canal+ 360
+#EXTINF:-1 tvg-logo="" ,Kino Polska
+#EXTINF:-1 tvg-logo="" ,Kino TV
+#EXTINF:-1 tvg-logo="" ,Polsat Film
+#EXTINF:-1 tvg-logo="" ,Polsat Seriale
+#EXTINF:-1 tvg-logo="" ,AXN HD
+#EXTINF:-1 tvg-logo="" ,AXN Black
+#EXTINF:-1 tvg-logo="" ,AXN White
+#EXTINF:-1 tvg-logo="" ,FX
+#EXTINF:-1 tvg-logo="" ,Epic Drama HD
+#EXTINF:-1 tvg-logo="" ,Comedy Central
+#EXTINF:-1 tvg-logo="" ,Polsat Comedy Central Extra
+#EXTINF:-1 tvg-logo="" ,UKRYTA PRAWDA SO-1-E1-88 FAST
+#EXTINF:-1 tvg-logo="" ,Miodowe Lata FAST
+#EXTINF:-1 tvg-logo="" ,DR HOUSE 8 SEZONÓW FAST
+#EXTINF:-1 tvg-logo="" ,Świat Według Kiepskich FAST
+#EXTINF:-1 tvg-logo="" ,13 POSTERUNEK Wszystkie Odcinki FAST
+#EXTINF:-1 tvg-logo="" ,KRÓLOWE ŻYCIA FAST
+#EXTINF:-1 tvg-logo="" ,RODZINKA.PL Wszystkie odcinki FAST
+#EXTINF:-1 tvg-logo="" ,HBO HD
+#EXTINF:-1 tvg-logo="" ,HBO 2 HD
+#EXTINF:-1 tvg-logo="" ,HBO 3 HD
+#EXTINF:-1 tvg-logo="" ,FilmBox Premium HD
+#EXTINF:-1 tvg-logo="" ,13 Ulica
+#EXTINF:-1 tvg-logo="" ,Stopklatka TV
+#EXTINF:-1 tvg-logo="" ,Disney Junior
+#EXTINF:-1 tvg-logo="" ,Disney Channel
+#EXTINF:-1 tvg-logo="" ,Nick Jr.
+#EXTINF:-1 tvg-logo="" ,Nickelodeon
+#EXTINF:-1 tvg-logo="" ,Nicktoons
+#EXTINF:-1 tvg-logo="" ,TVP ABC
+#EXTINF:-1 tvg-logo="" ,4FUN KIDS
+#EXTINF:-1 tvg-logo="" ,Polsat Rodzina HD
+#EXTINF:-1 tvg-logo="" ,WP HD
+#EXTINF:-1 tvg-logo="" ,History HD
+#EXTINF:-1 tvg-logo="" ,History 2
+#EXTINF:-1 tvg-logo="" ,Discovery HD
+#EXTINF:-1 tvg-logo="" ,NAT GEO WILD
+#EXTINF:-1 tvg-logo="" ,TVP Nauka
+#EXTINF:-1 tvg-logo="" ,TVN Style
+#EXTINF:-1 tvg-logo="" ,TVP Kobieta
+#EXTINF:-1 tvg-logo="" ,Polsat Sport Premium 1
+#EXTINF:-1 tvg-logo="" ,Polsat Sport Premium 2
+#EXTINF:-1 tvg-logo="" ,Polsat Sport Extra 1
+#EXTINF:-1 tvg-logo="" ,Eleven Sports 1
+#EXTINF:-1 tvg-logo="" ,Eleven Sports 2
+#EXTINF:-1 tvg-logo="" ,Canal+ Sport
+#EXTINF:-1 tvg-logo="" ,Canal+ Sport 2
+#EXTINF:-1 tvg-logo="" ,Canal+ Sport 4
+#EXTINF:-1 tvg-logo="" ,Canal+ Sport 5
+#EXTINF:-1 tvg-logo="" ,TVP SPORT
+#EXTINF:-1 tvg-logo="" ,RMF FM
+#EXTINF:-1 tvg-logo="" ,RMF CLASSIC
+#EXTINF:-1 tvg-logo="" ,RMF MAXX
+#EXTINF:-1 tvg-logo="" ,VOX FM
