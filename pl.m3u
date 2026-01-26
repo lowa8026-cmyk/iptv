@@ -1,53 +1,53 @@
 ﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/9fe2e1a2c9659a9c3b4f35354b0e35e0.jpg" ,TVP 1
+#EXTINF:-1 tvg-logo="" ,TVP 1
 https://rough-unit-d15e.cevol12352.workers.dev/tvp_1hdtvd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/597267330adc9285af698cc2804e184a.jpg" ,TVP 2
+#EXTINF:-1 tvg-logo="" ,TVP 2
 https://rough-unit-d15e.cevol12352.workers.dev/tvp2_Hdtvts/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/d86d95d9acf586c253384aecde80e134.jpg" ,TV Puls
+#EXTINF:-1 tvg-logo="" ,TV Puls
 https://rough-unit-d15e.cevol12352.workers.dev/pulstv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/6ef16fa711b2fd65fafb16ff1a4c366f.jpg" ,Puls 2
+#EXTINF:-1 tvg-logo="" ,Puls 2
 https://rough-unit-d15e.cevol12352.workers.dev/elevensports_123/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/images/no_video.png" ,Polsat News
+#EXTINF:-1 tvg-logo="" ,Polsat News
 https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/4d3e120792ba004c3ac1c7fd37547040.jpg" ,Republika
+#EXTINF:-1 tvg-logo="" ,Republika
 https://rough-unit-d15e.cevol12352.workers.dev/jtv6/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/d6a6d51de7c087a3cc73af5fc3579ed9.jpg" ,TVN 24
+#EXTINF:-1 tvg-logo="" ,TVN 24
 https://rough-unit-d15e.cevol12352.workers.dev/tvn24najlepszyt/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/ab69a523abe4d16fa90f8e3862f7f1f1.jpg" ,TVN 24 BiS
+#EXTINF:-1 tvg-logo="" ,TVN 24 BiS
 https://rough-unit-d15e.cevol12352.workers.dev/ldntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/6b360c8c49cb405f1eae6ab888e94f46.jpg" ,TVP Info
+#EXTINF:-1 tvg-logo="" ,TVP Info
 https://rough-unit-d15e.cevol12352.workers.dev/informacyjny_polskatvbba/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/e6c4941d4fe5e6c4879b961be8599421.jpg" ,Canal+ Premium
+#EXTINF:-1 tvg-logo="" ,Canal+ Premium
 https://rough-unit-d15e.cevol12352.workers.dev/cpluspremiumtvhd2/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/80dea2935c7bf72c96b5220f02c92c03.jpg" ,Canal+ 1
+#EXTINF:-1 tvg-logo="" ,Canal+ 1
 https://rough-unit-d15e.cevol12352.workers.dev/cplustfvr3/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/8bdcaee1d79497f53637f02193f8ac0f.jpg" ,Canal+ Film
+#EXTINF:-1 tvg-logo="" ,Canal+ Film
 https://rough-unit-d15e.cevol12352.workers.dev/canal_FHDplust/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/eb38f3c8cf8930de7221f9df5466cb7b.jpg" ,Canal+ Seriale
+#EXTINF:-1 tvg-logo="" ,Canal+ Seriale
 https://rough-unit-d15e.cevol12352.workers.dev/axn_blacktvhd2/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/1f71307fd4402e556d900ed07b7a11cd.jpg" ,Kino Polska
+#EXTINF:-1 tvg-logo="" ,Kino Polska
 https://rough-unit-d15e.cevol12352.workers.dev/kino_polska_tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/4ce794284899026df792d77efc6c2174.jpg" ,Kino TV
+#EXTINF:-1 tvg-logo="" ,Kino TV
 https://rough-unit-d15e.cevol12352.workers.dev/filmbox_kinotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/fbdd4304cee46c89d89aefef68ff2b8c.jpg" ,Polsat Film
+#EXTINF:-1 tvg-logo="" ,Polsat Film
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111009
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/362391ace7cbce1f048a8a8878276d13.jpg" ,Polsat Seriale
+#EXTINF:-1 tvg-logo="" ,Polsat Seriale
 https://rough-unit-d15e.cevol12352.workers.dev/tvp_sport_hdtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/e92b8c192bb2659ebfe79881935f7104.jpg" ,AXN HD
+#EXTINF:-1 tvg-logo="" ,AXN HD
 https://rough-unit-d15e.cevol12352.workers.dev/axn_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/11aab0acb26a4a8062d99c872fb6d03a.jpg" ,AXN Black
+#EXTINF:-1 tvg-logo="" ,AXN Black
 https://rough-unit-d15e.cevol12352.workers.dev/disney__xd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/d77b34fefe29cfbbd7304446e7b83d57.jpg" ,AXN White
+#EXTINF:-1 tvg-logo="" ,AXN White
 https://rough-unit-d15e.cevol12352.workers.dev/axnwhite/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/c1f1f7ff1cac612ee8c0f7aa6d361370.jpg" ,TVP Seriale
+#EXTINF:-1 tvg-logo="" ,TVP Seriale
 https://rough-unit-d15e.cevol12352.workers.dev/tv_serial24taws/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/2dc9ab920bc0fe0812121142007b4f29.jpg" ,FX
+#EXTINF:-1 tvg-logo="" ,FX
 https://rough-unit-d15e.cevol12352.workers.dev/fox_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/9e83d4612cc1f25bb8f6c9652415cf21.jpg" ,Epic Drama HD
+#EXTINF:-1 tvg-logo="" ,Epic Drama HD
 https://rough-unit-d15e.cevol12352.workers.dev/fightbox_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/c7ab9dc64b50dc300d65f26c024fc48e.jpg" ,Comedy Central
+#EXTINF:-1 tvg-logo="" ,Comedy Central
 https://rough-unit-d15e.cevol12352.workers.dev/comedycentralpl/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/1081e1b3fee46ac33d1ba75b0438fb0e.jpg" ,Polsat Comedy Central Extra
+#EXTINF:-1 tvg-logo="" ,Polsat Comedy Central Extra
 https://rough-unit-d15e.cevol12352.workers.dev/comedyfamily_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/b5eb1c0207ad9c708041dc1e801f2b2c.jpg" ,UKRYTA PRAWDA SO-1-E1-88 FAST
 https://rough-unit-d15e.cevol12352.workers.dev/tvp_1_hd/index.m3u8
