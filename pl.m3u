@@ -55,11 +55,11 @@ https://rough-unit-d15e.cevol12352.workers.dev/tvp_1_hd/index.m3u8
 https://rough-unit-d15e.cevol12352.workers.dev/miodowelata/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/641cb845d23b26be2e62c16193f11609.jpg" ,DR HOUSE 8 SEZONÓW FAST
 https://rough-unit-d15e.cevol12352.workers.dev/drhousemd24/index.m3u8
-#EXTINF:-1 tvg-logo="" ,Świat Według Kiepskich FAST
+#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/fe6713a42337204ef7bd7df339c48ef0.jpg" ,Świat Według Kiepskich FAST
 https://rough-unit-d15e.cevol12352.workers.dev/kissfmuk/index.m3u8
-#EXTINF:-1 tvg-logo="" ,13 POSTERUNEK Wszystkie Odcinki FAST
+#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/0f1ca0f828e2825a10f3efb9cc71c781.jpg" ,13 POSTERUNEK Wszystkie Odcinki FAST
 https://rough-unit-d15e.cevol12352.workers.dev/13posterunek/index.m3u8
-#EXTINF:-1 tvg-logo="" ,KRÓLOWE ŻYCIA FAST
+#EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/99a72df011af7fc9afa0bf4bb025819d.jpg" ,KRÓLOWE ŻYCIA FAST
 https://rough-unit-d15e.cevol12352.workers.dev/detektywi/index.m3u8
 #EXTINF:-1 tvg-logo="" ,RODZINKA.PL Wszystkie odcinki FAST
 https://rough-unit-d15e.cevol12352.workers.dev/rodzinkapl/index.m3u8
@@ -110,7 +110,7 @@ https://rough-unit-d15e.cevol12352.workers.dev/tvnstyleh/index.m3u8
 #EXTINF:-1 tvg-logo="" ,TVP Kobieta
 https://rough-unit-d15e.cevol12352.workers.dev/zet_gold/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Polsat Sport Premium 1
-https://rough-unit-d15e.cevol12352.workers.dev/pspremium1/index.m3u8
+https://r.dcs.redcdn.pl/livedash/play/playtv/indigo/live/polsat_sport_premium_1/live.livx
 #EXTINF:-1 tvg-logo="" ,Polsat Sport Premium 2
 https://rough-unit-d15e.cevol12352.workers.dev/pspremium2/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Polsat Sport Extra 1
