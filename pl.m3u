@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
 #EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/9fe2e1a2c9659a9c3b4f35354b0e35e0.jpg" ,TVP 1
 https://rough-unit-d15e.cevol12352.workers.dev/tvp_1hdtvd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/597267330adc9285af698cc2804e184a.jpg" ,TVP 2
