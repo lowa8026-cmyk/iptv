@@ -33,6 +33,8 @@ https://rough-unit-d15e.cevol12352.workers.dev/filmbox_kinotv/index.m3u8
 http://tv.xtremetv.eu:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111009
 #EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/362391ace7cbce1f048a8a8878276d13.jpg" ,Polsat Seriale
 https://rough-unit-d15e.cevol12352.workers.dev/tvp_sport_hdtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/iptv-2/refs/heads/main/62cber7kouetyujd77hkoisjtwewoyu83.jpg" ,Polsat 2
+https://s7.vizja.cc/Polsat2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/e92b8c192bb2659ebfe79881935f7104.jpg" ,AXN HD
 https://rough-unit-d15e.cevol12352.workers.dev/axn_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.weeb.tv/logos/11aab0acb26a4a8062d99c872fb6d03a.jpg" ,AXN Black
@@ -110,7 +112,7 @@ https://rough-unit-d15e.cevol12352.workers.dev/tvnstyleh/index.m3u8
 #EXTINF:-1 tvg-logo="" ,TVP Kobieta
 https://rough-unit-d15e.cevol12352.workers.dev/zet_gold/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Polsat Sport Premium 1
-https://r.dcs.redcdn.pl/livedash/play/playtv/indigo/live/polsat_sport_premium_1/live.livx
+https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/PolsatPremium1.m3u8
 #EXTINF:-1 tvg-logo="" ,Polsat Sport Premium 2
 https://rough-unit-d15e.cevol12352.workers.dev/pspremium2/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Polsat Sport Extra 1
