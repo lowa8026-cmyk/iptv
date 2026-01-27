@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:0 tvg-id="TVN HD" tvg-logo="https://r-scale-4a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908473/images/55267668?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN HD
+plugin://plugin.video.vod_pl?mode=playT&cid=1908473
+#EXTINF:0 tvg-id="TVN 7 HD" tvg-logo="https://r-scale-1f.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908474/images/50622682?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN 7 HD
+plugin://plugin.video.vod_pl?mode=playT&cid=1908474
+#EXTINF:0 tvg-id="TVN24 HD" tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57630/images/49770089?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN24 HD
+https://rough-unit-d15e.cevol12352.workers.dev/tvn24najlepszyt/index.m3u8
+#EXTINF:0 tvg-id="TVN24 BiS HD" tvg-logo="https://r-scale-7f.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57633/images/49770097?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN24 BiS HD
+https://rough-unit-d15e.cevol12352.workers.dev/ldntv/index.m3u8
+#EXTINF:0 tvg-id="TTV HD" tvg-logo="https://r-scale-79.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908475/images/49770120?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TTV HD
+plugin://plugin.video.vod_pl?mode=playT&cid=1908475
+#EXTINF:0 tvg-id="TVP 1" tvg-logo="https://r-scale-6e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866669/images/55947096.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 1
+plugin://plugin.video.vod_pl?mode=playT&cid=9866669
+#EXTINF:0 tvg-id="TVP 2" tvg-logo="https://r-scale-a7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866671/images/55947104.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 2
+plugin://plugin.video.vod_pl?mode=playT&cid=9866671
+#EXTINF:0 tvg-id="Polsat" tvg-logo="https://r-scale-14.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/11046756/images/1742552757302/11046756.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,Polsat
+https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:0 tvg-id="TV 4" tvg-logo="https://r-scale-f9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/11046757/images/1742552790198/11046757.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TV 4
+https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+#EXTINF:0 tvg-id="TV Puls" tvg-logo="https://r-scale-0e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9353728/images/55544962?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TV Puls
+https://liveovh010.cda.pl/enc103/tvpulsraw/tvpulsraw.mpd
+#EXTINF:0 tvg-id="EUROSPORT 1 HD" tvg-logo="https://r-scale-a7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57615/images/51618029?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",EUROSPORT 1 HD
+plugin://plugin.video.vod_pl?mode=playT&cid=57615
+#EXTINF:0 tvg-id="EUROSPORT 2 HD" tvg-logo="https://r-scale-0a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57616/images/51618037?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",EUROSPORT 2 HD
+plugin://plugin.video.vod_pl?mode=playT&cid=57616
+#EXTINF:0 tvg-id="TVN Turbo HD" tvg-logo="https://r-scale-79.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57626/images/49769141?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Turbo HD
+https://rough-unit-d15e.cevol12352.workers.dev/turbomaniak_tvhd/index.m3u8
+#EXTINF:0 tvg-id="EUROSPORT 3 HD" tvg-logo="https://r-scale-82.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/12585914/images/1761068066054/12585914.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",EUROSPORT 3 HD
+plugin://plugin.video.vod_pl?mode=playT&cid=12585914
+#EXTINF:0 tvg-id="TVN Style HD" tvg-logo="https://r-scale-d9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57631/images/49770128?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Style HD
+https://rough-unit-d15e.cevol12352.workers.dev/tvnstyleh/index.m3u8
+#EXTINF:0 tvg-id="TVN FabuĹa HD" tvg-logo="https://r-scale-c1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10413549/images/1730190232232/10413549.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN FabuĹa HD
+https://rough-unit-d15e.cevol12352.workers.dev/tvnfabula/index.m3u8
+#EXTINF:0 tvg-id="Metro" tvg-logo="https://r-scale-7a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930752/images/49768977?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Metro
+plugin://plugin.video.vod_pl?mode=playT&cid=2930752
+#EXTINF:0 tvg-id="Food Network" tvg-logo="https://r-scale-a1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930751/images/49768868?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Food Network
+plugin://plugin.video.vod_pl?mode=playT&cid=2930751
+#EXTINF:0 tvg-id="Discovery HD" tvg-logo="https://r-scale-3b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57610/images/49476243?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Discovery HD
+https://rough-unit-d15e.cevol12352.workers.dev/discorrv_HD/index.m3u8
+#EXTINF:0 tvg-id="Discovery Life" tvg-logo="https://r-scale-bc.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930750/images/49768836?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Discovery Life
+plugin://plugin.video.vod_pl?mode=playT&cid=2930750
+#EXTINF:0 tvg-id="Animal Planet" tvg-logo="https://r-scale-b6.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930755/images/49768828?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Animal Planet
+plugin://plugin.video.vod_pl?mode=playT&cid=2930755
+#EXTINF:0 tvg-id="Travel Channel" tvg-logo="https://r-scale-ff.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930753/images/49769040?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Travel Channel
+plugin://plugin.video.vod_pl?mode=playT&cid=2930753
+#EXTINF:0 tvg-id="Discovery Historia" tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930756/images/48881724?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Discovery Historia
+plugin://plugin.video.vod_pl?mode=playT&cid=2930756
+#EXTINF:0 tvg-id="Discovery Science" tvg-logo="https://r-scale-dd.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930757/images/49769024?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Discovery Science
+plugin://plugin.video.vod_pl?mode=playT&cid=2930757
+#EXTINF:0 tvg-id="Investigation Discovery" tvg-logo="https://r-scale-4d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930759/images/49786459?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Investigation Discovery
+https://rough-unit-d15e.cevol12352.workers.dev/nat_geo_peopletvt/index.m3u8
+#EXTINF:0 tvg-id="HGTV" tvg-logo="https://r-scale-82.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57590/images/49768876?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",HGTV
+https://rough-unit-d15e.cevol12352.workers.dev/klasykatvh/index.m3u8
+#EXTINF:0 tvg-id="TLC HD" tvg-logo="https://r-scale-b0.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57613/images/49769032?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TLC HD
+plugin://plugin.video.vod_pl?mode=playT&cid=57613
+#EXTINF:0 tvg-id="DTX" tvg-logo="https://r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930758/images/49768844?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",DTX
+plugin://plugin.video.vod_pl?mode=playT&cid=2930758
+#EXTINF:0 tvg-id="Cartoon Network HD" tvg-logo="https://r-scale-78.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330165/images/52496620?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Cartoon Network HD
+plugin://plugin.video.vod_pl?mode=playT&cid=6330165
+#EXTINF:0 tvg-id="Cinemax 2 HD" tvg-logo="https://r-scale-ff.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330169/images/52502615?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Cinemax 2 HD
+plugin://plugin.video.vod_pl?mode=playT&cid=6330169
+#EXTINF:0 tvg-id="Cinemax HD" tvg-logo="https://r-scale-fd.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330168/images/52502502?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Cinemax HD
+plugin://plugin.video.vod_pl?mode=playT&cid=6330168
+#EXTINF:0 tvg-id="MiniMini+ HD" tvg-logo="https://pl.canalplus.com/resources/icons/CANALMiniMini.png" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",MiniMini+ HD
+https://rough-unit-d15e.cevol12352.workers.dev/miniplus_hd3/index.m3u8
+#EXTINF:0 tvg-id="Teletoon+ HD" tvg-logo="https://pl.canalplus.com/resources/icons/CANALTeletoon.png" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Teletoon+ HD
+https://rough-unit-d15e.cevol12352.workers.dev/teletoon/index.m3u8
+#EXTINF:0 tvg-id="Cartoonito HD" tvg-logo="https://r-scale-db.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330166/images/52496636?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Cartoonito HD
+plugin://plugin.video.vod_pl?mode=playT&cid=6330166
+#EXTINF:0 tvg-id="CNN HD" tvg-logo="https://r-scale-c9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330167/images/52502449?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",CNN HD
+plugin://plugin.video.vod_pl?mode=playT&cid=6330167
+#EXTINF:0 tvg-id="Warner TV HD" tvg-logo="https://r-scale-6d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330170/images/52496628?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Warner TV HD
+https://s6.vizja.cc/WarnerTV/index.m3u8
+#EXTINF:0 tvg-id="Romance TV HD" tvg-logo="https://r-scale-b5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330171/images/52496644?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",Romance TV HD
+https://liveovh010.cda.pl/enc116/romancetvhdraw/romancetvhdraw.mpd
+#EXTINF:0 tvg-id="Eleven Sports 1 HD" tvg-logo="https://r-scale-4e.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266427.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 1 HD
+plugin://plugin.video.vod_pl?mode=playT&cid=57594
+#EXTINF:0 tvg-id="Eleven Sports 2 HD" tvg-logo="https://r-scale-f1.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266429.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 2 HD
+https://rough-unit-d15e.cevol12352.workers.dev/elevenspo2/index.m3u8
+#EXTINF:0 tvg-id="Eleven Sports 3 HD" tvg-logo="https://r-scale-0a.dcs.redcdn.pl/scale/o2/nPG/logo/logotype_266431.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 3 HD
+plugin://plugin.video.vod_pl?mode=playT&cid=57605
+#EXTINF:0 tvg-id="Eleven Sports 4 HD" tvg-logo="https://r-scale-70.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266433.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 4 HD
+plugin://plugin.video.vod_pl?mode=playT&cid=113229
+#EXTINF:0 tvg-id="CANAL+ PREMIUM HD" tvg-logo="https://r-scale-0e.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_815964.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ PREMIUM HD
+https://rough-unit-d15e.cevol12352.workers.dev/cpluspremiumtvhd2/index.m3u8
+#EXTINF:0 tvg-id="CANAL+ 1 HD" tvg-logo="https://r-scale-4d.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250293.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ 1 HD
+https://rough-unit-d15e.cevol12352.workers.dev/cplustfvr3/index.m3u8
+#EXTINF:0 tvg-id="CANAL+ FILM HD" tvg-logo="https://r-scale-cc.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250303.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ FILM HD
+plugin://plugin.video.vod_pl?mode=playT&cid=57598
+#EXTINF:0 tvg-id="CANAL+ SERIALE HD" tvg-logo="https://r-scale-bb.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250308.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ SERIALE HD
+https://rough-unit-d15e.cevol12352.workers.dev/axn_blacktvhd2/index.m3u8
+#EXTINF:0 tvg-id="CANAL+ 360" tvg-logo="https://r-scale-ab.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_1329087.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ 360
+plugin://plugin.video.vod_pl?mode=playT&cid=5899827
+#EXTINF:0 tvg-id="CANAL+ DOKUMENT HD" tvg-logo="https://r-scale-08.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_558307.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ DOKUMENT HD
+plugin://plugin.video.vod_pl?mode=playT&cid=57617
+#EXTINF:0 tvg-id="CANAL+ EXTRA 1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/200x150/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22308/ncplus-ouah/CHN43FN/c1-sbu2" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ EXTRA 1 HD
+https://rough-unit-d15e.cevol12352.workers.dev/hbo_3_3/index.m3u8
+#EXTINF:0 tvg-id="CANAL+ EXTRA 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/200x150/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22302/ncplus-ouah/CHN43FN/c2-4Ht6" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ EXTRA 2 HD
+https://rough-unit-d15e.cevol12352.workers.dev/canalplusextra2/index.m3u8
+#EXTINF:0 tvg-id="CANAL+ EXTRA 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/200x150/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22303/ncplus-ouah/CHN43FN/c3-KNoY" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ EXTRA 3 HD
+https://rough-unit-d15e.cevol12352.workers.dev/canalplusextra3/index.m3u8
+#EXTINF:0 tvg-id="CANAL+ EXTRA 4 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/200x150/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22304/ncplus-ouah/CHN43FN/c4-b0Rx" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ EXTRA 4 HD
+https://rough-unit-d15e.cevol12352.workers.dev/canalplusextra4/index.m3u8
+#EXTINF:0 tvg-id="CANAL+ EXTRA 5 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/200x150/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22305/ncplus-ouah/CHN43FN/c5-Uy7G" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ EXTRA 5 HD
+https://rough-unit-d15e.cevol12352.workers.dev/canalplusextra5/index.m3u8
+#EXTINF:0 tvg-id="CANAL+ EXTRA 6 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/200x150/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22306/ncplus-ouah/CHN43FN/c6-hoTY" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ EXTRA 6 HD
+https://rough-unit-d15e.cevol12352.workers.dev/canalplusextra6/index.m3u8
+#EXTINF:0 tvg-id="CANAL+ EXTRA 7 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/200x150/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22307/ncplus-ouah/CHN43FN/c7-Mn7e" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ EXTRA 7 HD
+https://rough-unit-d15e.cevol12352.workers.dev/canalplusextra7/index.m3u8
+#EXTINF:0 tvg-id="CANAL+ SPORT HD" tvg-logo="https://r-scale-bc.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250322.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ SPORT HD
+plugin://plugin.video.vod_pl?mode=playT&cid=57595
+#EXTINF:0 tvg-id="CANAL+ SPORT 2 HD" tvg-logo="https://r-scale-0e.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250325.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ SPORT 2 HD
+plugin://plugin.video.vod_pl?mode=playT&cid=57614
+#EXTINF:0 tvg-id="CANAL+ SPORT 3 HD" tvg-logo="https://r-scale-d1.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_575902.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ SPORT 3 HD
+plugin://plugin.video.vod_pl?mode=playT&cid=1960975
+#EXTINF:0 tvg-id="CANAL+ SPORT 4 HD" tvg-logo="https://r-scale-63.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_575905.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ SPORT 4 HD
+plugin://plugin.video.vod_pl?mode=playT&cid=1960976
+#EXTINF:0 tvg-id="CANAL+ Now HD" tvg-logo="https://r-scale-87.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_251967.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ Now HD
+plugin://plugin.video.vod_pl?mode=playT&cid=57621
+#EXTINF:0 tvg-id="MOTOWIZJA" tvg-logo="https://r-scale-b9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/101381/images/49769016?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="1" catchup-correction="0.0",MOTOWIZJA
+https://liveovh010.cda.pl/enc116/motowizjahdraw/motowizjahdraw.mpd
+#EXTINF:0 tvg-id="ITVN HD" tvg-logo="https://r-scale-16.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1381580/images/49770136?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,ITVN HD
+plugin://plugin.video.vod_pl?mode=playT&cid=1381580
+#EXTINF:0 tvg-id="ITVN Extra HD" tvg-logo="https://r-scale-e4.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1381583/images/49770144?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,ITVN Extra HD
+plugin://plugin.video.vod_pl?mode=playT&cid=1381583
+#EXTINF:0 tvg-id="TVN24 HD International" tvg-logo="https://r-scale-70.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1381584/images/49768961?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN24 HD International
+plugin://plugin.video.vod_pl?mode=playT&cid=1381584
+#EXTINF:0 tvg-id="TVN Rewolucje w Kuchni Online" tvg-logo="https://r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Rewolucje w Kuchni Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759890
+#EXTINF:0 tvg-id="TVN Momenty Prawdy Online" tvg-logo="https://r-scale-63.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759880/images/55090798?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Momenty Prawdy Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759880
+#EXTINF:0 tvg-id="TVN Brzydula Online" tvg-logo="https://r-scale-80.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/11500386/images/1745313604930/11500386.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Brzydula Online
+plugin://plugin.video.vod_pl?mode=playT&cid=11500386
+#EXTINF:0 tvg-id="TVN Kryminalnie Online" tvg-logo="https://r-scale-f5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759884/images/55089509?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Kryminalnie Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759884
+#EXTINF:0 tvg-id="TVN Czas na Ĺlub Online" tvg-logo="https://r-scale-de.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10195811/images/1726482236217/10195811.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Czas na Ĺlub Online
+plugin://plugin.video.vod_pl?mode=playT&cid=10195811
+#EXTINF:0 tvg-id="TVN Mam Talent Online" tvg-logo="https://r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/11500387/images/1745313557780/11500387.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Mam Talent Online
+plugin://plugin.video.vod_pl?mode=playT&cid=11500387
+#EXTINF:0 tvg-id="TVN Milionerzy Online" tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9083862/images/55311976?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Milionerzy Online
+plugin://plugin.video.vod_pl?mode=playT&cid=9083862
+#EXTINF:0 tvg-id="TVN Kulinarne PodrĂłĹźe Online" tvg-logo="https://r-scale-30.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10195812/images/1726482205267/10195812.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Kulinarne PodrĂłĹźe Online
+plugin://plugin.video.vod_pl?mode=playT&cid=10195812
+#EXTINF:0 tvg-id="TVN Kultowe Seriale Online" tvg-logo="https://r-scale-d5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759882/images/55089347?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Kultowe Seriale Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759882
+#EXTINF:0 tvg-id="TVN Patrol Online" tvg-logo="https://r-scale-47.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10195810/images/1726480663777/10195810.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Patrol Online
+plugin://plugin.video.vod_pl?mode=playT&cid=10195810
+#EXTINF:0 tvg-id="TVN Rajska MiĹoĹÄ Online" tvg-logo="https://r-scale-2d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759881/images/55090849?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Rajska MiĹoĹÄ Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759881
+#EXTINF:0 tvg-id="TVN Telenowele Online" tvg-logo="https://r-scale-0c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759887/images/55089677?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Telenowele Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759887
+#EXTINF:0 tvg-id="TVN Pora na Show Online" tvg-logo="https://r-scale-84.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9474311/images/55566345.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Pora na Show Online
+plugin://plugin.video.vod_pl?mode=playT&cid=9474311
+#EXTINF:0 tvg-id="TVN Ĺťycie Jak w Bajce Online" tvg-logo="https://r-scale-eb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759891/images/55090792?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Ĺťycie Jak w Bajce Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759891
+#EXTINF:0 tvg-id="TVN Talk Show Online" tvg-logo="https://r-scale-49.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759886/images/55089641?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Talk Show Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759886
+#EXTINF:0 tvg-id="TVN Szpitalne Historie Online" tvg-logo="https://r-scale-45.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759892/images/55080443?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Szpitalne Historie Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759892
+#EXTINF:0 tvg-id="TVN SzkoĹa Ĺťycia Online" tvg-logo="https://r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759893/images/55089326?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN SzkoĹa Ĺťycia Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759893
+#EXTINF:0 tvg-id="TVN Seriale o Kobietach Online" tvg-logo="https://r-scale-e7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759888/images/55089743?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Seriale o Kobietach Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759888
+#EXTINF:0 tvg-id="TVN W Domu Online" tvg-logo="https://r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759889/images/55090765?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN W Domu Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759889
+#EXTINF:0 tvg-id="TVN Moto Online" tvg-logo="https://r-scale-6b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759883/images/55089488?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Moto Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759883
+#EXTINF:0 tvg-id="TVN Usterka Online" tvg-logo="https://r-scale-34.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759885/images/55089575?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Usterka Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759885
+#EXTINF:0 tvg-id="TVN Prawo i Ĺťycie Online" tvg-logo="https://r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759879/images/55090885?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Prawo i Ĺťycie Online
+plugin://plugin.video.vod_pl?mode=playT&cid=8759879
+#EXTINF:0 tvg-id="TVP 3 BiaĹystok" tvg-logo="https://r-scale-a5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866672/images/55947113.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 BiaĹystok
+plugin://plugin.video.vod_pl?mode=playT&cid=9866672
+#EXTINF:0 tvg-id="TVP 3 Bydgoszcz" tvg-logo="https://r-scale-c6.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866673/images/55947121.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 Bydgoszcz
+plugin://plugin.video.vod_pl?mode=playT&cid=9866673
+#EXTINF:0 tvg-id="TVP 3 GdaĹsk" tvg-logo="https://r-scale-9f.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866674/images/55947129.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 GdaĹsk
+plugin://plugin.video.vod_pl?mode=playT&cid=9866674
+#EXTINF:0 tvg-id="TVP 3 GorzĂłw" tvg-logo="https://r-scale-74.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866675/images/55947137.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 GorzĂłw
+plugin://plugin.video.vod_pl?mode=playT&cid=9866675
+#EXTINF:0 tvg-id="TVP 3 Katowice" tvg-logo="https://r-scale-68.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866676/images/55947145.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 Katowice
+plugin://plugin.video.vod_pl?mode=playT&cid=9866676
+#EXTINF:0 tvg-id="TVP 3 Kielce" tvg-logo="https://r-scale-b3.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866677/images/55947153.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 Kielce
+plugin://plugin.video.vod_pl?mode=playT&cid=9866677
+#EXTINF:0 tvg-id="TVP 3 KrakĂłw" tvg-logo="https://r-scale-03.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866678/images/55947161.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 KrakĂłw
+plugin://plugin.video.vod_pl?mode=playT&cid=9866678
+#EXTINF:0 tvg-id="TVP 3 Lublin" tvg-logo="https://r-scale-ac.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866679/images/55947169.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 Lublin
+plugin://plugin.video.vod_pl?mode=playT&cid=9866679
+#EXTINF:0 tvg-id="TVP 3 ĹĂłdĹş" tvg-logo="https://r-scale-be.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866680/images/55947177.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 ĹĂłdĹş
+plugin://plugin.video.vod_pl?mode=playT&cid=9866680
+#EXTINF:0 tvg-id="TVP 3 Olsztyn" tvg-logo="https://r-scale-ff.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866775/images/55947185.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 Olsztyn
+plugin://plugin.video.vod_pl?mode=playT&cid=9866775
+#EXTINF:0 tvg-id="TVP 3 Opole" tvg-logo="https://r-scale-ad.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866811/images/55947193.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 Opole
+plugin://plugin.video.vod_pl?mode=playT&cid=9866811
+#EXTINF:0 tvg-id="TVP 3 PoznaĹ" tvg-logo="https://r-scale-27.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866858/images/55947201.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 PoznaĹ
+plugin://plugin.video.vod_pl?mode=playT&cid=9866858
+#EXTINF:0 tvg-id="TVP 3 RzeszĂłw" tvg-logo="https://r-scale-21.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866896/images/55947209.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 RzeszĂłw
+plugin://plugin.video.vod_pl?mode=playT&cid=9866896
+#EXTINF:0 tvg-id="TVP 3 Szczecin" tvg-logo="https://r-scale-b4.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866957/images/55947217.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 Szczecin
+plugin://plugin.video.vod_pl?mode=playT&cid=9866957
+#EXTINF:0 tvg-id="TVP 3 Warszawa" tvg-logo="https://r-scale-c1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9867021/images/55947225.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 Warszawa
+plugin://plugin.video.vod_pl?mode=playT&cid=9867021
+#EXTINF:0 tvg-id="TVP 3 WrocĹaw" tvg-logo="https://r-scale-e0.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9867051/images/55947233.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVP 3 WrocĹaw
+plugin://plugin.video.vod_pl?mode=playT&cid=9867051
