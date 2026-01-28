@@ -29,7 +29,7 @@ https://rough-unit-d15e.cevol12352.workers.dev/turbomaniak_tvhd/index.m3u8
 plugin://plugin.video.vod_pl?mode=playT&cid=12585914
 #EXTINF:0 tvg-id="TVN Style HD" tvg-logo="https://r-scale-d9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57631/images/49770128?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Style HD
 https://rough-unit-d15e.cevol12352.workers.dev/tvnstyleh/index.m3u8
-#EXTINF:0 tvg-id="TVN FabuĹa HD" tvg-logo="https://r-scale-c1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10413549/images/1730190232232/10413549.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN FabuĹa HD
+#EXTINF:0 tvg-id="TVN Fabuła HD" tvg-logo="https://r-scale-c1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10413549/images/1730190232232/10413549.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN FabuĹa HD
 https://rough-unit-d15e.cevol12352.workers.dev/tvnfabula/index.m3u8
 #EXTINF:0 tvg-id="Metro" tvg-logo="https://r-scale-7a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930752/images/49768977?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Metro
 plugin://plugin.video.vod_pl?mode=playT&cid=2930752
@@ -77,7 +77,7 @@ https://liveovh010.cda.pl/enc116/romancetvhdraw/romancetvhdraw.mpd
 plugin://plugin.video.vod_pl?mode=playT&cid=57594
 #EXTINF:0 tvg-id="Eleven Sports 2 HD" tvg-logo="https://r-scale-f1.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266429.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 2 HD
 https://rough-unit-d15e.cevol12352.workers.dev/elevenspo2/index.m3u8
-#EXTINF:0 tvg-id="Eleven Sports 3 HD" tvg-logo="https://r-scale-0a.dcs.redcdn.pl/scale/o2/nPG/logo/logotype_266431.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 3 HD
+#EXTINF:0 tvg-id="Eleven Sports 3 HD" tvg-logo="https://r-scale-0a.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266431.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 3 HD
 plugin://plugin.video.vod_pl?mode=playT&cid=57605
 #EXTINF:0 tvg-id="Eleven Sports 4 HD" tvg-logo="https://r-scale-70.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266433.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 4 HD
 plugin://plugin.video.vod_pl?mode=playT&cid=113229
@@ -139,7 +139,7 @@ plugin://plugin.video.vod_pl?mode=playT&cid=10195811
 plugin://plugin.video.vod_pl?mode=playT&cid=11500387
 #EXTINF:0 tvg-id="TVN Milionerzy Online" tvg-logo="https://r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9083862/images/55311976?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Milionerzy Online
 plugin://plugin.video.vod_pl?mode=playT&cid=9083862
-#EXTINF:0 tvg-id="TVN Kulinarne PodrĂłĹźe Online" tvg-logo="https://r-scale-30.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10195812/images/1726482205267/10195812.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Kulinarne PodrĂłĹźe Online
+#EXTINF:0 tvg-id="TVN Kulinarne Podróże Online" tvg-logo="https://r-scale-30.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10195812/images/1726482205267/10195812.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Kulinarne PodrĂłĹźe Online
 plugin://plugin.video.vod_pl?mode=playT&cid=10195812
 #EXTINF:0 tvg-id="TVN Kultowe Seriale Online" tvg-logo="https://r-scale-d5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759882/images/55089347?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Kultowe Seriale Online
 plugin://plugin.video.vod_pl?mode=playT&cid=8759882
@@ -157,7 +157,7 @@ plugin://plugin.video.vod_pl?mode=playT&cid=8759891
 plugin://plugin.video.vod_pl?mode=playT&cid=8759886
 #EXTINF:0 tvg-id="TVN Szpitalne Historie Online" tvg-logo="https://r-scale-45.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759892/images/55080443?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Szpitalne Historie Online
 plugin://plugin.video.vod_pl?mode=playT&cid=8759892
-#EXTINF:0 tvg-id="TVN SzkoĹa Ĺťycia Online" tvg-logo="https://r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759893/images/55089326?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN SzkoĹa Ĺťycia Online
+#EXTINF:0 tvg-id="TVN Szkoła Źycia Online" tvg-logo="https://r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759893/images/55089326?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN SzkoĹa Ĺťycia Online
 plugin://plugin.video.vod_pl?mode=playT&cid=8759893
 #EXTINF:0 tvg-id="TVN Seriale o Kobietach Online" tvg-logo="https://r-scale-e7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759888/images/55089743?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Seriale o Kobietach Online
 plugin://plugin.video.vod_pl?mode=playT&cid=8759888
