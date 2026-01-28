@@ -29,7 +29,7 @@ https://rough-unit-d15e.cevol12352.workers.dev/turbomaniak_tvhd/index.m3u8
 plugin://plugin.video.vod_pl?mode=playT&cid=12585914
 #EXTINF:0 tvg-id="TVN Style HD" tvg-logo="https://r-scale-d9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57631/images/49770128?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Style HD
 https://rough-unit-d15e.cevol12352.workers.dev/tvnstyleh/index.m3u8
-#EXTINF:0 tvg-id="TVN Fabuła HD" tvg-logo="https://r-scale-c1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10413549/images/1730190232232/10413549.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Fabuła HD
+#EXTINF:0 tvg-id="TVN Fabula HD" tvg-logo="https://r-scale-c1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10413549/images/1730190232232/10413549.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" ,TVN Fabula HD
 https://rough-unit-d15e.cevol12352.workers.dev/tvnfabula/index.m3u8
 #EXTINF:0 tvg-id="Metro" tvg-logo="https://r-scale-7a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930752/images/49768977?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="VODpl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Metro
 plugin://plugin.video.vod_pl?mode=playT&cid=2930752
