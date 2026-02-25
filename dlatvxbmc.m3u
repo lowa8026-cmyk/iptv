@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0, TVP 1
-http://cdndai.pl/tvp2hd/index.m3u8
+https://cdndai.pl/tvp2hd/index.m3u8
 #EXTINF:0, TVP 2
-http://cdndai.pl/tvp2hd/index.m3u8
+https://cdndai.pl/tvp2hd/index.m3u8
 #EXTINF:0, TVP INFO
 http://78.130.250.2:8023/play/a03b/index.m3u8
 #EXTINF:0, TV Kujawy
@@ -12,12 +12,12 @@ http://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:0, Puls
 rtsp://publish.001.wlacz.tv:1935/live/puls.stream
 #EXTINF:0, 4Fun.TV
-http://stream.4fun.tv:8888/hls/4f.m3u8
+https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:0, TVS
 http://78.130.250.2:8023/play/a039/index.m3u8
 #EXTINF:0, Tele 5
 http://78.130.250.2:8023/play/a05s/index.m3u8
 #EXTINF:0, Regionalna Lubin
-http://tvreg.klemit.net/regionalna/stream/index.m3u8
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
 #EXTINF:0, Republika
-http://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc120/tvrepublikahdraw/tvrepublikahdraw.mpd
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc120/tvrepublikahdraw/tvrepublikahdraw.mpd
