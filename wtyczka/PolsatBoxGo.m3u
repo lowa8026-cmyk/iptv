@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Polsat" tvg-logo="https://ipla-e1-82.pluscdn.pl/p/cms_thumbnails/sn/snzh1wk9rdqcas15i2xfu5v4d4qyr1ub.png" group-title="Ogólny",Polsat
+https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:-1 tvg-id="TV4" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/1v/1vjyi44css23o17yneooo293a9pvfrqh.jpg" group-title="Ogólny",TV4
+https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+#EXTINF:-1 tvg-id="TVP 1" tvg-logo="https://ipla-e1-92.pluscdn.pl/img/p/gCUmug8LwSjS/1920x1080/p/cms_thumbnails/v8/v82kbv85qkkcuiiyj881w3ydpn6k5zyq.png" group-title="Ogólny",TVP 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2b0c851479874bd48e26b96d45ac9909:908d2e37b3d81ec33f39180a5d5f7423
+https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd
+#EXTINF:-1 tvg-id="TVP 2" tvg-logo="https://ipla-e2-49.pluscdn.pl/img/p/meMkmdduQ5nj/1920x1080/p/cms_thumbnails/z2/z2fumgfqjzyhhrqte69rovtbxcxox4un.png" group-title="Ogólny",TVP 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1d7846e008204a74b33170dfdc6ca809:3206d85a3b10b49dbfbf3da758b74606
+https://cdn-s-lb2.pluscdn.pl/ch/1565225/2357/dash/1c8a6b65/live.mpd
+#EXTINF:-1 tvg-id="Polsat News HD" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/mo/mob8g9yu86xwcxh6dvrbbam16fgzt9m4.png" group-title="News",Polsat News HD
+https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
