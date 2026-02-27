@@ -14,6 +14,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1565225/2357/dash/1c8a6b65/live.mpd
 #EXTINF:-1 tvg-id="Polsat News HD" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/mo/mob8g9yu86xwcxh6dvrbbam16fgzt9m4.png" group-title="News",Polsat News HD
 https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 tvg-id="Polsat News Polityka" tvg-logo="https://ipla-e2-41.pluscdn.pl/p/cms_thumbnails/3w/3wx1iiqd96cio6bd4menc8wcmj62md2x.png" group-title="News",Polsat News Polityka
+https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 #EXTINF:-1 tvg-id="Polsat News 2" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/2i/2iv48f5qtnbsq183y4wouyp6ou732tzn.png" group-title="News",Polsat News 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b5426414abac4882a496eda5e4874409:21bea316ac7f46877d94d67169a1cd2b
@@ -23,9 +24,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1442864/5/dash/e7f4555f/live.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7129e7bfa9934d21a7f6e8219a7b8809:58054f2150c93f2cef4466ba495344bb
 https://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
 #EXTINF:-1 tvg-id="Polsat Sport 1" tvg-logo="https://ipla-e2-48.pluscdn.pl/p/cms_thumbnails/ki/kiz7zg7w4e85s1kakh762i1vdst72vw5.png" group-title="Sport",Polsat Sport 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
-https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
+https://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
 #EXTINF:-1 tvg-id="Polsat Sport 2" tvg-logo="https://ipla-e2-45.pluscdn.pl/p/cms_thumbnails/a5/a543gt4j6ebf5ze5b2tv8q5ebpk6a9k9.png" group-title="Sport",Polsat Sport 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
