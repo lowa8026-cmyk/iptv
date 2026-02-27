@@ -103,3 +103,11 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454393/32/dash/9a1beff9/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9a04985b643f0b6198a5196f6c913762
 https://cdn-s-lb2.pluscdn.pl/ch/1442744/3/dash/a697706a/live.mpd
+#EXTINF:-1 tvg-id="Eska TV" tvg-logo="" group-title="Muzyczny",Eska TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74c67d5d30514410b168d630bc252b09:00dbb86aa3ea543e13f49fa42ab4c0a8
+https://cdn-s-lb2.pluscdn.pl/ch/1454631/52/dash/01dc04d1/live.mpd
+#EXTINF:-1 tvg-id="Polo TV" tvg-logo="" group-title="Muzyczny",Polo TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|86cf6197c55646e09b31767050f2bd09:69f7edd4fb1e35dc3f2f530478cb9a20
+https://cdn-s-lb2.pluscdn.pl/ch/1454602/38/dash/513045fc/live.mpd
