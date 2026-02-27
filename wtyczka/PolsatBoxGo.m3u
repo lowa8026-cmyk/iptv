@@ -14,94 +14,93 @@ https://cdn-s-lb2.pluscdn.pl/ch/1565225/2357/dash/1c8a6b65/live.mpd
 #EXTINF:-1 tvg-id="Polsat News HD" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/mo/mob8g9yu86xwcxh6dvrbbam16fgzt9m4.png" group-title="News",Polsat News HD
 https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 tvg-id="Polsat News Polityka" tvg-logo="https://ipla-e2-41.pluscdn.pl/p/cms_thumbnails/3w/3wx1iiqd96cio6bd4menc8wcmj62md2x.png" group-title="News",Polsat News Polityka
-https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
-#EXTINF:-1 tvg-id="Polsat News 2" tvg-logo="" group-title="News",Polsat News 2
+#EXTINF:-1 tvg-id="Polsat News 2" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/2i/2iv48f5qtnbsq183y4wouyp6ou732tzn.png" group-title="News",Polsat News 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b5426414abac4882a496eda5e4874409:21bea316ac7f46877d94d67169a1cd2b
 https://cdn-s-lb2.pluscdn.pl/ch/1442864/5/dash/e7f4555f/live.mpd
-#EXTINF:-1 tvg-id="POLSAT 2 HD" tvg-logo="Ogólny" group-title="",POLSAT 2 HD
+#EXTINF:-1 tvg-id="POLSAT 2 HD" tvg-logo="https://ipla-e2-20.pluscdn.pl/p/cms_thumbnails/25/25d58m33m5eebdhi4ivnn6emxkztvg9m.png" group-title="Ogólny",POLSAT 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7129e7bfa9934d21a7f6e8219a7b8809:58054f2150c93f2cef4466ba495344bb
 https://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport 1" tvg-logo="" group-title="Sport",Polsat Sport 1
+#EXTINF:-1 tvg-id="Polsat Sport 1" tvg-logo="https://ipla-e2-48.pluscdn.pl/p/cms_thumbnails/ki/kiz7zg7w4e85s1kakh762i1vdst72vw5.png" group-title="Sport",Polsat Sport 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
 https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport 2" tvg-logo="" group-title="Sport",Polsat Sport 2
+#EXTINF:-1 tvg-id="Polsat Sport 2" tvg-logo="https://ipla-e2-45.pluscdn.pl/p/cms_thumbnails/a5/a543gt4j6ebf5ze5b2tv8q5ebpk6a9k9.png" group-title="Sport",Polsat Sport 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
 https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport 3" tvg-logo="" group-title="Sport",Polsat Sport 3
+#EXTINF:-1 tvg-id="Polsat Sport 3" tvg-logo="https://ipla-e2-49.pluscdn.pl/p/cms_thumbnails/7q/7qqi5nggb417w5jkh6g7c8zcwe5kbyex.png" group-title="Sport",Polsat Sport 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|50df829b092f462ab7ccb30199969f09:a9d1069c93b5a60e07c7f7a3985f2d73
 https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport Fight HD" tvg-logo="" group-title="Sport",Polsat Sport Fight HD
+#EXTINF:-1 tvg-id="Polsat Sport Fight HD" tvg-logo="https://ipla-e1-82.pluscdn.pl/p/cms_thumbnails/97/97khvj3emc1kpgus8xqet2v9v3s74pat.png" group-title="Sport",Polsat Sport Fight HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|39b61633fdd04e43a3485d3c5ddd1109:6914f88aa49c2edeacc2c876a7fc108f
 https://cdn-s-lb2.pluscdn.pl/ch/1455746/97/dash/0dd0a424/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-logo="" group-title="Sport",Polsat Sport Premium 1
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-logo="https://ipla-e2-42.pluscdn.pl/img/p/kxeBSwNLSqrp/1366x768/p/cms_thumbnails/sj/sjvf2kmh7xschbu9qnzhxbrsb1nzewwz.png" group-title="Sport",Polsat Sport Premium 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|76219dada1bc47a8a76e67a8c442e109:b558b02fbad373c38233d9ba517384cc
 https://cdn-s-lb2.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-logo="" group-title="Sport",Polsat Sport Premium 2
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-logo="https://ipla-e2-49.pluscdn.pl/img/p/ipITQShL6cmn/1920x1080/p/cms_thumbnails/sa/sap5r5ubru9bpr2piaq98n412aqsxe48.png" group-title="Sport",Polsat Sport Premium 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0e7abe8060df4ab785ceea28d110eb09:98d7dcf0fa72b28e6e4a9c24ae667eb0
 https://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport Extra 1" tvg-logo="" group-title="Sport",Polsat Sport Extra 1
+#EXTINF:-1 tvg-id="Polsat Sport Extra 1" tvg-logo="https://ipla-e1-90.pluscdn.pl/img/p/hMGqchSC6Sr4/1366x768/p/cms_thumbnails/5t/5tr8e1w1axf2kcyk8z6f1d25yfgrs2cx.png" group-title="Sport",Polsat Sport Extra 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|75ab22686ce14b5b93b5e9b3a29b9f09:3dde7beb8f9e9540be9918aa228e774e
 https://cdn-s-lb2.pluscdn.pl/ch/1493654/280/dash/100ae2f2/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport Extra 2" tvg-logo="" group-title="Sport",Polsat Sport Extra 2
+#EXTINF:-1 tvg-id="Polsat Sport Extra 2" tvg-logo="https://ipla-e1-76.pluscdn.pl/img/p/Ix6ltvvZb0j1/1920x1080/p/cms_thumbnails/vy/vydu9ceitr2cms4oc4fvrr625fzb1ykn.png" group-title="Sport",Polsat Sport Extra 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2b6b0c0bbb7a4f98875388cba0d3e409:02a73f49bdc17d24b7f57279be1ab7ad
 https://cdn-s-lb2.pluscdn.pl/ch/1493864/281/dash/4ae5858e/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport Extra 3" tvg-logo="" group-title="Sport",Polsat Sport Extra 3
+#EXTINF:-1 tvg-id="Polsat Sport Extra 3" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/8s/8sqhrvwrdyfoqk4q9z1ea832cdq5gg2v.png" group-title="Sport",Polsat Sport Extra 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7ed9362c38c0495d8a44af6ef1df5609:edb0583c9aea406a813dc4ea57681d97
 https://cdn-s-lb2.pluscdn.pl/ch/1493865/282/dash/c1f7992e/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport Extra 4" tvg-logo="" group-title="Sport",Polsat Sport Extra 4
+#EXTINF:-1 tvg-id="Polsat Sport Extra 4" tvg-logo="https://ipla-e1-79.pluscdn.pl/img/p/Eebh9yYOrpnd/1920x1080/p/cms_thumbnails/m3/m34qv8r5meiurt9rj9yxyeoewdbnxug2.png" group-title="Sport",Polsat Sport Extra 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a4017b0dada54ef7b9c25bc6710fbd09:5528a91ca50961763965ae568c9bd219
 https://cdn-s-lb2.pluscdn.pl/ch/1493866/283/dash/28c4e263/live.mpd
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="" group-title="Sport",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/mw/mwwkpnsvwzf4jtt378iqn8dg7skcdkzx.png" group-title="Sport",Eurosport 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e87994b160bd48b5ac2f608ef5dc0f09:26840f913d91ed7e355a8cc18b99adef
 https://cdn-s-lb2.pluscdn.pl/ch/1456336/126/dash/d6c12d19/live.mpd
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="" group-title="Sport",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/1r/1rpphzckqa9oazmigtpv342ky34nsmhx.png" group-title="Sport",Eurosport 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|51ab61e7bc85492a9ff91bb55f101709:59acf98d228bddef6443da0b5b0669a2
 https://cdn-s-lb2.pluscdn.pl/ch/1455824/109/dash/8792e496/live.mpd
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-logo="" group-title="Sport",Eleven Sports 1
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/q2/q2iiw85qc1v548v8rs975rpojjz9yq7z.png" group-title="Sport",Eleven Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
 https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-logo="" group-title="Sport",Eleven Sports 2
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/n2/n21meh2rhs98d3rwrdyhkj1i3qsq8fq8.png" group-title="Sport",Eleven Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
 https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-logo="" group-title="Sport",Eleven Sports 3
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-logo="https://ipla-e2-47.pluscdn.pl/p/cms_thumbnails/b5/b5noft2oz47tdveg8fofykzu72k4367u.png" group-title="Sport",Eleven Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|premiumsport
 https://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-logo="" group-title="Sport",Eleven Sports 4
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/cs/csnzgc2yoe7wqgmzqhotkziw38d83rtn.png" group-title="Sport",Eleven Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|premiumsport
 https://cdn-s-lb2.pluscdn.pl/ch/1457740/146/dash/e653c27f/live.mpd
 #EXTINF:-1 tvg-id="Eleven Sports 1 4K" tvg-logo="" group-title="Sport",Eleven Sports 1 4K
 http://185.236.229.62:9981/play/a03t
-#EXTINF:-1 tvg-id="Extreme Sports" tvg-logo="" group-title="Sport",Extreme Sports
+#EXTINF:-1 tvg-id="Extreme Sports" tvg-logo="https://ipla-e1-80.pluscdn.pl/p/cms_thumbnails/y5/y53rah9gfbfapdc36anouwrptx4h9ve8.png" group-title="Sport",Extreme Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|97177d6339244fa1ae585401e41ec609:1e0cbff9abfc4ac9faec28fb42e66dd8
 https://cdn-s-lb2.pluscdn.pl/ch/1457778/152/dash/ec7c2c8e/live.mpd
-#EXTINF:-1 tvg-id="Polsat Games" tvg-logo="" group-title="Sport",Polsat Games
+#EXTINF:-1 tvg-id="Polsat Games" tvg-logo="https://ipla-e1-80.pluscdn.pl/p/cms_thumbnails/2v/2v1g1atcfsvsq6xv8mhmto6p1csnmx8m.png" group-title="Sport",Polsat Games
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fd516b4363584bafb51d63334e147109:54884f2730cdea26565db9369bcc0b27
 https://cdn-s-lb2.pluscdn.pl/ch/1455413/74/dash/661fac73/live.mpd
-#EXTINF:-1 tvg-id="FightBox HD" tvg-logo="" group-title="Sport",FightBox HD
+#EXTINF:-1 tvg-id="FightBox HD" tvg-logo="https://ipla-e1-82.pluscdn.pl/p/cms_thumbnails/bt/bt4fipdvnr9xhi3z2n9bvrosx1texfvv.png" group-title="Sport",FightBox HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d5402ef5b6b34b0e9c17b9a244f82f09:9310dec8238262ab29edf76116420da3
 https://cdn-s-lb2.pluscdn.pl/ch/1454393/32/dash/9a1beff9/live.mpd
-#EXTINF:-1 tvg-id="Golf Zone" tvg-logo="" group-title="Sport",Golf Zone
+#EXTINF:-1 tvg-id="Golf Zone" tvg-logo="https://ipla-e2-31.pluscdn.pl/p/cms_thumbnails/pu/pugbg3porf3os9xfvshbp81tca1v34k4.png" group-title="Sport",Golf Zone
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9a04985b643f0b6198a5196f6c913762
 https://cdn-s-lb2.pluscdn.pl/ch/1442744/3/dash/a697706a/live.mpd
