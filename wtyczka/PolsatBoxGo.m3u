@@ -14,6 +14,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1565225/2357/dash/1c8a6b65/live.mpd
 #EXTINF:-1 tvg-id="Polsat News HD" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/mo/mob8g9yu86xwcxh6dvrbbam16fgzt9m4.png" group-title="News",Polsat News HD
 https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 tvg-id="Polsat News Polityka" tvg-logo="https://ipla-e2-41.pluscdn.pl/p/cms_thumbnails/3w/3wx1iiqd96cio6bd4menc8wcmj62md2x.png" group-title="News",Polsat News Polityka
+https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 #EXTINF:-1 tvg-id="Polsat News 2" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/2i/2iv48f5qtnbsq183y4wouyp6ou732tzn.png" group-title="News",Polsat News 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b5426414abac4882a496eda5e4874409:21bea316ac7f46877d94d67169a1cd2b
