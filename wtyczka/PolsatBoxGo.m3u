@@ -26,9 +26,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
 #EXTINF:-1 tvg-id="Polsat Sport 1" tvg-logo="https://ipla-e2-48.pluscdn.pl/p/cms_thumbnails/ki/kiz7zg7w4e85s1kakh762i1vdst72vw5.png" group-title="Sport",Polsat Sport 1
 https://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
 #EXTINF:-1 tvg-id="Polsat Sport 2" tvg-logo="https://ipla-e2-45.pluscdn.pl/p/cms_thumbnails/a5/a543gt4j6ebf5ze5b2tv8q5ebpk6a9k9.png" group-title="Sport",Polsat Sport 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
-https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
+http://protzpwcf1.top:8080/pro2391767719725/26fc9bf426c3/850
 #EXTINF:-1 tvg-id="Polsat Sport 3" tvg-logo="https://ipla-e2-49.pluscdn.pl/p/cms_thumbnails/7q/7qqi5nggb417w5jkh6g7c8zcwe5kbyex.png" group-title="Sport",Polsat Sport 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|50df829b092f462ab7ccb30199969f09:a9d1069c93b5a60e07c7f7a3985f2d73
