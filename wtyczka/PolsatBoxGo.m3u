@@ -139,6 +139,46 @@ https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/kinot
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b59614272dca45039f5cdb9bf1fdd909:93eb4fc00feeba1052d133487b52ec40
 https://cdn-s-lb2.pluscdn.pl/ch/1455762/103/dash/08f9f0ab/live.mpd
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://ipla-e1-78.pluscdn.pl/p/cms_thumbnails/gm/gmrwuxv7p9gbi8y7bxe8zfyiibi2tjxe.png" group-title="Filmy i seriale",AXN HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e754baa4287643deb9f7c8793388a909:b525092f5445458aeb622679332b2a80
+https://cdn-s-lb2.pluscdn.pl/ch/1455756/100/dash/0a613c34/live.mpd
+#EXTINF:-1 tvg-id="AXN Black SD" tvg-logo="https://ipla-e1-77.pluscdn.pl/p/cms_thumbnails/dz/dzbyu8jo4autp14ps7x17fcjxqzv89k2.png" group-title="Filmy i seriale",AXN Black SD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5c5fa73226c3445a8e0137a753d49c09:5abf53c2d9725fa5abee2bd847a288c4
+https://cdn-s-lb2.pluscdn.pl/ch/1455430/83/dash/18bc47dd/live.mpd
+#EXTINF:-1 tvg-id="AXN White SD" tvg-logo="https://ipla-e2-40.pluscdn.pl/p/cms_thumbnails/xz/xzawhkfowqojuxfpkxemwfd926sitkdf.png" group-title="Filmy i seriale",AXN White SD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2317e83c965a484385613ed2d555d909:1480817ed198a35be0fa7a755064c5ec
+https://cdn-s-lb2.pluscdn.pl/ch/1454629/51/dash/30ed61ff/live.mpd
+#EXTINF:-1 tvg-id="AXN Spin HD" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/ew/ew2kois13y8rc6ht9sivgz9zvyz6usyj.png" group-title="Filmy i seriale",AXN Spin HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a275ae9857034792bd801057e8f60109:8ac9b8a1d886ad9e0fc0a23651145a31
+https://cdn-s-lb2.pluscdn.pl/ch/1454628/50/dash/da250d71/live.mpd
+#EXTINF:-1 tvg-id="BBC First" tvg-logo="https://ipla-e2-48.pluscdn.pl/p/cms_thumbnails/sk/sk5b4r3z3okhegp5fc7p49t4hbkntve1.png" group-title="Filmy i seriale",BBC First
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8e980d97720d4c4e81e74067f9f01509:546c3c67ecbbfe6ea27beb12f130ce2a
+https://cdn-s-lb2.pluscdn.pl/ch/1456329/122/dash/e7ba3025/live.mpd
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/u8/u8vk4u7nfnqqn61rk7s9a7bcvsiuat4k.png" group-title="Filmy i seriale",AMC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7a2fbe6b867d46138cc1b5afaa8d2e09:785c5704172dbb7b1c7f2273a840b4e1
+https://cdn-s-lb2.pluscdn.pl/ch/1455446/91/dash/73515097/live.mpd
+#EXTINF:-1 tvg-id="13 Ulica" tvg-logo="https://ipla-e2-45.pluscdn.pl/p/cms_thumbnails/8k/8k4cbvx7ewk6kg5pwirz4qcf2nn14t17.png" group-title="Filmy i seriale",13 Ulica
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|dff864cb808847169951c8e840e17b09:015f86019ac545b39768e96e3f89da4a
+https://cdn-s-lb2.pluscdn.pl/ch/1455431/84/dash/73d1839b/live.mpd
+#EXTINF:-1 tvg-id="SciFi Universal" tvg-logo="https://ipla-e1-78.pluscdn.pl/p/cms_thumbnails/6n/6n25yen8psjchs6gzrbry3vyzd1dy9be.png" group-title="Filmy i seriale",SciFi Universal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fcc5e55c53284b25b8f86320bd9d8709:e4a43128326f9e7630656446c5b7c32a
+https://cdn-s-lb2.pluscdn.pl/ch/1455428/81/dash/e7fcf0b5/live.mpd
+#EXTINF:-1 tvg-id="Polsat Comedy Central Extra" tvg-logo="https://ipla-e1-80.pluscdn.pl/p/cms_thumbnails/xu/xupx8rdgy37uik5s83k5k6dg2n8ayr7q.png" group-title="Filmy i seriale",Polsat Comedy Central Extra
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f4eccd8f8dc24fb7b11b6d901a745a09:6fc9f59e32a5c6afdc7be6447b7425e4
+https://cdn-s-lb2.pluscdn.pl/ch/1442745/4/dash/3dc1ddbd/live.mpd
+#EXTINF:-1 tvg-id="Comedy Central Polska HD" tvg-logo="https://ipla-e1-78.pluscdn.pl/p/cms_thumbnails/kg/kgtg3g94i2wb1zx9dq8qo9j9f3oaopo2.png" group-title="Filmy i seriale",Comedy Central Polska HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|17d119d277f643b0841a358825105a09:661854e8e15eb897964e13978828ad3e
+https://cdn-s-lb2.pluscdn.pl/ch/1458960/153/dash/ada157ca/live.mpd
 #EXTINF:-1 tvg-id="Eska TV" tvg-logo="" group-title="Muzyczny",Eska TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74c67d5d30514410b168d630bc252b09:00dbb86aa3ea543e13f49fa42ab4c0a8
