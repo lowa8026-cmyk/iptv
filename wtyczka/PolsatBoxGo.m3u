@@ -179,6 +179,70 @@ https://cdn-s-lb2.pluscdn.pl/ch/1442745/4/dash/3dc1ddbd/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|17d119d277f643b0841a358825105a09:661854e8e15eb897964e13978828ad3e
 https://cdn-s-lb2.pluscdn.pl/ch/1458960/153/dash/ada157ca/live.mpd
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://ipla-e2-49.pluscdn.pl/p/cms_thumbnails/od/odr8u88454hci3xpa82y9iti36w54ugp.png" group-title="Filmy i seriale",FX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6bc79230be5548d5a43a43ac3c3dd909:b6bd93258f0386783831f9deda16d84c
+https://cdn-s-lb2.pluscdn.pl/ch/1455822/107/dash/43f4a0af/live.mpd
+#EXTINF:-1 tvg-id="FX Comedy" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/m9/m97irxh6jyswf6rqdog451jddyeernkp.png" group-title="Filmy i seriale",FX Comedy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|10fbbdf515754fb0aacd942cd2e95f09:e2ff1bc6d0886b0da5b786cbc509a143
+https://cdn-s-lb2.pluscdn.pl/ch/1455155/61/dash/468c34d1/live.mpd
+#EXTINF:-1 tvg-id="Epic Drama HD" tvg-logo="https://ipla-e1-80.pluscdn.pl/p/cms_thumbnails/7i/7ix45gcrq94ru8r2brdzmj9vcj5h255k.png" group-title="Filmy i seriale",Epic Drama HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b618cb37262f427c9681cd8c53147709:7cff33759e2991657d9253dd028f62f7
+https://cdn-s-lb2.pluscdn.pl/ch/1455419/78/dash/1cc5fbac/live.mpd
+#EXTINF:-1 tvg-id="Sundance HD" tvg-logo="https://ipla-e2-42.pluscdn.pl/p/cms_thumbnails/r9/r9ad1ffpx8vy1zzpwneamevey5tu99d9.png" group-title="Filmy i seriale",Sundance HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0:334734543c60e53289035ae8cbe5ef18
+https://cdn-s-lb2.pluscdn.pl/ch/1454378/30/dash/52b7a45b/live.mpd
+#EXTINF:-1 tvg-id="Romance TV HD" tvg-logo="https://ipla-e1-80.pluscdn.pl/p/cms_thumbnails/8o/8onpp3b6coiq19yv346c5o8dcativirp.png" group-title="Filmy i seriale",Romance TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|505c10b3cbf04a6da8710f8a1559f209:5918de61e5a30ddefc2dd74cb20617a9
+https://cdn-s-lb2.pluscdn.pl/ch/1455152/59/dash/60c2d289/live.mpd
+#EXTINF:-1 tvg-id="Novela TV" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/5d/5dce9o7huooyswcvxd3krdzgdhb6us57.png" group-title="Filmy i seriale",Novela TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|dec943466dad429e96b7766d46ac7709:fdd456f793233f989ba6a8cf50fa0a4e
+https://cdn-s-lb2.pluscdn.pl/ch/1454396/33/dash/3b69b007/live.mpd
+#EXTINF:-1 tvg-id="Novelas+" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/yg/yg6knjeznq2nhysnadmv6w74wq1f6r8k.png" group-title="Filmy i seriale",Novelas+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1508ba3dd9d9431caabae59c7efd6b09:7ac1d70d62b30e611fcdf6dbb9ee1d8e
+https://cdn-s-lb2.pluscdn.pl/ch/1456457/132/dash/f2ffbf2f/live.mpd
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/4m/4mwnu4na5dd1cyky97o4rdodkx8j2j9i.png" group-title="Filmy i seriale",HBO HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8847dc56894445368b84b0758972f009:856d320e0ae4a9eab8e0e03517a363de
+https://cdn-s-lb2.pluscdn.pl/ch/1455492/93/dash/9922d660/live.mpd
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="https://ipla-e1-90.pluscdn.pl/p/cms_thumbnails/r4/r4sixy2hrxqytz819rzs57rkexib9acq.png" group-title="Filmy i seriale",HBO 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|83c9b4c1296e43aeb504b69694ddef09:cd9fac77eed314c924c814420bfdc572
+https://cdn-s-lb2.pluscdn.pl/ch/1455433/85/dash/56f7c328/live.mpd
+#EXTINF:-1 tvg-id="HBO 3 HD" tvg-logo="https://ipla-e2-39.pluscdn.pl/p/cms_thumbnails/6f/6fo7dvxvii53hyrhhn4jww5wtpfe6m1q.png" group-title="Filmy i seriale",HBO 3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3be77f34e29640eca783805f5d934509:8f3c52710dc35dc97379e6c591094d51
+https://cdn-s-lb2.pluscdn.pl/ch/1455151/58/dash/8348cfc8/live.mpd
+#EXTINF:-1 tvg-id="FilmBox Premium HD" tvg-logo="https://ipla-e2-48.pluscdn.pl/p/cms_thumbnails/8c/8czrnf73x7zdb9gmsj1q1yi5x13961mf.png" group-title="Filmy i seriale",FilmBox Premium HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|81f4ad82edaf4548bc764faf7ab39709:ca7f8064be22ca280f683f8857783057
+https://cdn-s-lb2.pluscdn.pl/ch/1455415/75/dash/1c29bc40/live.mpd
+#EXTINF:-1 tvg-id="Filmbox Family" tvg-logo="https://ipla-e2-48.pluscdn.pl/p/cms_thumbnails/qs/qssgiro6o1fvki1p94yzekt78csr5p53.png" group-title="Filmy i seriale",Filmbox Family
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5396965f0e02450596ebf369f15d0809:4f437110333efb9c56c85315b343a102
+https://cdn-s-lb2.pluscdn.pl/ch/1454621/46/dash/13301d8c/live.mpd
+#EXTINF:-1 tvg-id="FilmBox Arthouse" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/43/435zz7hbydeaw1aydsh7dyqijv488k72.png" group-title="Filmy i seriale",FilmBox Arthouse
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|86ae1366c0974b38a26be97766f58009:5bbb79a866f6ee38a8e0458abe623b37
+https://cdn-s-lb2.pluscdn.pl/ch/1454603/39/dash/fb138d24/live.mpd
+#EXTINF:-1 tvg-id="FilmBox Action" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/25/25wsd6zr2x6ix7i17oeijg4ba7wwsr46.png" group-title="Filmy i seriale",FilmBox Action
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|06b11a9039de45e89ce762b58fdaa909:6c6f4aa8c2172ae1a33a35807700ebc5
+https://cdn-s-lb2.pluscdn.pl/ch/1455885/119/dash/003891a6/live.mpd
+#EXTINF:-1 tvg-id="FilmBox Extra HD" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/eh/ehu8jn24jmn39xamvwcnmqbpvuf5kjib.png" group-title="Filmy i seriale",FilmBox Extra HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|30d9891144924993912c1a1504143f09:b2c69b5ccafe83923d3c2ceefa3c8671
+https://cdn-s-lb2.pluscdn.pl/ch/1454626/48/dash/baec5ecd/live.mpd
+#EXTINF:-1 tvg-id="Polsat Rodzina" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/uq/uq1gurah8p5rzj5bu1gtinyk9ffwaer3.png" group-title="Familijny", Polsat Rodzina
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|afb7b739064445dea487bfa6ee02ab09:91627a6898723764fbf1e03f19b6ca71
+https://cdn-s-lb2.pluscdn.pl/ch/1454619/45/dash/c6981602/live.mpd
 #EXTINF:-1 tvg-id="Eska TV" tvg-logo="" group-title="Muzyczny",Eska TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74c67d5d30514410b168d630bc252b09:00dbb86aa3ea543e13f49fa42ab4c0a8
