@@ -243,6 +243,46 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454626/48/dash/baec5ecd/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|afb7b739064445dea487bfa6ee02ab09:91627a6898723764fbf1e03f19b6ca71
 https://cdn-s-lb2.pluscdn.pl/ch/1454619/45/dash/c6981602/live.mpd
+#EXTINF:-1 tvg-id="NICKELODEON POLSKA" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/oq/oq88nj16bc2q46k3td3nch8h1an2txki.png" group-title="Familijny",NICKELODEON POLSKA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|22d66c7e835141da953b7bc747e87b09:77d0d6401019e4415843024a7259a6b2
+https://cdn-s-lb2.pluscdn.pl/ch/1455170/71/dash/d94a55b2/live.mpd
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://ipla-e2-39.pluscdn.pl/p/cms_thumbnails/n9/n941j3u4wqmy7p8wecm9uxt5g4e6k5y3.png" group-title="Familijny",NICK JR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ab0b2cbc726b48dda9ac15cc5b940e09:e9e303c3be848ef0914027220fcd36e4
+https://cdn-s-lb2.pluscdn.pl/ch/1455758/102/dash/2da91be7/live.mpd
+#EXTINF:-1 tvg-id="NickToons" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/g3/g33vkn3qxbeiev62pr4hv6g3m2ciqw3c.png" group-title="Familijny",NickToons
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|03315036a63948e5ab1070f9cac11909:2f798c90b03930467741f62afddd7b75
+https://cdn-s-lb2.pluscdn.pl/ch/1455153/60/dash/504e7d2a/live.mpd
+#EXTINF:-1 tvg-id="Teen Nick" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/er/erc4fj33ipc7deovww7ontb5y397y5kw.png" group-title="Familijny",Teen Nick
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|376c1faa564b4e69b57ea6cee895ef09:56fe54a96abbddf80740d90cf9ae6e4b
+https://cdn-s-lb2.pluscdn.pl/ch/1457762/149/dash/8657cb6f/live.mpd
+#EXTINF:-1 tvg-id="MiniMini+" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/t6/t6m78b2kwzbzqa6pissobz45gur1t4nt.png" group-title="Familijny",MiniMini+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|df548b49cde24994a7ecfa75bea82309:bccc0af1f9779b5c1374f0a499783fbb
+https://cdn-s-lb2.pluscdn.pl/ch/1456458/133/dash/8e18c3b4/live.mpd
+#EXTINF:-1 tvg-id="TeleToon+" tvg-logo="https://ipla-e1-78.pluscdn.pl/p/cms_thumbnails/ya/yau51ro3kg991434bb8r5fihkf15qj4y.png" group-title="Familijny",TeleToon+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4fc8aa36198944648a08719300147909:78c945ca4d98486b7605e3d448ff8b77
+https://cdn-s-lb2.pluscdn.pl/ch/1456455/131/dash/52fde69a/live.mpd
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://ipla-e2-42.pluscdn.pl/p/cms_thumbnails/gy/gynucj22uxqanf22d6g5spdnx2g5qhpp.png" group-title="Familijny",Cartoon Network HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3e8f1307848f47c183f977fe386d2409:ed194b49d126b45282fd39f66048606b
+https://cdn-s-lb2.pluscdn.pl/ch/1455429/82/dash/f951c388/live.mpd
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://ipla-e1-78.pluscdn.pl/p/cms_thumbnails/xb/xb32pg9y51o4ktv8f492nfb5ixg4oc4r.png" group-title="Familijny",Cartoonito
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b1dadabe8ad44703965850a43cfb2809:50229ab2b86d764c39a7642d0a4f4971
+https://cdn-s-lb2.pluscdn.pl/ch/1455412/73/dash/cb00a9a6/live.mpd
+#EXTINF:-1 tvg-id="BBC CBEEBIES" tvg-logo="https://ipla-e2-40.pluscdn.pl/p/cms_thumbnails/b8/b8fgbz4ov4o9o2x6x1rcvtoi2t3jsx92.jpeg" group-title="Familijny",BBC CBEEBIES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1ed899e62467463bbeb51cff6a8f9709:d8960553a6a6f18c8cc45b8c3a776f5e
+https://cdn-s-lb2.pluscdn.pl/ch/1454633/54/dash/0860d6eb/live.mpd
+#EXTINF:-1 tvg-id="Da Vinci" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/8i/8idpiqiagcpw4rezf64f44vfrkhopxhs.png" group-title="Familijny",Da Vinci
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2edfae47dfed4a859553a8e24961b109:5ba04058fd05b2dd98da9ae5324a98ef
+https://cdn-s-lb2.pluscdn.pl/ch/1454081/22/dash/57acd91f/live.mpd
 #EXTINF:-1 tvg-id="Eska TV" tvg-logo="" group-title="Muzyczny",Eska TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74c67d5d30514410b168d630bc252b09:00dbb86aa3ea543e13f49fa42ab4c0a8
