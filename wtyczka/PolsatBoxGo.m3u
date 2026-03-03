@@ -291,3 +291,11 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454631/52/dash/01dc04d1/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|86cf6197c55646e09b31767050f2bd09:69f7edd4fb1e35dc3f2f530478cb9a20
 https://cdn-s-lb2.pluscdn.pl/ch/1454602/38/dash/513045fc/live.mpd
+#EXTINF:-1 tvg-id="TVP Seriale" tvg-logo="" group-title="Filmy i seriale",TVP Seriale
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0417fc7f0a5040f1904cfd9405053509:e24cf2871628a18b49d6a40aa9184593
+https://cdn-s-lb2.pluscdn.pl/ch/1455828/113/dash/53da6bc3/live.mpd
+#EXTINF:-1 tvg-id="TVP Info" tvg-logo="" group-title="News",TVP Info
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|44f457e33bfc44c6b343e46d6e4b7d09:fd4b4b05ab7e9819e7012e3bc0858b0a
+https://cdn-s-lb2.pluscdn.pl/ch/1455828/113/dash/53da6bc3/live.mpd
