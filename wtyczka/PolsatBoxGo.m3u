@@ -291,11 +291,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454631/52/dash/01dc04d1/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|86cf6197c55646e09b31767050f2bd09:69f7edd4fb1e35dc3f2f530478cb9a20
 https://cdn-s-lb2.pluscdn.pl/ch/1454602/38/dash/513045fc/live.mpd
-#EXTINF:-1 tvg-id="TVP Seriale" tvg-logo="" group-title="Filmy i seriale",TVP Seriale
+#EXTINF:-1 tvg-id="TV Okazje" tvg-logo="" group-title="",TV Okazje
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0417fc7f0a5040f1904cfd9405053509:e24cf2871628a18b49d6a40aa9184593
-https://cdn-s-lb2.pluscdn.pl/ch/1455828/113/dash/53da6bc3/live.mpd
-#EXTINF:-1 tvg-id="TVP Info" tvg-logo="" group-title="News",TVP Info
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|44f457e33bfc44c6b343e46d6e4b7d09:fd4b4b05ab7e9819e7012e3bc0858b0a
-https://cdn-s-lb2.pluscdn.pl/ch/1455831/116/dash/800635c8/live.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e74d29af730847f2b69e53e76706b809:ebfc0bbf7b88f3c9ae5bb75c6066cfc9
+https://cdn-s-lb2.pluscdn.pl/ch/1454058/14/dash/2cf1d5ac/live.mpd
