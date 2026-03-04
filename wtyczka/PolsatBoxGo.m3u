@@ -283,6 +283,34 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454633/54/dash/0860d6eb/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2edfae47dfed4a859553a8e24961b109:5ba04058fd05b2dd98da9ae5324a98ef
 https://cdn-s-lb2.pluscdn.pl/ch/1454081/22/dash/57acd91f/live.mpd
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/op/op1tiu18jv12jn25eo2tajb8xv2cm4ed.jpg" group-title="Familijny",Disney Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+httpa://cdn-s-lb2.pluscdn.pl/ch/1455156/62/dash/d6251522/live.mpd
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://ipla-e1-92.pluscdn.pl/p/cms_thumbnails/be/bea8c4pgtmzodio2he97jbbrv72ghuvb.png" group-title="Familijny",Disney Junior
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://cdn-s-lb2.pluscdn.pl/ch/1455445/90/dash/7d1a8eb0/live.mpd
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://ipla-e2-40.pluscdn.pl/p/cms_thumbnails/5s/5sq69bku4c9mkaj4f9sc9psoajcjhekp.png" group-title="Familijny",Disney XD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://cdn-s-lb2.pluscdn.pl/ch/1454617/44/dash/36c53348/live.mpd
+#EXTINF:-1 tvg-id="4fun Kids" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/q9/q9c2wj5q45qexikf3gmne28rdwwnwaoq.png" group-title="Familijny",4fun Kids
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|dcbd13ee90914e3daa22d9a8d1e1aa09:8c0ee1c3b5ff03986d6e448aba7dac98
+https://cdn-s-lb2.pluscdn.pl/ch/1456339/128/dash/d5899eba/live.mpd
+#EXTINF:-1 tvg-id="Duck TV" tvg-logo="https://ipla-e1-90.pluscdn.pl/p/cms_thumbnails/88/889mvmc9wcqh5yibmdx223pc5g5rcb4g.png" group-title="Familijny",Duck TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|850d2e873ea34c8095d572dd6e79df09:aafd982d9bfc0b7f35fa1aa6d806e93c
+https://cdn-s-lb2.pluscdn.pl/ch/1454075/23/dash/155526c9/live.mpd
+#EXTINF:-1 tvg-id="Polsat JIM JAM" tvg-logo="https://ipla-e1-77.pluscdn.pl/p/cms_thumbnails/vw/vwrtg7mfi87chmauzzw6zioh1ngynh11.png" group-title="Familijny",Polsat JIM JAM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f4daafe229a149e1acd65a5f8ba4b009:9d1e1791042b63166ddc92688d43b6a4
+https://cdn-s-lb2.pluscdn.pl/ch/1454399/34/dash/7ea2fceb/live.mpd
+#EXTINF:-1 tvg-id="Polsat Doku" tvg-logo="https://ipla-e2-44.pluscdn.pl/p/cms_thumbnails/av/ave4j9izgckued5vi52fay8cine9q4pb.png" group-title="Dokument",Polsat Doku
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e6a277761c2b4aed84fc3f2fae138309:a11c2d080ffce2f42d8d414d61ff6733
+https://cdn-s-lb2.pluscdn.pl/ch/1455443/88/dash/f4f0f1ef/live.mpd
 #EXTINF:-1 tvg-id="Eska TV" tvg-logo="" group-title="Muzyczny",Eska TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74c67d5d30514410b168d630bc252b09:00dbb86aa3ea543e13f49fa42ab4c0a8
@@ -291,7 +319,11 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454631/52/dash/01dc04d1/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|86cf6197c55646e09b31767050f2bd09:69f7edd4fb1e35dc3f2f530478cb9a20
 https://cdn-s-lb2.pluscdn.pl/ch/1454602/38/dash/513045fc/live.mpd
-#EXTINF:-1 tvg-id="TV Okazje" tvg-logo="" group-title="",TV Okazje
+#EXTINF:-1 tvg-id="TV Okazje" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/gp/gpozm8hc5zca6shayahbrasnae3dq3tx.png" group-title="Lifestyle",TV Okazje
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e74d29af730847f2b69e53e76706b809:ebfc0bbf7b88f3c9ae5bb75c6066cfc9
 https://cdn-s-lb2.pluscdn.pl/ch/1454058/14/dash/2cf1d5ac/live.mpd
+#EXTINF:-1 tvg-id="Mango Telezakupy" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/vu/vurcyxfjeqkpzujvkps3m2o8nx5ttc5x.png" group-title="Lifestyle",Mango Telezakupy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://cdn-s-lb2.pluscdn.pl/ch/1580235/3496/dash/4f947bbb/live.mpd
