@@ -311,6 +311,66 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454399/34/dash/7ea2fceb/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e6a277761c2b4aed84fc3f2fae138309:a11c2d080ffce2f42d8d414d61ff6733
 https://cdn-s-lb2.pluscdn.pl/ch/1455443/88/dash/f4f0f1ef/live.mpd
+#EXTINF:-1 tvg-id="CI Polsat HD" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/yg/ygkwxsivjn3psspm5w2in2qbwds4w96q.png" group-title="Dokument",CI Polsat HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|de138b213c0841c6ab3246d1d0c6cf09:563e35236791512c19a9ab12328cc15c
+https://cdn-s-lb2.pluscdn.pl/ch/1455435/87/dash/6ed1b82b/live.mpd
+#EXTINF:-1 tvg-id="Polsat Viasat History HD" tvg-logo="https://ipla-e2-45.pluscdn.pl/p/cms_thumbnails/8k/8k1xganrnk9191hhem5ootdpcazqk1ut.png" group-title="Dokument",Polsat Viasat History HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|af9ac54043cc4981aa2906da9b8a0709:4e79fc34812a8a3981cd48ee172373a2
+https://cdn-s-lb2.pluscdn.pl/ch/1455769/105/dash/929dad6e/live.mpd
+#EXTINF:-1 tvg-id="Polsat Viasat Explore HD" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/t8/t8iq6pfyzk6diein4v26us6sce3ckebr.png" group-title="Dokument",Polsat Viasat Explore HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eb991d80511f48ad97398218f8642109:8ecdf8777158c853ffc927f50fdfb464
+https://cdn-s-lb2.pluscdn.pl/ch/1455743/95/dash/bf8e3b17/live.mpd
+#EXTINF:-1 tvg-id="Polsat Viasat Nature HD" tvg-logo="https://ipla-e2-45.pluscdn.pl/p/cms_thumbnails/uy/uyhuzyfnc4casqzj8m8jitf8d3n3kx2y.png" group-title="Dokument",Polsat Viasat Nature HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|581e45b8533249b2a4c6ffd94b53a609:00d16cf78cb634e94a3f2bfdb6177967
+https://cdn-s-lb2.pluscdn.pl/ch/1455422/79/dash/5dad48cd/live.mpd
+#EXTINF:-1 tvg-id="Planete+" tvg-logo="https://ipla-e2-45.pluscdn.pl/p/cms_thumbnails/xn/xnqnub5kc5e2bhrdff54mz5vkit5uac9.png" group-title="Dokument",Planete+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8316c9cc8e44329b8ef5e1d1f03709:f2641dc8306cf3903a95a99056a768b3
+https://cdn-s-lb2.pluscdn.pl/ch/1456337/127/dash/7a8c05b3/live.mpd
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://ipla-e2-39.pluscdn.pl/p/cms_thumbnails/wj/wjxz3e71umfs8dc4xo3jjtk2mjj9pixp.png" group-title="Dokument",Discovery Channel HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bfde50539fe6447e85bc088c5fde6809:702b27c816eee92cd19603ead7794d47
+https://cdn-s-lb2.pluscdn.pl/ch/1455829/114/dash/2e293a66/live.mpd
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-logo="https://ipla-e2-41.pluscdn.pl/p/cms_thumbnails/hk/hk419k8yk51jjdk1twybv4hifzyfzec3.png" group-title="Dokument",Discovery Science HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|716d0e70ec644e8aafe0b59b9e14d309:91b124b14eb34b98e47871f67ad9686e
+https://cdn-s-lb2.pluscdn.pl/ch/1455751/99/dash/72d8df9e/live.mpd
+#EXTINF:-1 tvg-id="DTX HD" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/j7/j7isyd6iitsjjtgch3p34o4n19o6qpvq.png" group-title="Lifestyle",DTX HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0123456789a0123456789a01234569a0:792e32c50ff78bc75e02cb6de5a84dda
+https://cdn-s-lb2.pluscdn.pl/ch/1457763/150/dash/feef785c/live.mpd
+#EXTINF:-1 tvg-id="Discovery Life HD" tvg-logo="https://ipla-e2-39.pluscdn.pl/p/cms_thumbnails/8a/8ajtwzxrwuzmu725hmtvte27udkm4z16.png" group-title="Dokument",Discovery Life HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5a8a23084b0d424dbcbfa6b337ef5909:c08da80215eb6548fa015b70178678c4
+https://cdn-s-lb2.pluscdn.pl/ch/1454624/47/dash/95c42be4/live.mpd
+#EXTINF:-1 tvg-id="ID HD" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/wq/wqmhz5yj1a2shgi15z2tbdt13z4x4uhb.png" group-title="Dokument",ID HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fa6f98ba164c4c2dae63cc18a88d4609:68ba5bc8915b5bf3b47d2295c5b466fc
+https://cdn-s-lb2.pluscdn.pl/ch/1455160/65/dash/9eeb25cb/live.mpd
+#EXTINF:-1 tvg-id="Discovery Historia" tvg-logo="https://ipla-e2-47.pluscdn.pl/p/cms_thumbnails/qn/qnmtgudxbt71js7o1sycuhnosf4ck51y.png" group-title="Dokument",Discovery Historia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8a40e195b40449fe9d31c5ebf30dcb09:fd40b63a41a061066d61da1c77529ca6
+https://cdn-s-lb2.pluscdn.pl/ch/1455097/56/dash/6b353570/live.mpd
+#EXTINF:-1 tvg-id="History HD" tvg-logo="https://ipla-e1-80.pluscdn.pl/p/cms_thumbnails/np/npdqgoa1cwp3bss9ndnakvcb73jforma.png" group-title="Dokument",History HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5994445754b44847b6b97eef32570509:1b63af0b1a5de7f9a71abef0ee1610f2
+https://cdn-s-lb2.pluscdn.pl/ch/1455823/108/dash/37b73cc9/live.mpd
+#EXTINF:-1 tvg-id="History2 HD" tvg-logo="https://ipla-e1-92.pluscdn.pl/p/cms_thumbnails/t2/t2z1wanpkqai8j7kp2c9zg1ipv9hmvoi.png" group-title="Dokument",History2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8bf05ab069d246b9b90f540ceb8b0609:cf5290089dc1002d8dfd577a7eb034a8
+https://cdn-s-lb2.pluscdn.pl/ch/1455757/101/dash/b71c577f/live.mpd
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://ipla-e2-45.pluscdn.pl/p/cms_thumbnails/rz/rzkskaa3czqmwxa1eaw7u7wmxoix2m92.png" group-title="Dokument",Animal Planet HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aacfb8a827e14de58635e0ee95251809:8e15978e0ca7f1abf053fabd2b16abe8
+https://cdn-s-lb2.pluscdn.pl/ch/1454627/49/dash/22533008/live.mpd
+#EXTINF:-1 tvg-id="Travel Channel HD" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/xx/xxaxid7h5qvzofkp1f6dcfs2pekzuj91.png" group-title="Lifestyle",Travel Channel HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f80ee37959cb48ec8cc927587539b109:6239ab908286cc282727c08f731c6827
+https://cdn-s-lb2.pluscdn.pl/ch/1455157/63/dash/7cbc06ae/live.mpd
 #EXTINF:-1 tvg-id="Eska TV" tvg-logo="" group-title="Muzyczny",Eska TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74c67d5d30514410b168d630bc252b09:00dbb86aa3ea543e13f49fa42ab4c0a8
