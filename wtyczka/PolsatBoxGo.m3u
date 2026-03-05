@@ -371,11 +371,107 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454627/49/dash/22533008/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f80ee37959cb48ec8cc927587539b109:6239ab908286cc282727c08f731c6827
 https://cdn-s-lb2.pluscdn.pl/ch/1455157/63/dash/7cbc06ae/live.mpd
-#EXTINF:-1 tvg-id="Eska TV" tvg-logo="" group-title="Muzyczny",Eska TV
+#EXTINF:-1 tvg-id="BBC EARTH" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/wq/wqvo756sic318hsqnbxp4y25b2ianc46.png" group-title="Dokument",BBC EARTH
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a07e025471af4eca9f66c2dafe651209:9e5ff926a5da9acb4238c9842672c182
+https://cdn-s-lb2.pluscdn.pl/ch/1455418/77/dash/bcd9486f/live.mpd
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/15/15zwp471jaas1dmv59atonritwgvxmph.png" group-title="Dokument",National Geographic Wild
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0e2da6fddf7e4e91821ae281f96c8e09:500a9be701536c1c77242137129cb1d1
+https://cdn-s-lb2.pluscdn.pl/ch/1455444/89/dash/ca41a43d/live.mpd
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://ipla-e2-48.pluscdn.pl/p/cms_thumbnails/ua/uai59i1cvw73dh2a6qhqp3js4k2rb1oq.png" group-title="Dokument",National Geographic
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c4d12a92c63d43ac8fc31170db69b209:da455e9caa8af303e70bc1c5b3fc163d
+https://cdn-s-lb2.pluscdn.pl/ch/1455825/110/dash/10ba4d79/live.mpd
+#EXTINF:-1 tvg-id="Nat Geo People HD" tvg-logo="https://ipla-e2-49.pluscdn.pl/p/cms_thumbnails/sp/spd6f2u6p4kt3bgh9idpx5f3ib3jh1u2.png" group-title="Dokument",Nat Geo People HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3141a4ae9d724466a71b5f573d4d4209:b7a93193de524819150360f486645d2f
+https://cdn-s-lb2.pluscdn.pl/ch/1455159/64/dash/00dc41cc/live.mpd
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-logo="" group-title="Dokument",Love Nature 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://hls.redefine.pl/6231B617/32326/0/dash_4k/live.mpd
+#EXTINF:-1 tvg-id="Travelxp 4K" tvg-logo="" group-title="Dokument",Travelxp 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://hls.redefine.pl/BAEEC268/32329/0/dash_4k/live.mpd
+#EXTINF:-1 tvg-id="My Zen 4K" tvg-logo="" group-title="Dokument",My Zen 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+#KODIPROP:inputstream.adaptive.common_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0”
+http://hls.redefine.pl/5453C6CD/32327/0/dash_4k/live.mpd
+#EXTINF:-1 tvg-id="Museum TV 4K" tvg-logo="" group-title="Dokument",Museum TV 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://hls.redefine.pl/13BA7DD8/32328/0/dash_4k/live.mpd
+#EXTINF:-1 tvg-id="Water Planet" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/7m/7mn6n5arhrbgvuobb54fi3kcabknkeb1.png" group-title="Dokument",Water Planet
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|874724786e6844239d16855a4e565509:c0ebc481ba89e8b3b437c22776cd31ba
+https://cdn-s-lb2.pluscdn.pl/ch/1454380/31/dash/49a3d0e9/live.mpd
+#EXTINF:-1 tvg-id="DocuBox" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/oa/oazyvwwjg65v7fe7xj3j7qxc8gkbwop5.png" group-title="Dokument",DocuBox
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b84e6dc3d81f46ee981a932c4b260909:04c745f1185392994ecde57575c702be
+https://cdn-s-lb2.pluscdn.pl/ch/1454074/18/dash/43f5d73b/live.mpd
+#EXTINF:-1 tvg-id="Polsat Cafe HD" tvg-logo="https://ipla-e1-90.pluscdn.pl/p/cms_thumbnails/46/466f81jran5959rsf5q15a1yjryznaer.png" group-title="Lifestyle",Polsat Cafe HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1e6f08a20a264fda94578a7e3b635b09:a40238be5a3225d5d21e23d7768f67dd
+https://cdn-s-lb2.pluscdn.pl/ch/1455748/98/dash/6070cf90/live.mpd
+#EXTINF:-1 tvg-id="TVN Style" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/p4/p44kw1t97x5eg7jyjo2vfaewna414xt8.png" group-title="Lifestyle",TVN Style
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2163305e0fba4b40a9fb8f64925a1c09:aac7db9a1082f598fea26874eaa594be
+https://cdn-s-lb2.pluscdn.pl/ch/1455163/67/dash/85b8fc46/live.mpd
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/z3/z3235tf8k751o9mwyk44y8ox77edy5e2.png" group-title="Lifestyle",TLC HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7b5ca7c93de7462ab3ed5af876b30e09:5966f7df740b69bde4c7bf5a6a6d26c8
+https://cdn-s-lb2.pluscdn.pl/ch/1455447/92/dash/e90f4a78/live.mpd
+#EXTINF:-1 tvg-id="HG TV" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/k9/k926etf1wf4huqk2iho1gda5xqxhtmuy.png" group-title="Lifestyle",HG TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e47e9cf1a5b741dd814cae71b1b57009:e335930dfc9fbc032f882bf9dad5acb6
+https://cdn-s-lb2.pluscdn.pl/ch/1455434/86/dash/34c0beea/live.mpd
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://ipla-e2-48.pluscdn.pl/p/cms_thumbnails/8r/8r8uuvueuvyrf462s89xmakoogh6i2vh.png" group-title="Lifestyle",Food Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2a7738c586bf41d8b11b19bb85c41409:3173971e7c0a9422297ee6fd3211b606
+https://cdn-s-lb2.pluscdn.pl/ch/1455169/70/dash/5c0c41d0/live.mpd
+#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-logo="https://ipla-e2-42.pluscdn.pl/p/cms_thumbnails/5v/5v6ovvcyud3o4ayougahxv573kqpg3sg.png" group-title="Lifestyle",Canal+ Kuchnia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a8847a5286f24ad992a64afb5b339509:9b466057a94b35151c7328a037c8395c
+https://cdn-s-lb2.pluscdn.pl/ch/1456322/120/dash/49819f3b/live.mpd
+#EXTINF:-1 tvg-id="BBC Lifestyle HD" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/6x/6x561nht2px9i4zbhciuza7hk5xgejsy.png" group-title="Lifestyle",BBC Lifestyle HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|35f364c3c1a64a588dddaf76ae57fb09
+https://cdn-s-lb2.pluscdn.pl/ch/1454632/53/dash/79b4ade5/live.mpd
+#EXTINF:-1 tvg-id="E!" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/sn/snk5bdiig7anpn3pq856g9ms43y42r86.png" group-title="Lifestyle",E!
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a711ccd863904c17b12b5309dad6c509:b4898b7435cd818b7832032c3b73c2cf
+https://cdn-s-lb2.pluscdn.pl/ch/1454604/40/dash/b125bfa0/live.mpd
+#EXTINF:-1 tvg-id="Canal+ Domo" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/1b/1bfn9jv7p5feun28xaa3vfae2f1pv2b3.png" group-title="Lifestyle",Canal+ Domo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8660a2941bdd49c9b4baad8c43927109:1a9f7454a180f249252571be220f0662
+https://cdn-s-lb2.pluscdn.pl/ch/1456326/121/dash/61133a5e/live.mpd
+#EXTINF:-1 tvg-id="Polsat Play HD" tvg-logo="https://ipla-e2-49.pluscdn.pl/p/cms_thumbnails/oc/oczqgic2zjk2x8q6c1vgvz9z9ags31xp.png" group-title="Lifestyle",Polsat Play HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|01691f765ca84c3a801facebbb946b09:13340211cd86c74e7f52ff3bf10517f4
+https://cdn-s-lb2.pluscdn.pl/ch/1455766/104/dash/5582600b/live.mpd
+#EXTINF:-1 tvg-id="TVN Turbo" tvg-logo="https://ipla-e1-90.pluscdn.pl/p/cms_thumbnails/o3/o3svt2412rdjk5hmrarp1cm5unsnor4d.png" group-title="Lifestyle",TVN Turbo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7cc8c95420234b7cb3e20e63a6236909:589f9c2efbca25d28242a5ef5f91bf61
+https://cdn-s-lb2.pluscdn.pl/ch/1455833/118/dash/e000f5d3/live.mpd
+#EXTINF:-1 tvg-id="MTV POLSKA" tvg-logo="https://ipla-e2-41.pluscdn.pl/p/cms_thumbnails/wc/wcf1uyqm2ct1mu68oeskjr7dqewegg6e.png" group-title="Muzyczny",MTV POLSKA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|439e26515e9c45278a89d5d8c37aaf09:a66b57e1e60ee1713cf1db3650eaaea5
+https://cdn-s-lb2.pluscdn.pl/ch/1454368/28/dash/1eac59cd/live.mpd
+#EXTINF:-1 tvg-id="BBC BRIT" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/3b/3b3yt3q45fd3zp2h5rbibm1tmem63y4n.png" group-title="Lifestyle",BBC BRIT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2711d26898e1436a88887e1c2684e709:147ff21f809ac1b7f4f38555946f6262
+https://cdn-s-lb2.pluscdn.pl/ch/1455427/80/dash/ccbb8acd/live.mpd
+#EXTINF:-1 tvg-id="Eska TV" tvg-logo="https://ipla-e2-49.pluscdn.pl/p/cms_thumbnails/6p/6pxb6xr1j7skg1k7uomdqmesdw6qqgt2.png" group-title="Muzyczny",Eska TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74c67d5d30514410b168d630bc252b09:00dbb86aa3ea543e13f49fa42ab4c0a8
 https://cdn-s-lb2.pluscdn.pl/ch/1454631/52/dash/01dc04d1/live.mpd
-#EXTINF:-1 tvg-id="Polo TV" tvg-logo="" group-title="Muzyczny",Polo TV
+#EXTINF:-1 tvg-id="Polo TV" tvg-logo="https://ipla-e2-44.pluscdn.pl/p/cms_thumbnails/7p/7pezoqg74tb3bdsx8e9te3dauh6cah9j.png" group-title="Muzyczny",Polo TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|86cf6197c55646e09b31767050f2bd09:69f7edd4fb1e35dc3f2f530478cb9a20
 https://cdn-s-lb2.pluscdn.pl/ch/1454602/38/dash/513045fc/live.mpd
