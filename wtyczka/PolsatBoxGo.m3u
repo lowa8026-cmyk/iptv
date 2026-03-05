@@ -441,7 +441,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1455169/70/dash/5c0c41d0/live.mpd
 https://cdn-s-lb2.pluscdn.pl/ch/1456322/120/dash/49819f3b/live.mpd
 #EXTINF:-1 tvg-id="BBC Lifestyle HD" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/6x/6x561nht2px9i4zbhciuza7hk5xgejsy.png" group-title="Lifestyle",BBC Lifestyle HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|35f364c3c1a64a588dddaf76ae57fb09
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|35f364c3c1a64a588dddaf76ae57fb09:8f329add1918a2210e4d0d345deaccd5
 https://cdn-s-lb2.pluscdn.pl/ch/1454632/53/dash/79b4ade5/live.mpd
 #EXTINF:-1 tvg-id="E!" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/sn/snk5bdiig7anpn3pq856g9ms43y42r86.png" group-title="Lifestyle",E!
 #KODIPROP:inputstream=inputstream.adaptive
@@ -543,11 +543,11 @@ https://cdn-s-lb2.pluscdn.pl/ch/1457282/138/dash/c2290bec/live.mpd
 https://polsatboxgo.pl/kanaly-tv/Star%20Family%20HD/1457284
 #EXTINF:-1 tvg-id="Film UA Drama HD" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/w1/w1wv4sq6z464ifhw1zsvpd2f4qbwuh23.png" group-title="Filmy i seriale",Film UA Drama HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cd974b7eccc04036bbfdb480247e2a09:6ef71fb50928889cac3b5b22a8810499
 https://cdn-s-lb2.pluscdn.pl/ch/1457280/136/dash/c2d72497/live.mpd
 #EXTINF:-1 tvg-id="Kvartal TV" tvg-logo="https://ipla-e1-90.pluscdn.pl/p/cms_thumbnails/6x/6xjhx7oh6ecbb721rqzdn3kv1p2eambv.png" group-title="Filmy i seriale",Kvartal TV
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9e6fc676d0ed4739a9e53ec9439aff09:685dd06df030b7aecbecfd20185e9887
 https://cdn-s-lb2.pluscdn.pl/ch/1457295/143/dash/24b57151/live.mpd
 #EXTINF:-1 tvg-id="Dacha HD" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/32/323co231siymf8t5pwkc3zdbs32rb43f.png" group-title="Lifestyle",Dacha HD
 https://polsatboxgo.pl/kanaly-tv/Dacha%20HD/1457289
