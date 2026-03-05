@@ -471,10 +471,86 @@ https://cdn-s-lb2.pluscdn.pl/ch/1455427/80/dash/ccbb8acd/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74c67d5d30514410b168d630bc252b09:00dbb86aa3ea543e13f49fa42ab4c0a8
 https://cdn-s-lb2.pluscdn.pl/ch/1454631/52/dash/01dc04d1/live.mpd
+#EXTINF:-1 tvg-id="Polsat Music HD" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/r2/r2evx9qxpo9isfnbkiyvr9scsf1kc5q1.png" group-title="Muzyczny",Polsat Music HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1917dfd861514f0cae71aad5aa1ff509:451d13ceb4f8357bb69e9c696b880b9f
+https://cdn-s-lb2.pluscdn.pl/ch/1454616/43/dash/8992f462/live.mpd
 #EXTINF:-1 tvg-id="Polo TV" tvg-logo="https://ipla-e2-44.pluscdn.pl/p/cms_thumbnails/7p/7pezoqg74tb3bdsx8e9te3dauh6cah9j.png" group-title="Muzyczny",Polo TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|86cf6197c55646e09b31767050f2bd09:69f7edd4fb1e35dc3f2f530478cb9a20
 https://cdn-s-lb2.pluscdn.pl/ch/1454602/38/dash/513045fc/live.mpd
+#EXTINF:-1 tvg-id="DISCO POLO MUSIC" tvg-logo="https://ipla-e1-90.pluscdn.pl/p/cms_thumbnails/7x/7xhhu9hkcrzod791pt5mdqy162f1pyt3.png" group-title="Muzyczny",DISCO POLO MUSIC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|db0ab611842742b19d1122922058c309:cb653479a4a54c7d1016614afc52d1b0
+https://cdn-s-lb2.pluscdn.pl/ch/1454605/41/dash/1d3a5efe/live.mpd
+#EXTINF:-1 tvg-id="VOX MUSIC TV" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/uo/uo798iiqdhr8g13wwn2wt7qg61ywnw2w.png" group-title="Muzyczny",VOX MUSIC TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e1b0b8280cad4bec82163f44dd1bdd09:41ef9172fc1c13417c00e71a28ad40ae
+https://cdn-s-lb2.pluscdn.pl/ch/1454401/35/dash/c8b2b0fc/live.mpd
+#EXTINF:-1 tvg-id="ESKA TV EXTRA" tvg-logo="https://ipla-e2-39.pluscdn.pl/p/cms_thumbnails/o5/o5r2c1wtkqcuwnrz55ksga56ybitcz9s.png" group-title="Muzyczny",ESKA TV EXTRA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d438f3e9bbe84ba4b12c7346f341a509:c06426616f2012bc92c526e57a5cea87
+https://cdn-s-lb2.pluscdn.pl/ch/1457771/151/dash/f14fac33/live.mpd
+#EXTINF:-1 tvg-id="ESKA ROCK TV" tvg-logo="https://ipla-e2-49.pluscdn.pl/p/cms_thumbnails/ne/ne43h44f69y9fx1r5ev7vm5yf1a49db9.png" group-title="Muzyczny",ESKA ROCK TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4dce6f91e54f4e0bb5d41a3372aaab09:477f0b2d16a936508fa796a5a22c02c2
+https://cdn-s-lb2.pluscdn.pl/ch/1456459/134/dash/53461b8f/live.mpd
+#EXTINF:-1 tvg-id="4Fun TV" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/z9/z9wn6tqhxjnpc9yup7qr15i7otpagj8u.png" group-title="Muzyczny",4Fun TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7601969a8c0e4157a5c84187a7803c09:7e8c5e33fda7091075017b37706ace7c
+https://cdn-s-lb2.pluscdn.pl/ch/1454078/20/dash/3b228ce8/live.mpd
+#EXTINF:-1 tvg-id="4fun Dance" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/1s/1sazm8gojc29qrno266xm4zwo443m4jp.png" group-title="Muzyczny",4fun Dance
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|27fa105777034df68c5a98636a294809:271352c0b11034d33239a00c68dfcd03
+https://cdn-s-lb2.pluscdn.pl/ch/1454062/16/dash/c9968589/live.mpd
+#EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-logo="https://ipla-e1-82.pluscdn.pl/p/cms_thumbnails/97/972ttd3wvj5r1t8bira1wjcjc1aufdxe.png" group-title="Muzyczny",Kino Polska Muzyka
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8422cd9d61024359b72f2f64de2a9e09:83a75f2fd862b6a8d03d034c2a1302d2
+https://cdn-s-lb2.pluscdn.pl/ch/1455416/76/dash/3709d598/live.mpd
+#EXTINF:-1 tvg-id="Zoom TV" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/ew/ewpyrsuaq6xt1592ww151f7njkxy2umv.png" group-title="Ogólny",Zoom TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f0792b0cf004310ba4a747906ffdf09:f94a853d766226ff9e04fc5928e1e44a
+https://cdn-s-lb2.pluscdn.pl/ch/1455166/68/dash/71542d5a/live.mpd
+#EXTINF:-1 tvg-id="360 Tune Box" tvg-logo="https://ipla-e2-44.pluscdn.pl/p/cms_thumbnails/79/79vkzny3qoczwykwjbzgrx4o4kteaeuo.png" group-title="Muzyczny",360 Tune Box
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7038ccfdb447476384d6f447a2c46309:6208dfd2145b7440516bb4171d4c91cf
+https://cdn-s-lb2.pluscdn.pl/ch/1441254/2/dash/67c58d3b/live.mpd
+#EXTINF:-1 tvg-id="FashionBox" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/7s/7sgb1ebu27fyf7ue3uxb4z23boat8xuf.png" group-title="Lifestyle",FashionBox
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0209f2122fad4c88a0580620a3053509:2e073b357f60ae96d70d029eab78170a
+https://cdn-s-lb2.pluscdn.pl/ch/1454041/13/dash/11408f29/live.mpd
+#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://ipla-e1-77.pluscdn.pl/p/cms_thumbnails/8q/8qmu8vgahrvcdtkbdq4drwer213n9q1k.png" group-title="News",CNN International
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a167e1c41baf4ac596b9c37015fd5909:9f8157067e83e42d7dedfa29eb77fbe6
+https://cdn-s-lb2.pluscdn.pl/ch/1454060/15/dash/a00663e1/live.mpd
+#EXTINF:-1 tvg-id="1+1" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/xk/xkp6ieoink5rs4613sqa9dpe8cfm244r.png" group-title="Ogólny",1+1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|18ebce6789a7423492337e05b8431409:3e74e23e52bdf7fb89ef9052c750835f
+https://cdn-s-lb2.pluscdn.pl/ch/1457285/140/dash/8d59a274/live.mpd
+#EXTINF:-1 tvg-id="Kyc Kyc" tvg-logo="https://ipla-e1-77.pluscdn.pl/p/cms_thumbnails/zt/ztcqnh2r6i3kgbxpg11sinr49n1my55m.png" group-title="Lifestyle",Kyc Kyc
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6008928a858a44a18e3ee073ea0f8509:526d4bc1e50beb0287629d1e8a75699d
+https://cdn-s-lb2.pluscdn.pl/ch/1457287/141/dash/7fb912ff/live.mpd
+#EXTINF:-1 tvg-id="X-Sport HD" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/ve/vean33tn14yyp759oz1ym5yon47352j9.png" group-title="Sport",X-Sport HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ab905bbff5c04162b163733b95e04009:b6149b6f4e46a94203f174fc8377ce52
+https://cdn-s-lb2.pluscdn.pl/ch/1457755/148/dash/a89944af/live.mpd
+#EXTINF:-1 tvg-id="Star Cinema HD" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/k4/k4d5c4fuarcwo88uz3e9pn893jn3nuzq.png" group-title="Filmy i seriale",Star Cinema HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|32068a135d954820a935caef9063e509:c91be36a50c748b859de300b8982cb30
+https://cdn-s-lb2.pluscdn.pl/ch/1457282/138/dash/c2290bec/live.mpd
+#EXTINF:-1 tvg-id="Star Family HD" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/65/652g7uytq92cnjzvm832twu81i3txtwd.png" group-title="Filmy i seriale",Star Family HD
+https://polsatboxgo.pl/kanaly-tv/Star%20Family%20HD/1457284
+#EXTINF:-1 tvg-id="Film UA Drama HD" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/w1/w1wv4sq6z464ifhw1zsvpd2f4qbwuh23.png" group-title="Filmy i seriale",Film UA Drama HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://cdn-s-lb2.pluscdn.pl/ch/1457280/136/dash/c2d72497/live.mpd
+#EXTINF:-1 tvg-id="Kvartal TV" tvg-logo="https://ipla-e1-90.pluscdn.pl/p/cms_thumbnails/6x/6xjhx7oh6ecbb721rqzdn3kv1p2eambv.png" group-title="Filmy i seriale",Kvartal TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://cdn-s-lb2.pluscdn.pl/ch/1457295/143/dash/24b57151/live.mpd
+#EXTINF:-1 tvg-id="Dacha HD" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/32/323co231siymf8t5pwkc3zdbs32rb43f.png" group-title="Lifestyle",Dacha HD
+https://polsatboxgo.pl/kanaly-tv/Dacha%20HD/1457289
 #EXTINF:-1 tvg-id="TV Okazje" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/gp/gpozm8hc5zca6shayahbrasnae3dq3tx.png" group-title="Lifestyle",TV Okazje
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e74d29af730847f2b69e53e76706b809:ebfc0bbf7b88f3c9ae5bb75c6066cfc9
