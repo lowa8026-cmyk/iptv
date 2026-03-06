@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generated with https://github.com/shaka-project/shaka-packager version v3.4.2-c819dea-release-->
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" profiles="urn:mpeg:dash:profile:isoff-live:2011" timeShiftBufferDepth="PT220694H54M56S" type="dynamic" minimumUpdatePeriod="PT32S" availabilityStartTime="2001-01-01T00:00:00.000Z" maxSegmentDuration="PT6S" minBufferTime="PT4S" publishTime="2026-03-06T14:54:52.000Z">
+	<BaseURL>https://____/channelname.mpd</BaseURL>
+	<UTCTiming schemeIdUri="urn:mpeg:dash:utc:http-head:2014" value="https://r.dcs.redcdn.pl/utc" />
+	<Period sequence="0" start="PT0S" />
+</MPD>
