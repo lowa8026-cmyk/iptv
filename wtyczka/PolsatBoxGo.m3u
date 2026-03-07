@@ -78,9 +78,11 @@ https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
 https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #EXTINF:-1 tvg-id="Eleven Sports 3" tvg-logo="https://ipla-e2-47.pluscdn.pl/p/cms_thumbnails/b5/b5noft2oz47tdveg8fofykzu72k4367u.png" group-title="Sport",Eleven Sports 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|premiumsport
-https://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:mimetype=video/mp2t
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105527
 #EXTINF:-1 tvg-id="Eleven Sports 4" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/cs/csnzgc2yoe7wqgmzqhotkziw38d83rtn.png" group-title="Sport",Eleven Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|premiumsport
