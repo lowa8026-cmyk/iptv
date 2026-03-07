@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:0 tvg-id="TVN HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn/wp_dai.mpd
+#EXTINF:0 tvg-id="TVP 1 HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVP 1 HD
+https://cdndai.pl/tvp1hd/manifest.mpd?dvr=7200000
+#EXTINF:0 tvg-id="TVP 2 HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVP 2 HD
+https://cdndai.pl/tvp2hd/manifest.mpd?dvr=7200000
+#EXTINF:0 tvg-id="Polsat HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Polsat HD
+https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:0 tvg-id="TVN24" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN24 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24/live.isml
+#EXTINF:0 tvg-id="TVN24 BiS HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN24 BiS HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+
+#EXTINF:0 tvg-id="TV 4 HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TV 4 HD
+
+#EXTINF:0 tvg-id="TVN 7 HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN 7 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+
+#EXTINF:0 tvg-id="TTV HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TTV HD
+
+#EXTINF:0 tvg-id="Metro" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Metro
+
+#EXTINF:0 tvg-id="Zoom TV" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Zoom TV
+
+#EXTINF:0 tvg-id="TVN Turbo HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Turbo HD
+
+#EXTINF:0 tvg-id="Eleven Sports 1 HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 1 HD
+
+#EXTINF:0 tvg-id="Eleven Sports 2 HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 2 HD
+
+#EXTINF:0 tvg-id="Stopklatka" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Stopklatka
+
+#EXTINF:0 tvg-id="FX HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",FX HD
+
+#EXTINF:0 tvg-id="FX Comedy HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",FX Comedy HD
+
+#EXTINF:0 tvg-id="Kino TV" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Kino TV
+
+#EXTINF:0 tvg-id="FilmBox Premium HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",FilmBox Premium HD
+
+#EXTINF:0 tvg-id="FilmBox Action" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",FilmBox Action
+
+#EXTINF:0 tvg-id="Epic Drama HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Epic Drama HD
+
+#EXTINF:0 tvg-id="National Geographic HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",National Geographic HD
+
+#EXTINF:0 tvg-id="National Geographic Wild HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",National Geographic Wild HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+
+#EXTINF:0 tvg-id="History" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",History
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+
+#EXTINF:0 tvg-id="History 2" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",History 2
+
+#EXTINF:0 tvg-id="Crime+Investigation" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Crime+Investigation
+
+#EXTINF:0 tvg-id="Viasat True Crime" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Viasat True Crime
+
+#EXTINF:0 tvg-id="Polsat Viasat History HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Polsat Viasat History HD
+
+#EXTINF:0 tvg-id="Polsat Viasat Explore HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Polsat Viasat Explore HD
+
+#EXTINF:0 tvg-id="Polsat Viasat Nature HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Polsat Viasat Nature HD
+
+#EXTINF:0 tvg-id="TVN Style" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Style
+
+#EXTINF:0 tvg-id="HGTV" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",HGTV
