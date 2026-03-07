@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0, Zoom TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e98fdeae8c1effb70817f9e2170a85a6:3c8db6b59592ee4843119e864b8f33f7
+https://r.dcs.redcdn.pl/livedash/o2/wpp/live/zoom_tv_hd/live.livx
 #EXTINF:-1 tvg-id="Polsat" tvg-logo="https://ipla-e1-82.pluscdn.pl/p/cms_thumbnails/sn/snzh1wk9rdqcas15i2xfu5v4d4qyr1ub.png" group-title="Ogólny",Polsat
 https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="TV4" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/1v/1vjyi44css23o17yneooo293a9pvfrqh.jpg" group-title="Ogólny",TV4
