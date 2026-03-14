@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0, CARTOON NETWORK HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6d9feee20f395891b44962540b76a286:b33f140e10b48bb0b44e7a8a06a5f674,ced73373972c5c38b0b5ffb722b908d0:30496498ed020b3a870b0cebd25639d6,6abda0750ef65d7fa06bbf9c9d68f276:f9b6647092fac11fe7cab3c367260cde
+https://lineartv-cdn.t-mobile.pl/bpk-tv/cartoonnetwork/default/index.mpd
 #EXTINF:0, Zoom TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e98fdeae8c1effb70817f9e2170a85a6:3c8db6b59592ee4843119e864b8f33f7
