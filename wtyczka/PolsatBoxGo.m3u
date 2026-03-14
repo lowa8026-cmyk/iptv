@@ -90,7 +90,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=video/mp2t
-http://protzpwcf1.top:8080/pro2391767719725/26fc9bf426c3/849
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:37:47:85&stream=264894&extension=ts&play_token=dN3B2gkUcD
 #EXTINF:-1 tvg-id="Eleven Sports 4" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/cs/csnzgc2yoe7wqgmzqhotkziw38d83rtn.png" group-title="Sport",Eleven Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|premiumsport
