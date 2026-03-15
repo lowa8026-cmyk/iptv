@@ -55,6 +55,8 @@ https://r.dcs.redcdn.pl/livedash/o2/wpp/live/fox_hd/live.livx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fed63ff94c7a9c4f0495498fc58513d6:4377278afd4bad9267d356343207c9ee
 https://r.dcs.redcdn.pl/livedash/o2/wpp/live/fox_comedy_hd/live.livx
+#EXTINF:0 tvg-id="TVP HD" tvg-logo="https://v.wpimg.pl/LzQzNS5wYxswGDhgGgxuDnNAbDBFHxMKJQxjIEEWKx9zVmwmF01uVT0VKTwaFT4TNhI6fANDY05iT2AjWxBuBw" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVP HD
+https://satoshi-cors.herokuapp.com/78.130.250.2:8023/play/a03a/index.m3u8
 #EXTINF:0 tvg-id="Kino TV" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548425575_31.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Kino TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0a829106f3f44ae6d916985043e6dc13:a0e170211d203229abd4a99014bb9fe8
