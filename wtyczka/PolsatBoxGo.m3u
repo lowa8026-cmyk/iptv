@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:0, CARTOON NETWORK HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6d9feee20f395891b44962540b76a286:b33f140e10b48bb0b44e7a8a06a5f674,ced73373972c5c38b0b5ffb722b908d0:30496498ed020b3a870b0cebd25639d6,6abda0750ef65d7fa06bbf9c9d68f276:f9b6647092fac11fe7cab3c367260cde
-https://lineartv-cdn.t-mobile.pl/bpk-tv/cartoonnetwork/default/index.mpd
-#EXTINF:0, Zoom TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e98fdeae8c1effb70817f9e2170a85a6:3c8db6b59592ee4843119e864b8f33f7
-https://r.dcs.redcdn.pl/livedash/o2/wpp/live/zoom_tv_hd/live.livx
 #EXTINF:-1 tvg-id="Polsat" tvg-logo="https://ipla-e1-82.pluscdn.pl/p/cms_thumbnails/sn/snzh1wk9rdqcas15i2xfu5v4d4qyr1ub.png" group-title="Ogólny",Polsat
 https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="TV4" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/1v/1vjyi44css23o17yneooo293a9pvfrqh.jpg" group-title="Ogólny",TV4
@@ -24,9 +16,7 @@ https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 tvg-id="Polsat News Polityka" tvg-logo="https://ipla-e2-41.pluscdn.pl/p/cms_thumbnails/3w/3wx1iiqd96cio6bd4menc8wcmj62md2x.png" group-title="News",Polsat News Polityka
 https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 #EXTINF:-1 tvg-id="Polsat News 2" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/2i/2iv48f5qtnbsq183y4wouyp6ou732tzn.png" group-title="News",Polsat News 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b5426414abac4882a496eda5e4874409:21bea316ac7f46877d94d67169a1cd2b
-https://cdn-s-lb2.pluscdn.pl/ch/1442864/5/dash/e7f4555f/live.mpd
+https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
 #EXTINF:-1 tvg-id="POLSAT 2 HD" tvg-logo="https://ipla-e2-20.pluscdn.pl/p/cms_thumbnails/25/25d58m33m5eebdhi4ivnn6emxkztvg9m.png" group-title="Ogólny",POLSAT 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7129e7bfa9934d21a7f6e8219a7b8809:58054f2150c93f2cef4466ba495344bb
