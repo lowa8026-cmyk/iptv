@@ -541,6 +541,18 @@ https://cdn-s-lb2.pluscdn.pl/ch/1441254/2/dash/67c58d3b/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0209f2122fad4c88a0580620a3053509:2e073b357f60ae96d70d029eab78170a
 https://cdn-s-lb2.pluscdn.pl/ch/1454041/13/dash/11408f29/live.mpd
+#EXTINF:-1 tvg-id="TV Republika" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/ep/epyz4fxcfcriha2yr5ocm36ahbjob853.png" group-title="News",TV Republika
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a7e42cd2aace4a49ae04d2760e5d8209:f35e1b491f61f8bcf372afcb1315e6e3
+https://cdn-s-lb2.pluscdn.pl/ch/1454064/17/dash/cc140553/live.mpd
+#EXTINF:-1 tvg-id="WP PL" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/wi/wiyeb5yv1hnrv4jnmb6wtwcbdn2t7q8r.png" group-title="Ogólny",WP PL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|27eb637ff3384753820a14c4a40f3309:9b71db0dc5b4ad0a2e2605097bf54857
+https://cdn-s-lb2.pluscdn.pl/ch/1454634/55/dash/73291e5f/live.mpd
+#EXTINF:-1 tvg-id="wPolsce24" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/ca/cafghu1zfs72dkgfmy8j4ak1vb4xxmjs.png" group-title="News",wPolsce24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0e9ac4aec5024726a9d7d256c685aa09:c0c3dcc8bcaef367a4435f8deab855ae
+https://cdn-s-lb2.pluscdn.pl/ch/1454414/36/dash/fac0a4d2/live.mpd
 #EXTINF:-1 tvg-id="CNN International" tvg-logo="https://ipla-e1-77.pluscdn.pl/p/cms_thumbnails/8q/8qmu8vgahrvcdtkbdq4drwer213n9q1k.png" group-title="News",CNN International
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a167e1c41baf4ac596b9c37015fd5909:9f8157067e83e42d7dedfa29eb77fbe6
