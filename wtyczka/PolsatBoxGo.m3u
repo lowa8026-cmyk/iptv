@@ -558,7 +558,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454414/36/dash/fac0a4d2/live.mpd
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:mimetype=video/mp2t
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/d3336a0a-9b8b-404d-8f20-d9a33a77b6a9.ts
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105464
 #EXTINF:-1 tvg-id="CNN International" tvg-logo="https://ipla-e1-77.pluscdn.pl/p/cms_thumbnails/8q/8qmu8vgahrvcdtkbdq4drwer213n9q1k.png" group-title="News",CNN International
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a167e1c41baf4ac596b9c37015fd5909:9f8157067e83e42d7dedfa29eb77fbe6
