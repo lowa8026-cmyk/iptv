@@ -553,7 +553,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454634/55/dash/73291e5f/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0e9ac4aec5024726a9d7d256c685aa09:c0c3dcc8bcaef367a4435f8deab855ae
 https://cdn-s-lb2.pluscdn.pl/ch/1454414/36/dash/fac0a4d2/live.mpd
-#EXTINF:-1 tvg-id="wPolsce24 4K" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/ca/cafghu1zfs72dkgfmy8j4ak1vb4xxmjs.png" group-title="News",wPolsce24 4K
+#EXTINF:-1 tvg-id="wPolsce 24 4K" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/ca/cafghu1zfs72dkgfmy8j4ak1vb4xxmjs.png" group-title="News",wPolsce 24 4K
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
