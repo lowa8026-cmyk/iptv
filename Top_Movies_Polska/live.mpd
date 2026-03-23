@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="1970-01-01T00:00:00.000000Z" publishTime="2026-03-23T10:12:44.000000Z" minimumUpdatePeriod="PT3S" minBufferTime="PT10S" timeShiftBufferDepth="PT2M0S">
+<Location>https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8</Location><Period id="69a78dca7442af1978238a7d" start="P20516DT1H41M23.972S">
+<BaseURL>https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/</BaseURL>
+<AdaptationSet contentType="video">
+<Representation width="1280" height="720" sar="1:1" mimeType="video/mp4" codecs="avc1.640020" id="766964656F2F627733303030303030" bandwidth="3000000">
+<SegmentTemplate timescale="90000" presentationTimeOffset="159532963557536" startNumber="33239883" media="video/bw3000000/$Time$.mp4" initialization="video/bw3000000/69a78dca7442af1978238a7d.mp4">
+<SegmentTimeline>
+<S t="159683458137520" d="540000" r="18"/>
+</SegmentTimeline>
+</SegmentTemplate>
+</Representation>
+</AdaptationSet>
+<AdaptationSet lang="pol" contentType="audio">
+<Representation audioSamplingRate="24000" mimeType="audio/mp4" codecs="mp4a.40.2" id="617564696F2F6F7267" bandwidth="160000">
+<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+<SegmentTemplate timescale="24000" presentationTimeOffset="42542123615343" startNumber="33239883" media="audio/org/$Time$.mp4" initialization="audio/org/69a78dca7442af1978238a7d.mp4">
+<SegmentTimeline>
+<S t="42582255502281" d="144384"/>
+<S d="143360"/>
+<S d="144384" r="1"/>
+<S d="143360"/>
+<S d="144384"/>
+<S d="143360"/>
+<S d="144384" r="1"/>
+<S d="143360"/>
+<S d="144384" r="1"/>
+<S d="143360"/>
+<S d="144384"/>
+<S d="143360"/>
+<S d="144384" r="1"/>
+<S d="143360"/>
+<S d="144384"/>
+</SegmentTimeline>
+</SegmentTemplate>
+</Representation>
+</AdaptationSet>
+</Period>
+<UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2026-03-23T10:12:44.111030Z"/>
+</MPD>
