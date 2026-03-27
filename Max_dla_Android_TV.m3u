@@ -12,10 +12,11 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_7/live.isml/playlist.mpd?
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cfeda6b8ee85c549e55b9f56e02ff375:c578b1c9c00b917fc84eae4d65bc73ad
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="TVN FHD" tvg-logo="https://r-scale-4a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908473/images/55267668?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Max dla Android TV" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|88a5e370996b3de3a3361995382d4467:dc29d760cbaf2e17aa8cebd9d39fc5e5
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Linux; Android 16; moto g 5G (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.139 Mobile Safari/537.36
-https://r.dcs.redcdn.pl/livehls/o2/tvnplayer/live/tvn/live.isml/playlist.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105352
 #EXTINF:0 tvg-id="TTV HD" tvg-logo="https://r-scale-79.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908475/images/49770120?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="Max dla Android TV" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TTV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6d74e7e5d705252f2d9c454f9945dc69:32468b529c8cd2481adeea50dcd94480
