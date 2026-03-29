@@ -73,3 +73,17 @@ https://lowa8026-cmyk.github.io/livedash/o2/tvnplayerncp/live/canal_plus_4k_ultr
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_now/live.isml/playlist.mpd?indexMode=&dummyfile=&dvr=7200000
+#EXTINF:0, CANAL+ PREMIUM HD Wersja m3u8
+https://r.dcs.redcdn.pl/livehls/o2/tvnplayerncp/live/canal_plus/live.isml/playlist.m3u8
+#EXTINF:0, CANAL+ 1 HD Wersja m3u8
+https://r.dcs.redcdn.pl/livehls/o2/tvnplayerncp/live/canal_plus_1/live.isml/playlist.m3u8
+#EXTINF:0, CANAL+ FILM HD Wersja m3u8
+https://r.dcs.redcdn.pl/livehls/o2/tvnplayerncp/live/canal_plus_film/live.isml/playlist.m3u8
+#EXTINF:0, CANAL+ SERIALE HD Wersja m3u8
+https://r.dcs.redcdn.pl/livehls/o2/tvnplayerncp/live/canal_plus_seriale/live.isml/playlist.m3u8
+#EXTINF:0, CANAL+ 4K ULTRA HD Wersja m3u8
+https://lowa8026-cmyk.github.io/livehls/o2/tvnplayerncp/live/canal_plus_4k_ultra_hd/live.isml/playlist.m3u8
+#EXTINF:0, CANAL+ 360 HD Wersja m3u8
+https://r.dcs.redcdn.pl/livehls/o2/tvnplayerncp/live/canal_plus_family/live.isml/playlist.m3u8
+#EXTINF:0, CANAL+ DOKUMENT HD Wersja m3u8
+https://r.dcs.redcdn.pl/livehls/o2/tvnplayerncp/live/canal_plus_discovery/live.isml/playlist.m3u8
