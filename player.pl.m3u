@@ -19,6 +19,34 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/ttv/live.isml/playlist.mpd?in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b2c3241ab01527e0e3dbdc326e5ddf13:5bc6abe48eebc322cbb81e7563081fb1
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/metro/wp_dai.mpd
+#EXTINF:0 tvg-id="TVN Fabuła HD" tvg-logo="https://r-scale-c1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/10413549/images/1730190232232/10413549.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Fabuła HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|453f31b89ac45a5482e1fbc16b06c535
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_fabula/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Cartoonito HD" tvg-logo="https://r-scale-db.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330166/images/52496636?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Cartoonito HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5dd4fca4857f84a5de1f2159a6b35cdf
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/warnertv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Warner TV HD" tvg-logo="https://r-scale-6d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330170/images/52496628?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Warner TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|81e587716f8745c47cd643b01979def1
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/boomerang/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Eleven Sports 1 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266427.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3bdddc3ae3bb43b7a93d6ff72991e5dc:9a1ca978d3bb5fe1300696f9683567eb
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Eleven Sports 2 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266429.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|db4e84001a1e4fc3bf2612dc154dd75d:ad535148efdde938b29be16c9ab95134
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11_sports/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Eleven Sports 3 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266431.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|65c9e7e73a314bacb570514a605ea306:91c84c5a2af36c16e20397da599a6e94
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11_extra/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="Eleven Sports 4 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_266433.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 4 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5288e6308fb45f5b89f3ece30b12b1b3:106c98f71aa6a18fbd32da9d58859413
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/eleven_sports_4_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ PREMIUM HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_815964.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ PREMIUM HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6958f534821d4c62fea40b492afd6e0b:5999c7367193eacc990d9ba983f5fbde
@@ -67,3 +95,7 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_sport_4/live.is
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0123456789a123456789a12345678a0:01234567890123456789012345678a0
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_now/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="MOTOWIZJA" tvg-logo="https://r-scale-b9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/101381/images/49769016?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",MOTOWIZJA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|102181f4eb7d8c1e623433b8d93fe692:8be229fe7fe9d78e5faccc79331a011f
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/motowizja_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
