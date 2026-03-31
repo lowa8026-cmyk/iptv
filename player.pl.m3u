@@ -15,6 +15,10 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24/live.isml/playlist.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6d74e7e5d705252f2d9c454f9945dc69:32468b529c8cd2481adeea50dcd94480
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/ttv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0 tvg-id="TVP 1" tvg-logo="https://r-scale-6e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866669/images/55947096.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" ,TVP 1
+https://la500.cdndai.pl/cdndai/dai4/org1/vb/104/tvp1hd/x/manifest.mpd
+#EXTINF:0 tvg-id="TVP 2" tvg-logo="https://r-scale-a7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/9866671/images/55947104.png?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" ,TVP 2
+https://la500.cdndai.pl/cdndai/dai4/org2/vb/105/tvp2hd/x/manifest.mpd
 #EXTINF:0 tvg-id="Metro" tvg-logo="https://r-scale-7a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930752/images/49768977?dsth=200&dstw=400&srcmode=0&srcx=0&srcy=0&quality=85&type=0&srcw=1/1&srch=1/1" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Metro
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b2c3241ab01527e0e3dbdc326e5ddf13:5bc6abe48eebc322cbb81e7563081fb1
