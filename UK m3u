@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0, Sky Mix
+http://80.194.62.172:50002/stream/channelid/1848745953
+#EXTINF:0, Film4
+http://80.194.62.172:50002/stream/channelid/1764271106
+#EXTINF:0, Film4 2
+http://12.194.63.154:30000/iehfeo@gmail.com/1452882782/mpegts
+#EXTINF:0, E4
+http://80.194.62.172:50002/stream/channelid/1096333958
+#EXTINF:0, Channel 4
+http://80.194.62.172:50002/stream/channelid/1940621521
+#EXTINF:0, ITV1
+http://80.194.62.172:50002/stream/channelid/95929545
+#EXTINF:0, ITV2
+http://80.194.62.172:50002/stream/channelid/404728797
