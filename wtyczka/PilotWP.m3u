@@ -71,6 +71,16 @@ https://r.dcs.redcdn.pl/livedash/o2/wpp/live/filmbox_premium/live.livx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b97a0d6e9bcd5948ac4241241bae94c2:f961b032e6718b563e6bc88188437672
 https://r.dcs.redcdn.pl/livedash/o2/wpp/live/epic_drama/live.livx
+#EXTINF:0 tvg-id="TVN Style" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1733837168_297.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Style
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6b04444f6093cc7d12ab9e671e1ddf23:254fde48bd708bee1a08fd4f5038c1c2
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_style/wp_dai.mpd
+#EXTINF:0 tvg-id="HGTV" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1732884252_296.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",HGTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|286cfe88bc76ec028f3a5ea879731ef1:e5019021164b21f065671bc8eb6cf83a
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/hgtv/wp_dai.mpd
+#EXTINF:0 tvg-id="Twoja.TV HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1549453620_150.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Twoja.TV HD
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc113/twojatvhdraw/twojatvhdraw.mpd
 #EXTINF:0 tvg-id="National Geographic HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548425068_190.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",National Geographic HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f3be545deab8e2f102ef18eb533d958a:cb9e5c87b3e1671db90fa001f5c0dcf0
@@ -107,13 +117,19 @@ https://r.dcs.redcdn.pl/livedash/o2/wpp/live/polsat_viasat_explore_hd/live.livx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e50cd0c0e23d4914f0d2c0c403cf29c9:8758b6de6f6a39c28a0ee11bae32ed4a
 https://r.dcs.redcdn.pl/livedash/o2/wpp/live/polsat_viasat_nature/live.livx
-#EXTINF:0 tvg-id="TVN Style" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1733837168_297.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN Style
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6b04444f6093cc7d12ab9e671e1ddf23:254fde48bd708bee1a08fd4f5038c1c2
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_style/wp_dai.mpd
-#EXTINF:0 tvg-id="HGTV" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1732884252_296.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",HGTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|286cfe88bc76ec028f3a5ea879731ef1:e5019021164b21f065671bc8eb6cf83a
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/hgtv/wp_dai.mpd
+#EXTINF:0 tvg-id="Tele 5 HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1571405500_212.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Tele 5 HD
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc013/tele5hdraw/tele5hdraw.mpd
+#EXTINF:0 tvg-id="TVS" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1551265038_51.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVS
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc018/tvsraw/tvsraw.mpd
+#EXTINF:0 tvg-id="Super Express TV" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Super Express TV
+https://s-pl-01.mediatool.tv/playout/sepl-abr/index.mpd
+#EXTINF:0 tvg-id="Polonia 1" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1571408333_211.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Polonia 1
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc003/polonia1hdraw/polonia1hdraw.mpd
+#EXTINF:0 tvg-id="TBN Polska HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1590744361_204.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TBN Polska HD
+https://s-pl-01.mediatool.tv/playout/tbn-abr/index.mpd
+#EXTINF:0 tvg-id="TVT Zgorzelec" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVT Zgorzelec
+http://gargoyle.tomkow.pl/dash/tvt.mpd
+#EXTINF:0 tvg-id="TVT Rybnik" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1667391748_298.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVT Rybnik
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc117/tvtraw/tvtraw.mpd
 #EXTINF:0 tvg-id="Radio 357" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1718185134_240.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Radio 357
 https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx
