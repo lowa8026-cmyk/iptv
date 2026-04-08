@@ -39,11 +39,11 @@ https://r.dcs.redcdn.pl/livedash/o2/wpp/live/11/live.livx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|42aa471b367fd4a7b8674c19e112d572:a135e55e22380ccd88275f53def8009e
 https://r.dcs.redcdn.pl/livedash/o2/wpp/live/11_sports/live.livx
-#EXTINF:0 tvg-id="Eleven Sports 3 HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 3 HD
+#EXTINF:0 tvg-id="Eleven Sports 3 HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548425176_164.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 3 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|afaf11daabfe0a7882de3344055f0165:4dfbc904f652a86713c43606c9331d54
 https://r.dcs.redcdn.pl/livedash/o2/wpp/live/11_extra/live.livx
-#EXTINF:0 tvg-id="Eleven Sports 4 HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 4 HD
+#EXTINF:0 tvg-id="Eleven Sports 4 HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548425195_181.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 4 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d7732232153adb005fb2a58585eb2ebc:e6e2d625f2e2e65ff478b904c601aaf9
 https://r.dcs.redcdn.pl/livedash/o2/wpp/live/eleven_sports_4_hd/live.livx
@@ -59,8 +59,6 @@ https://r.dcs.redcdn.pl/livedash/o2/wpp/live/fox_hd/live.livx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fed63ff94c7a9c4f0495498fc58513d6:4377278afd4bad9267d356343207c9ee
 https://r.dcs.redcdn.pl/livedash/o2/wpp/live/fox_comedy_hd/live.livx
-#EXTINF:0 tvg-id="TVP HD" tvg-logo="https://v.wpimg.pl/LzQzNS5wYxswGDhgGgxuDnNAbDBFHxMKJQxjIEEWKx9zVmwmF01uVT0VKTwaFT4TNhI6fANDY05iT2AjWxBuBw" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVP HD
-https://satoshi-cors.herokuapp.com/78.130.250.2:8023/play/a03a/index.m3u8
 #EXTINF:0 tvg-id="Kino TV" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548425575_31.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Kino TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0a829106f3f44ae6d916985043e6dc13:a0e170211d203229abd4a99014bb9fe8
@@ -117,5 +115,5 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_style/wp_dai.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|286cfe88bc76ec028f3a5ea879731ef1:e5019021164b21f065671bc8eb6cf83a
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/hgtv/wp_dai.mpd
-#EXTINF:0 tvg-id="Radio 357" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Radio 357
+#EXTINF:0 tvg-id="Radio 357" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1718185134_240.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Radio 357
 https://r.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx
