@@ -9,10 +9,6 @@ https://cdndai.pl/tvp1hd/manifest.mpd?dvr=7200000
 https://cdndai.pl/tvp2hd/manifest.mpd?dvr=7200000
 #EXTINF:0 tvg-id="Polsat HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1630576360_9.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Polsat HD
 https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:0 tvg-id="TVN24" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1589359807_234.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN24 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cfeda6b8ee85c549e55b9f56e02ff375:c578b1c9c00b917fc84eae4d65bc73ad
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24/live.isml
 #EXTINF:0 tvg-id="TV 4 HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1691397789_11.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TV 4 HD
 https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:0 tvg-id="TVN 7 HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1732884519_232.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN 7 HD
@@ -37,12 +33,20 @@ https://r.dcs.redcdn.pl/livedash/o2/wpp/live/zoom_tv_hd/live.livx
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_turbo/wp_dai.mpd
 #EXTINF:0 tvg-id="Eleven Sports 1 HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548425121_156.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
-https://cdn-s-playnow-live.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|382eb40238481ece34ca0c87abfdb0cf:7bc151fa8f2d6bfb22a104e7a528ffd6
+https://r.dcs.redcdn.pl/livedash/o2/wpp/live/11/live.livx
 #EXTINF:0 tvg-id="Eleven Sports 2 HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548425137_157.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
-https://cdn-s-playnow-live.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|42aa471b367fd4a7b8674c19e112d572:a135e55e22380ccd88275f53def8009e
+https://r.dcs.redcdn.pl/livedash/o2/wpp/live/11_sports/live.livx
+#EXTINF:0 tvg-id="Eleven Sports 3 HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|afaf11daabfe0a7882de3344055f0165:4dfbc904f652a86713c43606c9331d54
+https://r.dcs.redcdn.pl/livedash/o2/wpp/live/11_extra/live.livx
+#EXTINF:0 tvg-id="Eleven Sports 4 HD" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Eleven Sports 4 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d7732232153adb005fb2a58585eb2ebc:e6e2d625f2e2e65ff478b904c601aaf9
+https://r.dcs.redcdn.pl/livedash/o2/wpp/live/eleven_sports_4_hd/live.livx
 #EXTINF:0 tvg-id="Stopklatka" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1718026755_48.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Stopklatka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7da209381930a4b7f0df507986442402:6c8c4a218bd26d412a6448157d2d454a
@@ -65,10 +69,6 @@ https://r.dcs.redcdn.pl/livedash/o2/wpp/live/kino_tv/live.livx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|69794b9e6b4e8b9c0026c4afc82c96b5:01f067c69b72509704ff76d5ec052fb9
 https://r.dcs.redcdn.pl/livedash/o2/wpp/live/filmbox_premium/live.livx
-#EXTINF:0 tvg-id="FilmBox Action" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1755845398_28.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",FilmBox Action
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|34633034383761663262386666346566:66363933383231663938366633393535
-https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc108/filmboxaction/filmboxaction.mpd
 #EXTINF:0 tvg-id="Epic Drama HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1759312358_206.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Epic Drama HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b97a0d6e9bcd5948ac4241241bae94c2:f961b032e6718b563e6bc88188437672
@@ -117,3 +117,5 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_style/wp_dai.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|286cfe88bc76ec028f3a5ea879731ef1:e5019021164b21f065671bc8eb6cf83a
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/hgtv/wp_dai.mpd
+#EXTINF:0 tvg-id="Radio 357" tvg-logo="" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Radio 357
+https://r.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx
