@@ -116,4 +116,4 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_style/wp_dai.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|286cfe88bc76ec028f3a5ea879731ef1:e5019021164b21f065671bc8eb6cf83a
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/hgtv/wp_dai.mpd
 #EXTINF:0 tvg-id="Radio 357" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1718185134_240.png" group-title="Pilot WP" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",Radio 357
-https://r.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx
+https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx
