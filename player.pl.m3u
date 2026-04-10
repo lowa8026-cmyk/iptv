@@ -76,9 +76,7 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_family/live.ism
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c526d6fefd8c167290339c8a3c42d8a7:95e1ee7f2a6bdffdf6fd116e1b78786c
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_discovery/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ 4K ULTRA HD" tvg-logo="https://liveovh010cdapl.github.io/canalplus.supercdn.logos.logotype_250309.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ 4K ULTRA HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f297bf59032ec7b9d5d2110fe1c79fc3:f37a6251522977e84ff8c64c6d942457
-https://lowa8026-cmyk.github.io/livedash/o2/tvnplayerncp/live/canal_plus_4k_ultra_hd/live.isml?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+https://raw.githubusercontent.com/lowa8026-cmyk/iptv/refs/heads/main/SportsTV_Poland/CanalPL4K.m3u8
 #EXTINF:0 tvg-id="CANAL+ SPORT HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_250322.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ SPORT HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0123456789a123456789a12345678a0:0123456789a123456789a12345678a0
