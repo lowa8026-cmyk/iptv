@@ -53,27 +53,27 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11_extra/live.isml/playlis
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/eleven_sports_4_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ PREMIUM HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_815964.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ PREMIUM HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6958f534821d4c62fea40b492afd6e0b:5999c7367193eacc990d9ba983f5fbde
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1e3498d47b84fd7c840e6e34711644ff:047db7b1c61ef7719b1b2748e8e49e28
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ 1 HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_250293.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|135f21af86b6228120eaad36362928e0:4ca9fe37223134faba82f89a5ea4b140
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|347c2002e1d1c75372b3733ca8d919ff:4dd2412b77b4246926cf8465ba66afdc
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_1/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ FILM HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_250303.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ FILM HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5693a8e0317fc34d734fd21cf4067b19:bafc656ee3e65b0aa837ae1a61ab43ad
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|306457f0ba7cb1054d1d65be4cd23bfc:fa535a6ba045e7803d190d7b7e869351
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_film/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ SERIALE HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_250308.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ SERIALE HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c748633ee007c1c27033a0486d34f494:778267c6d25406d5a12623061a1fa2e8
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6eaebbbc8c5a4e173547c137ade3bf67:630e3af039d41b90a06ab90ac3a8a37a
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_seriale/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ 360" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_1329087.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ 360
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ef09d58461bff23aeac503248dfedff5:bff5e2d2e2c792087a83ea00e6db36ea
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|71de4a7341e6219c3ff869f479ce7af6:d81767ece1a81e2dc8acc087083902f1
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_family/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ DOKUMENT HD" tvg-logo="https://static-stb.cdn-canalplus.pl/supercdn/logos/logotype_558307.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ DOKUMENT HD
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c526d6fefd8c167290339c8a3c42d8a7:95e1ee7f2a6bdffdf6fd116e1b78786c
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|763cf8b2f38c7f250ca765bca8eac32f:79c7096f14b2d6f8492520a52495a918
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_discovery/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
 #EXTINF:0 tvg-id="CANAL+ 4K ULTRA HD" tvg-logo="https://liveovh010cdapl.github.io/canalplus.supercdn.logos.logotype_250309.png" group-title="player.pl" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",CANAL+ 4K ULTRA HD
 https://raw.githubusercontent.com/lowa8026-cmyk/iptv/refs/heads/main/SportsTV_Poland/CanalPL4K.m3u8
