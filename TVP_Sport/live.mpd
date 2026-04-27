@@ -1,40 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="1970-01-01T00:00:00.000000Z" publishTime="2026-03-23T10:12:44.000000Z" minimumUpdatePeriod="PT3S" minBufferTime="PT10S" timeShiftBufferDepth="PT2M0S">
-<Location>https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd</Location><Period id="69a78dca7442af1978238a7d" start="P20516DT1H41M23.972S">
-<BaseURL>https://estreams.tv.nej.cz/content/CH_TVP_SPORT_Portable.ism/</BaseURL>
-<AdaptationSet contentType="video">
-<Representation width="1280" height="720" sar="1:1" mimeType="video/mp4" codecs="avc1.640020" id="766964656F2F627733303030303030" bandwidth="3000000">
-<SegmentTemplate timescale="90000" presentationTimeOffset="159532963557536" startNumber="33239883" media="video/bw3000000/$Time$.mp4" initialization="video/bw3000000/69a78dca7442af1978238a7d.mp4">
-<SegmentTimeline>
-<S t="159683458137520" d="540000" r="18"/>
-</SegmentTimeline>
-</SegmentTemplate>
-</Representation>
-</AdaptationSet>
-<AdaptationSet lang="pol" contentType="audio">
-<Representation audioSamplingRate="24000" mimeType="audio/mp4" codecs="mp4a.40.2" id="617564696F2F6F7267" bandwidth="160000">
-<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-<SegmentTemplate timescale="24000" presentationTimeOffset="42542123615343" startNumber="33239883" media="audio/org/$Time$.mp4" initialization="audio/org/69a78dca7442af1978238a7d.mp4">
-<SegmentTimeline>
-<S t="42582255502281" d="144384"/>
-<S d="143360"/>
-<S d="144384" r="1"/>
-<S d="143360"/>
-<S d="144384"/>
-<S d="143360"/>
-<S d="144384" r="1"/>
-<S d="143360"/>
-<S d="144384" r="1"/>
-<S d="143360"/>
-<S d="144384"/>
-<S d="143360"/>
-<S d="144384" r="1"/>
-<S d="143360"/>
-<S d="144384"/>
-</SegmentTimeline>
-</SegmentTemplate>
-</Representation>
-</AdaptationSet>
-</Period>
-<UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2026-02-24T11:45:21.111030Z"/>
+<?xml version="1.0"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" profiles="urn:mpeg:dash:profile:isoff-live:2011" timeShiftBufferDepth="PT2H" type="dynamic" minimumUpdatePeriod="PT32S" availabilityStartTime="2001-01-01T00:00:00.000Z" maxSegmentDuration="PT6S" minBufferTime="PT4S" publishTime="2026-04-27T18:46:52.000Z">
+	<BaseURL>https://n-16-10.dcs.redcdn.pl/livedash/o2/tvnplayer/live/boomerang/live.isml</BaseURL>
+	<UTCTiming schemeIdUri="urn:mpeg:dash:utc:http-head:2014" value="https://r.dcs.redcdn.pl/utc" />
+	<Period sequence="0" start="PT0S">
+		<AdaptationSet id="0" group="1" contentType="video" mimeType="video/mp4" segmentAlignment="true" bitstreamSwitching="true" maxWidth="1920" maxHeight="1080" startWithSAP="1">
+			<ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="5DD4FCA4-857F-84A5-DE1F-2159A6B35CDF" />
+			<ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0" cenc:default_KID="5DD4FCA4-857F-84A5-DE1F-2159A6B35CDF">
+				<mspr:pro>SgIAAAEAAQBAAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAGwAbwBjAGEAbABoAG8AcwB0ADwALwBMAEEAXwBVAFIATAA+ADwASwBJAEQAPgBwAFAAegBVAFgAWAArAEYAcABZAFQAZQBIAHkARgBaAHAAcgBOAGMAMwB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEwAQwBLAFcAZgBKADYAVQBrAGkARQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
+			</ContentProtection>
+			<ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" />
+			<SegmentTemplate startNumber="1" duration="4000" timescale="1000" media="?type=video&amp;ft=1&amp;id=$RepresentationID$&amp;bitrate=$Bandwidth$&amp;idx=$Number$" initialization="?type=video&amp;ft=0&amp;id=$RepresentationID$&amp;bitrate=$Bandwidth$" />
+			<Representation id="0" frameRate="25" codecs="avc1.640028" bandwidth="6350000" width="1920" height="1080" />
+			<Representation id="4" frameRate="25" codecs="avc1.64001f" bandwidth="2695000" width="1280" height="720" />
+			<Representation id="8" frameRate="25" codecs="avc1.64001f" bandwidth="2175000" width="1280" height="720" />
+			<Representation id="12" frameRate="25" codecs="avc1.64001f" bandwidth="1125000" width="1024" height="576" />
+			<Representation id="16" frameRate="25" codecs="avc1.64001e" bandwidth="700000" width="640" height="352" />
+			<Representation id="20" frameRate="25" codecs="avc1.640015" bandwidth="500000" width="512" height="288" />
+		</AdaptationSet>
+		<AdaptationSet id="1" group="2" contentType="audio" mimeType="audio/mp4" segmentAlignment="true" bitstreamSwitching="true" lang="pol" startWithSAP="1">
+			<ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="5DD4FCA4-857F-84A5-DE1F-2159A6B35CDF" />
+			<ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0" cenc:default_KID="5DD4FCA4-857F-84A5-DE1F-2159A6B35CDF">
+				<mspr:pro>SgIAAAEAAQBAAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAGwAbwBjAGEAbABoAG8AcwB0ADwALwBMAEEAXwBVAFIATAA+ADwASwBJAEQAPgBwAFAAegBVAFgAWAArAEYAcABZAFQAZQBIAHkARgBaAHAAcgBOAGMAMwB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEwAQwBLAFcAZgBKADYAVQBrAGkARQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro>
+			</ContentProtection>
+			<ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" />
+			<SegmentTemplate startNumber="1" duration="4000" timescale="1000" media="?type=audio&amp;ft=1&amp;id=$RepresentationID$&amp;bitrate=$Bandwidth$&amp;idx=$Number$" initialization="?type=audio&amp;ft=0&amp;id=$RepresentationID$&amp;bitrate=$Bandwidth$" />
+			<Representation id="1" codecs="mp4a.40.2" bandwidth="128000" audioSamplingRate="48000">
+				<AudioChannelConfiguration schemeIdUri="urn:mpeg:mpegB:cicp:ChannelConfiguration" value="2" />
+			</Representation>
+		</AdaptationSet>
+	</Period>
 </MPD>
