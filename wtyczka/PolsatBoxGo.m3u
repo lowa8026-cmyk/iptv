@@ -1,49 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Polsat" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/sn/snzh1wk9rdqcas15i2xfu5v4d4qyr1ub.png" group-title="Ogólny",Polsat
-https://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:-1 tvg-id="TV4" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/1v/1vjyi44css23o17yneooo293a9pvfrqh.jpg" group-title="Ogólny",TV4
-https://cdn-s-lb2.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
-#EXTINF:-1 tvg-id="TVP 1" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/v8/v82kbv85qkkcuiiyj881w3ydpn6k5zyq.png" group-title="Ogólny",TVP 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2b0c851479874bd48e26b96d45ac9909:908d2e37b3d81ec33f39180a5d5f7423
-https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd
-#EXTINF:-1 tvg-id="TVP 2" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/z2/z2fumgfqjzyhhrqte69rovtbxcxox4un.png" group-title="Ogólny",TVP 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1d7846e008204a74b33170dfdc6ca809:3206d85a3b10b49dbfbf3da758b74606
-https://cdn-s-lb2.pluscdn.pl/ch/1565225/2357/dash/1c8a6b65/live.mpd
-#EXTINF:-1 tvg-id="TVN" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/96/96y3ss9rrcigiff5nmwq9p4bmx7bz9br.png" group-title="Ogólny",TVN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|88a5e370996b3de3a3361995382d4467:dc29d760cbaf2e17aa8cebd9d39fc5e5
-https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:-1 tvg-id="TV Puls" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/wk/wk6oew93t2pnno8gcbk2qriwec639q72.png" group-title="Ogólny",TV Puls
-https://edge06.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-dash/index.mpd
-#EXTINF:-1 tvg-id="Polsat News HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/mo/mob8g9yu86xwcxh6dvrbbam16fgzt9m4.png" group-title="News",Polsat News HD
-https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
-#EXTINF:-1 tvg-id="Polsat News Polityka" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/3w/3wx1iiqd96cio6bd4menc8wcmj62md2x.png" group-title="News",Polsat News Polityka
-https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
-#EXTINF:-1 tvg-id="Polsat News 2" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/2i/2iv48f5qtnbsq183y4wouyp6ou732tzn.png" group-title="News",Polsat News 2
-https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
-#EXTINF:-1 tvg-id="TVN 24" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/8d/8dgs6smn635bfaa3fmjvnorcb4ysspeg.png" group-title="News",TVN 24
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eccf2ddaba3e4a77a94fe5c4e9549709:d7ce663699ff97783e4fd86be70e1b74
-https://cdn-s-lb2.pluscdn.pl/ch/1456331/124/dash/95a22d15/live.mpd
-#EXTINF:-1 tvg-id="POLSAT 2 HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/25/25d58m33m5eebdhi4ivnn6emxkztvg9m.png" group-title="Ogólny",POLSAT 2 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7129e7bfa9934d21a7f6e8219a7b8809:58054f2150c93f2cef4466ba495344bb
-https://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport 1" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ki/kiz7zg7w4e85s1kakh762i1vdst72vw5.png" group-title="Sport",Polsat Sport 1
-https://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport 2" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/a5/a543gt4j6ebf5ze5b2tv8q5ebpk6a9k9.png" group-title="Sport",Polsat Sport 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
-https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport 3" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/7q/7qqi5nggb417w5jkh6g7c8zcwe5kbyex.png" group-title="Sport",Polsat Sport 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|50df829b092f462ab7ccb30199969f09:a9d1069c93b5a60e07c7f7a3985f2d73
-https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
-#EXTINF:-1 tvg-id="Polsat Sport Fight HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/97/97khvj3emc1kpgus8xqet2v9v3s74pat.png" group-title="Sport",Polsat Sport Fight HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|39b61633fdd04e43a3485d3c5ddd1109:6914f88aa49c2edeacc2c876a7fc108f
 https://cdn-s-lb2.pluscdn.pl/ch/1455746/97/dash/0dd0a424/live.mpd
 #EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-logo="https://ipla.pluscdn.pl/img/p/kxeBSwNLSqrp/1366x768/p/cms_thumbnails/sj/sjvf2kmh7xschbu9qnzhxbrsb1nzewwz.png" group-title="Sport",Polsat Sport Premium 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -235,161 +189,161 @@ https://cdn-s-lb2.pluscdn.pl/ch/1455415/75/dash/1c29bc40/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5396965f0e02450596ebf369f15d0809:4f437110333efb9c56c85315b343a102
 https://cdn-s-lb2.pluscdn.pl/ch/1454621/46/dash/13301d8c/live.mpd
-#EXTINF:-1 tvg-id="FilmBox Arthouse" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/43/435zz7hbydeaw1aydsh7dyqijv488k72.png" group-title="Filmy i seriale",FilmBox Arthouse
+#EXTINF:-1 tvg-id="FilmBox Arthouse" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/43/435zz7hbydeaw1aydsh7dyqijv488k72.png" group-title="Filmy i seriale",FilmBox Arthouse
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|86ae1366c0974b38a26be97766f58009:5bbb79a866f6ee38a8e0458abe623b37
 https://cdn-s-lb2.pluscdn.pl/ch/1454603/39/dash/fb138d24/live.mpd
-#EXTINF:-1 tvg-id="FilmBox Action" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/25/25wsd6zr2x6ix7i17oeijg4ba7wwsr46.png" group-title="Filmy i seriale",FilmBox Action
+#EXTINF:-1 tvg-id="FilmBox Action" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/25/25wsd6zr2x6ix7i17oeijg4ba7wwsr46.png" group-title="Filmy i seriale",FilmBox Action
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|06b11a9039de45e89ce762b58fdaa909:6c6f4aa8c2172ae1a33a35807700ebc5
 https://cdn-s-lb2.pluscdn.pl/ch/1455885/119/dash/003891a6/live.mpd
-#EXTINF:-1 tvg-id="FilmBox Extra HD" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/eh/ehu8jn24jmn39xamvwcnmqbpvuf5kjib.png" group-title="Filmy i seriale",FilmBox Extra HD
+#EXTINF:-1 tvg-id="FilmBox Extra HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/eh/ehu8jn24jmn39xamvwcnmqbpvuf5kjib.png" group-title="Filmy i seriale",FilmBox Extra HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|30d9891144924993912c1a1504143f09:b2c69b5ccafe83923d3c2ceefa3c8671
 https://cdn-s-lb2.pluscdn.pl/ch/1454626/48/dash/baec5ecd/live.mpd
-#EXTINF:-1 tvg-id="TVN7" tvg-logo="https://ipla-e1-78.pluscdn.pl/p/cms_thumbnails/31/319vrfeincsqbb4gxcrfv4wavkh2vsqq.png" group-title="Ogólny",TVN7
+#EXTINF:-1 tvg-id="TVN7" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/31/319vrfeincsqbb4gxcrfv4wavkh2vsqq.png" group-title="Ogólny",TVN7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7c34304083fabe177078a4f8acdd19e8:0be71f99b079bf58a69356b53fcc5be8
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_7/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/n3/n38i4wwyxhpcfkreftfudu8oe746x85g.png" group-title="Ogólny",Metro TV
+#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/n3/n38i4wwyxhpcfkreftfudu8oe746x85g.png" group-title="Ogólny",Metro TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|affadbe94f70409ab69a7c60838b6d09:d402506c3eaf43e226005f6b534e675a
 https://cdn-s-lb2.pluscdn.pl/ch/1457279/135/dash/27135140/live.mpd
-#EXTINF:-1 tvg-id="TTV" tvg-logo="https://ipla-e1-77.pluscdn.pl/p/cms_thumbnails/mg/mgwsk71bzi71c8bv4gymqcwjndi4pf8s.png" group-title="Ogólny",TTV
+#EXTINF:-1 tvg-id="TTV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/mg/mgwsk71bzi71c8bv4gymqcwjndi4pf8s.png" group-title="Ogólny",TTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6d74e7e5d705252f2d9c454f9945dc69:32468b529c8cd2481adeea50dcd94480
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/ttv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
-#EXTINF:-1 tvg-id="Zoom TV" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/ew/ewpyrsuaq6xt1592ww151f7njkxy2umv.png" group-title="Ogólny",Zoom TV
+#EXTINF:-1 tvg-id="Zoom TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ew/ewpyrsuaq6xt1592ww151f7njkxy2umv.png" group-title="Ogólny",Zoom TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f0792b0cf004310ba4a747906ffdf09:f94a853d766226ff9e04fc5928e1e44a
 https://cdn-s-lb2.pluscdn.pl/ch/1455166/68/dash/71542d5a/live.mpd
-#EXTINF:-1 tvg-id="Puls 2" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/v3/v3h41736nkb1x3ru24399pd3pm7z5u96.png" group-title="Ogólny",Puls 2
+#EXTINF:-1 tvg-id="Puls 2" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/v3/v3h41736nkb1x3ru24399pd3pm7z5u96.png" group-title="Ogólny",Puls 2
 https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-dash/index.mpd
-#EXTINF:-1 tvg-id="Polsat Rodzina" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/uq/uq1gurah8p5rzj5bu1gtinyk9ffwaer3.png" group-title="Familijny", Polsat Rodzina
+#EXTINF:-1 tvg-id="Polsat Rodzina" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/uq/uq1gurah8p5rzj5bu1gtinyk9ffwaer3.png" group-title="Familijny", Polsat Rodzina
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|afb7b739064445dea487bfa6ee02ab09:91627a6898723764fbf1e03f19b6ca71
 https://cdn-s-lb2.pluscdn.pl/ch/1454619/45/dash/c6981602/live.mpd
-#EXTINF:-1 tvg-id="NICKELODEON POLSKA" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/oq/oq88nj16bc2q46k3td3nch8h1an2txki.png" group-title="Familijny",NICKELODEON POLSKA
+#EXTINF:-1 tvg-id="NICKELODEON POLSKA" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/oq/oq88nj16bc2q46k3td3nch8h1an2txki.png" group-title="Familijny",NICKELODEON POLSKA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|22d66c7e835141da953b7bc747e87b09:77d0d6401019e4415843024a7259a6b2
 https://cdn-s-lb2.pluscdn.pl/ch/1455170/71/dash/d94a55b2/live.mpd
-#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://ipla-e2-39.pluscdn.pl/p/cms_thumbnails/n9/n941j3u4wqmy7p8wecm9uxt5g4e6k5y3.png" group-title="Familijny",NICK JR
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/n9/n941j3u4wqmy7p8wecm9uxt5g4e6k5y3.png" group-title="Familijny",NICK JR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ab0b2cbc726b48dda9ac15cc5b940e09:e9e303c3be848ef0914027220fcd36e4
 https://cdn-s-lb2.pluscdn.pl/ch/1455758/102/dash/2da91be7/live.mpd
-#EXTINF:-1 tvg-id="NickToons" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/g3/g33vkn3qxbeiev62pr4hv6g3m2ciqw3c.png" group-title="Familijny",NickToons
+#EXTINF:-1 tvg-id="NickToons" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/g3/g33vkn3qxbeiev62pr4hv6g3m2ciqw3c.png" group-title="Familijny",NickToons
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|03315036a63948e5ab1070f9cac11909:2f798c90b03930467741f62afddd7b75
 https://cdn-s-lb2.pluscdn.pl/ch/1455153/60/dash/504e7d2a/live.mpd
-#EXTINF:-1 tvg-id="Teen Nick" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/er/erc4fj33ipc7deovww7ontb5y397y5kw.png" group-title="Familijny",Teen Nick
+#EXTINF:-1 tvg-id="Teen Nick" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/er/erc4fj33ipc7deovww7ontb5y397y5kw.png" group-title="Familijny",Teen Nick
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|376c1faa564b4e69b57ea6cee895ef09:56fe54a96abbddf80740d90cf9ae6e4b
 https://cdn-s-lb2.pluscdn.pl/ch/1457762/149/dash/8657cb6f/live.mpd
-#EXTINF:-1 tvg-id="MiniMini+" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/t6/t6m78b2kwzbzqa6pissobz45gur1t4nt.png" group-title="Familijny",MiniMini+
+#EXTINF:-1 tvg-id="MiniMini+" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/t6/t6m78b2kwzbzqa6pissobz45gur1t4nt.png" group-title="Familijny",MiniMini+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|df548b49cde24994a7ecfa75bea82309:bccc0af1f9779b5c1374f0a499783fbb
 https://cdn-s-lb2.pluscdn.pl/ch/1456458/133/dash/8e18c3b4/live.mpd
-#EXTINF:-1 tvg-id="TeleToon+" tvg-logo="https://ipla-e1-78.pluscdn.pl/p/cms_thumbnails/ya/yau51ro3kg991434bb8r5fihkf15qj4y.png" group-title="Familijny",TeleToon+
+#EXTINF:-1 tvg-id="TeleToon+" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ya/yau51ro3kg991434bb8r5fihkf15qj4y.png" group-title="Familijny",TeleToon+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4fc8aa36198944648a08719300147909:78c945ca4d98486b7605e3d448ff8b77
 https://cdn-s-lb2.pluscdn.pl/ch/1456455/131/dash/52fde69a/live.mpd
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://ipla-e2-42.pluscdn.pl/p/cms_thumbnails/gy/gynucj22uxqanf22d6g5spdnx2g5qhpp.png" group-title="Familijny",Cartoon Network HD
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/gy/gynucj22uxqanf22d6g5spdnx2g5qhpp.png" group-title="Familijny",Cartoon Network HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3e8f1307848f47c183f977fe386d2409:ed194b49d126b45282fd39f66048606b
 https://cdn-s-lb2.pluscdn.pl/ch/1455429/82/dash/f951c388/live.mpd
-#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://ipla-e1-78.pluscdn.pl/p/cms_thumbnails/xb/xb32pg9y51o4ktv8f492nfb5ixg4oc4r.png" group-title="Familijny",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/xb/xb32pg9y51o4ktv8f492nfb5ixg4oc4r.png" group-title="Familijny",Cartoonito
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b1dadabe8ad44703965850a43cfb2809:50229ab2b86d764c39a7642d0a4f4971
 https://cdn-s-lb2.pluscdn.pl/ch/1455412/73/dash/cb00a9a6/live.mpd
-#EXTINF:-1 tvg-id="BBC CBEEBIES" tvg-logo="https://ipla-e2-40.pluscdn.pl/p/cms_thumbnails/b8/b8fgbz4ov4o9o2x6x1rcvtoi2t3jsx92.jpeg" group-title="Familijny",BBC CBEEBIES
+#EXTINF:-1 tvg-id="BBC CBEEBIES" tvg-logo="" group-title="Familijny",BBC CBEEBIES
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1ed899e62467463bbeb51cff6a8f9709:d8960553a6a6f18c8cc45b8c3a776f5e
 https://cdn-s-lb2.pluscdn.pl/ch/1454633/54/dash/0860d6eb/live.mpd
-#EXTINF:-1 tvg-id="Da Vinci" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/8i/8idpiqiagcpw4rezf64f44vfrkhopxhs.png" group-title="Familijny",Da Vinci
+#EXTINF:-1 tvg-id="Da Vinci" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/8i/8idpiqiagcpw4rezf64f44vfrkhopxhs.png" group-title="Familijny",Da Vinci
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2edfae47dfed4a859553a8e24961b109:5ba04058fd05b2dd98da9ae5324a98ef
 https://cdn-s-lb2.pluscdn.pl/ch/1454081/22/dash/57acd91f/live.mpd
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/op/op1tiu18jv12jn25eo2tajb8xv2cm4ed.jpg" group-title="Familijny",Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/op/op1tiu18jv12jn25eo2tajb8xv2cm4ed.jpg" group-title="Familijny",Disney Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
 httpa://cdn-s-lb2.pluscdn.pl/ch/1455156/62/dash/d6251522/live.mpd
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://ipla-e1-92.pluscdn.pl/p/cms_thumbnails/be/bea8c4pgtmzodio2he97jbbrv72ghuvb.png" group-title="Familijny",Disney Junior
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/be/bea8c4pgtmzodio2he97jbbrv72ghuvb.png" group-title="Familijny",Disney Junior
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
 https://cdn-s-lb2.pluscdn.pl/ch/1455445/90/dash/7d1a8eb0/live.mpd
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://ipla-e2-40.pluscdn.pl/p/cms_thumbnails/5s/5sq69bku4c9mkaj4f9sc9psoajcjhekp.png" group-title="Familijny",Disney XD
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/5s/5sq69bku4c9mkaj4f9sc9psoajcjhekp.png" group-title="Familijny",Disney XD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
 https://cdn-s-lb2.pluscdn.pl/ch/1454617/44/dash/36c53348/live.mpd
-#EXTINF:-1 tvg-id="4fun Kids" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/q9/q9c2wj5q45qexikf3gmne28rdwwnwaoq.png" group-title="Familijny",4fun Kids
+#EXTINF:-1 tvg-id="4fun Kids" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/q9/q9c2wj5q45qexikf3gmne28rdwwnwaoq.png" group-title="Familijny",4fun Kids
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|dcbd13ee90914e3daa22d9a8d1e1aa09:8c0ee1c3b5ff03986d6e448aba7dac98
 https://cdn-s-lb2.pluscdn.pl/ch/1456339/128/dash/d5899eba/live.mpd
-#EXTINF:-1 tvg-id="Duck TV" tvg-logo="https://ipla-e1-90.pluscdn.pl/p/cms_thumbnails/88/889mvmc9wcqh5yibmdx223pc5g5rcb4g.png" group-title="Familijny",Duck TV
+#EXTINF:-1 tvg-id="Duck TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/88/889mvmc9wcqh5yibmdx223pc5g5rcb4g.png" group-title="Familijny",Duck TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|850d2e873ea34c8095d572dd6e79df09:aafd982d9bfc0b7f35fa1aa6d806e93c
 https://cdn-s-lb2.pluscdn.pl/ch/1454075/23/dash/155526c9/live.mpd
-#EXTINF:-1 tvg-id="Polsat JIM JAM" tvg-logo="https://ipla-e1-77.pluscdn.pl/p/cms_thumbnails/vw/vwrtg7mfi87chmauzzw6zioh1ngynh11.png" group-title="Familijny",Polsat JIM JAM
+#EXTINF:-1 tvg-id="Polsat JIM JAM" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/vw/vwrtg7mfi87chmauzzw6zioh1ngynh11.png" group-title="Familijny",Polsat JIM JAM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f4daafe229a149e1acd65a5f8ba4b009:9d1e1791042b63166ddc92688d43b6a4
 https://cdn-s-lb2.pluscdn.pl/ch/1454399/34/dash/7ea2fceb/live.mpd
-#EXTINF:-1 tvg-id="Polsat Doku" tvg-logo="https://ipla-e2-44.pluscdn.pl/p/cms_thumbnails/av/ave4j9izgckued5vi52fay8cine9q4pb.png" group-title="Dokument",Polsat Doku
+#EXTINF:-1 tvg-id="Polsat Doku" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/av/ave4j9izgckued5vi52fay8cine9q4pb.png" group-title="Dokument",Polsat Doku
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e6a277761c2b4aed84fc3f2fae138309:a11c2d080ffce2f42d8d414d61ff6733
 https://cdn-s-lb2.pluscdn.pl/ch/1455443/88/dash/f4f0f1ef/live.mpd
-#EXTINF:-1 tvg-id="CI Polsat HD" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/yg/ygkwxsivjn3psspm5w2in2qbwds4w96q.png" group-title="Dokument",CI Polsat HD
+#EXTINF:-1 tvg-id="CI Polsat HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/yg/ygkwxsivjn3psspm5w2in2qbwds4w96q.png" group-title="Dokument",CI Polsat HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|de138b213c0841c6ab3246d1d0c6cf09:563e35236791512c19a9ab12328cc15c
 https://cdn-s-lb2.pluscdn.pl/ch/1455435/87/dash/6ed1b82b/live.mpd
-#EXTINF:-1 tvg-id="Polsat Viasat History HD" tvg-logo="https://ipla-e2-45.pluscdn.pl/p/cms_thumbnails/8k/8k1xganrnk9191hhem5ootdpcazqk1ut.png" group-title="Dokument",Polsat Viasat History HD
+#EXTINF:-1 tvg-id="Polsat Viasat History HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/8k/8k1xganrnk9191hhem5ootdpcazqk1ut.png" group-title="Dokument",Polsat Viasat History HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|af9ac54043cc4981aa2906da9b8a0709:4e79fc34812a8a3981cd48ee172373a2
 https://cdn-s-lb2.pluscdn.pl/ch/1455769/105/dash/929dad6e/live.mpd
-#EXTINF:-1 tvg-id="Polsat Viasat Explore HD" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/t8/t8iq6pfyzk6diein4v26us6sce3ckebr.png" group-title="Dokument",Polsat Viasat Explore HD
+#EXTINF:-1 tvg-id="Polsat Viasat Explore HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/t8/t8iq6pfyzk6diein4v26us6sce3ckebr.png" group-title="Dokument",Polsat Viasat Explore HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eb991d80511f48ad97398218f8642109:8ecdf8777158c853ffc927f50fdfb464
 https://cdn-s-lb2.pluscdn.pl/ch/1455743/95/dash/bf8e3b17/live.mpd
-#EXTINF:-1 tvg-id="Polsat Viasat Nature HD" tvg-logo="https://ipla-e2-45.pluscdn.pl/p/cms_thumbnails/uy/uyhuzyfnc4casqzj8m8jitf8d3n3kx2y.png" group-title="Dokument",Polsat Viasat Nature HD
+#EXTINF:-1 tvg-id="Polsat Viasat Nature HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/uy/uyhuzyfnc4casqzj8m8jitf8d3n3kx2y.png" group-title="Dokument",Polsat Viasat Nature HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|581e45b8533249b2a4c6ffd94b53a609:00d16cf78cb634e94a3f2bfdb6177967
 https://cdn-s-lb2.pluscdn.pl/ch/1455422/79/dash/5dad48cd/live.mpd
-#EXTINF:-1 tvg-id="Planete+" tvg-logo="https://ipla-e2-45.pluscdn.pl/p/cms_thumbnails/xn/xnqnub5kc5e2bhrdff54mz5vkit5uac9.png" group-title="Dokument",Planete+
+#EXTINF:-1 tvg-id="Planete+" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/xn/xnqnub5kc5e2bhrdff54mz5vkit5uac9.png" group-title="Dokument",Planete+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8316c9cc8e44329b8ef5e1d1f03709:f2641dc8306cf3903a95a99056a768b3
 https://cdn-s-lb2.pluscdn.pl/ch/1456337/127/dash/7a8c05b3/live.mpd
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://ipla-e2-39.pluscdn.pl/p/cms_thumbnails/wj/wjxz3e71umfs8dc4xo3jjtk2mjj9pixp.png" group-title="Dokument",Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/wj/wjxz3e71umfs8dc4xo3jjtk2mjj9pixp.png" group-title="Dokument",Discovery Channel HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bfde50539fe6447e85bc088c5fde6809:702b27c816eee92cd19603ead7794d47
 https://cdn-s-lb2.pluscdn.pl/ch/1455829/114/dash/2e293a66/live.mpd
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-logo="https://ipla-e2-41.pluscdn.pl/p/cms_thumbnails/hk/hk419k8yk51jjdk1twybv4hifzyfzec3.png" group-title="Dokument",Discovery Science HD
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/hk/hk419k8yk51jjdk1twybv4hifzyfzec3.png" group-title="Dokument",Discovery Science HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|716d0e70ec644e8aafe0b59b9e14d309:91b124b14eb34b98e47871f67ad9686e
 https://cdn-s-lb2.pluscdn.pl/ch/1455751/99/dash/72d8df9e/live.mpd
-#EXTINF:-1 tvg-id="DTX HD" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/j7/j7isyd6iitsjjtgch3p34o4n19o6qpvq.png" group-title="Lifestyle",DTX HD
+#EXTINF:-1 tvg-id="DTX HD" tvg-logo="" group-title="Lifestyle",DTX HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0123456789a0123456789a01234569a0:792e32c50ff78bc75e02cb6de5a84dda
 https://cdn-s-lb2.pluscdn.pl/ch/1457763/150/dash/feef785c/live.mpd
-#EXTINF:-1 tvg-id="Discovery Life HD" tvg-logo="https://ipla-e2-39.pluscdn.pl/p/cms_thumbnails/8a/8ajtwzxrwuzmu725hmtvte27udkm4z16.png" group-title="Dokument",Discovery Life HD
+#EXTINF:-1 tvg-id="Discovery Life HD" tvg-logo="" group-title="Dokument",Discovery Life HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5a8a23084b0d424dbcbfa6b337ef5909:c08da80215eb6548fa015b70178678c4
 https://cdn-s-lb2.pluscdn.pl/ch/1454624/47/dash/95c42be4/live.mpd
-#EXTINF:-1 tvg-id="ID HD" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/wq/wqmhz5yj1a2shgi15z2tbdt13z4x4uhb.png" group-title="Dokument",ID HD
+#EXTINF:-1 tvg-id="ID HD" tvg-logo="" group-title="Dokument",ID HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fa6f98ba164c4c2dae63cc18a88d4609:68ba5bc8915b5bf3b47d2295c5b466fc
 https://cdn-s-lb2.pluscdn.pl/ch/1455160/65/dash/9eeb25cb/live.mpd
-#EXTINF:-1 tvg-id="Discovery Historia" tvg-logo="https://ipla-e2-47.pluscdn.pl/p/cms_thumbnails/qn/qnmtgudxbt71js7o1sycuhnosf4ck51y.png" group-title="Dokument",Discovery Historia
+#EXTINF:-1 tvg-id="Discovery Historia" tvg-logo="" group-title="Dokument",Discovery Historia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8a40e195b40449fe9d31c5ebf30dcb09:fd40b63a41a061066d61da1c77529ca6
 https://cdn-s-lb2.pluscdn.pl/ch/1455097/56/dash/6b353570/live.mpd
-#EXTINF:-1 tvg-id="History HD" tvg-logo="https://ipla-e1-80.pluscdn.pl/p/cms_thumbnails/np/npdqgoa1cwp3bss9ndnakvcb73jforma.png" group-title="Dokument",History HD
+#EXTINF:-1 tvg-id="History HD" tvg-logo="" group-title="Dokument",History HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5994445754b44847b6b97eef32570509:1b63af0b1a5de7f9a71abef0ee1610f2
 https://cdn-s-lb2.pluscdn.pl/ch/1455823/108/dash/37b73cc9/live.mpd
-#EXTINF:-1 tvg-id="History2 HD" tvg-logo="https://ipla-e1-92.pluscdn.pl/p/cms_thumbnails/t2/t2z1wanpkqai8j7kp2c9zg1ipv9hmvoi.png" group-title="Dokument",History2 HD
+#EXTINF:-1 tvg-id="History2 HD" tvg-logo="" group-title="Dokument",History2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8bf05ab069d246b9b90f540ceb8b0609:cf5290089dc1002d8dfd577a7eb034a8
 https://cdn-s-lb2.pluscdn.pl/ch/1455757/101/dash/b71c577f/live.mpd
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://ipla-e2-45.pluscdn.pl/p/cms_thumbnails/rz/rzkskaa3czqmwxa1eaw7u7wmxoix2m92.png" group-title="Dokument",Animal Planet HD
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="" group-title="Dokument",Animal Planet HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aacfb8a827e14de58635e0ee95251809:8e15978e0ca7f1abf053fabd2b16abe8
 https://cdn-s-lb2.pluscdn.pl/ch/1454627/49/dash/22533008/live.mpd
@@ -397,19 +351,19 @@ https://cdn-s-lb2.pluscdn.pl/ch/1454627/49/dash/22533008/live.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f80ee37959cb48ec8cc927587539b109:6239ab908286cc282727c08f731c6827
 https://cdn-s-lb2.pluscdn.pl/ch/1455157/63/dash/7cbc06ae/live.mpd
-#EXTINF:-1 tvg-id="BBC EARTH" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/wq/wqvo756sic318hsqnbxp4y25b2ianc46.png" group-title="Dokument",BBC EARTH
+#EXTINF:-1 tvg-id="BBC EARTH" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/wq/wqvo756sic318hsqnbxp4y25b2ianc46.png" group-title="Dokument",BBC EARTH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a07e025471af4eca9f66c2dafe651209:9e5ff926a5da9acb4238c9842672c182
 https://cdn-s-lb2.pluscdn.pl/ch/1455418/77/dash/bcd9486f/live.mpd
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/15/15zwp471jaas1dmv59atonritwgvxmph.png" group-title="Dokument",National Geographic Wild
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/15/15zwp471jaas1dmv59atonritwgvxmph.png" group-title="Dokument",National Geographic Wild
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0e2da6fddf7e4e91821ae281f96c8e09:500a9be701536c1c77242137129cb1d1
 https://cdn-s-lb2.pluscdn.pl/ch/1455444/89/dash/ca41a43d/live.mpd
-#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://ipla-e2-48.pluscdn.pl/p/cms_thumbnails/ua/uai59i1cvw73dh2a6qhqp3js4k2rb1oq.png" group-title="Dokument",National Geographic
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ua/uai59i1cvw73dh2a6qhqp3js4k2rb1oq.png" group-title="Dokument",National Geographic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c4d12a92c63d43ac8fc31170db69b209:da455e9caa8af303e70bc1c5b3fc163d
 https://cdn-s-lb2.pluscdn.pl/ch/1455825/110/dash/10ba4d79/live.mpd
-#EXTINF:-1 tvg-id="Nat Geo People HD" tvg-logo="https://ipla-e2-49.pluscdn.pl/p/cms_thumbnails/sp/spd6f2u6p4kt3bgh9idpx5f3ib3jh1u2.png" group-title="Dokument",Nat Geo People HD
+#EXTINF:-1 tvg-id="Nat Geo People HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/sp/spd6f2u6p4kt3bgh9idpx5f3ib3jh1u2.png" group-title="Dokument",Nat Geo People HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3141a4ae9d724466a71b5f573d4d4209:b7a93193de524819150360f486645d2f
 https://cdn-s-lb2.pluscdn.pl/ch/1455159/64/dash/00dc41cc/live.mpd
@@ -433,169 +387,170 @@ https://hls.redefine.pl/5453C6CD/32327/0/dash_4k/live.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://hls.redefine.pl/13BA7DD8/32328/0/dash_4k/live.mpd
-#EXTINF:-1 tvg-id="Water Planet" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/7m/7mn6n5arhrbgvuobb54fi3kcabknkeb1.png" group-title="Dokument",Water Planet
+#EXTINF:-1 tvg-id="Water Planet" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/7m/7mn6n5arhrbgvuobb54fi3kcabknkeb1.png" group-title="Dokument",Water Planet
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|874724786e6844239d16855a4e565509:c0ebc481ba89e8b3b437c22776cd31ba
 https://cdn-s-lb2.pluscdn.pl/ch/1454380/31/dash/49a3d0e9/live.mpd
-#EXTINF:-1 tvg-id="DocuBox" tvg-logo="https://ipla-e2-43.pluscdn.pl/p/cms_thumbnails/oa/oazyvwwjg65v7fe7xj3j7qxc8gkbwop5.png" group-title="Dokument",DocuBox
+#EXTINF:-1 tvg-id="DocuBox" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/oa/oazyvwwjg65v7fe7xj3j7qxc8gkbwop5.png" group-title="Dokument",DocuBox
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b84e6dc3d81f46ee981a932c4b260909:04c745f1185392994ecde57575c702be
 https://cdn-s-lb2.pluscdn.pl/ch/1454074/18/dash/43f5d73b/live.mpd
-#EXTINF:-1 tvg-id="Polsat Cafe HD" tvg-logo="https://ipla-e1-90.pluscdn.pl/p/cms_thumbnails/46/466f81jran5959rsf5q15a1yjryznaer.png" group-title="Lifestyle",Polsat Cafe HD
+#EXTINF:-1 tvg-id="Polsat Cafe HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/46/466f81jran5959rsf5q15a1yjryznaer.png" group-title="Lifestyle",Polsat Cafe HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1e6f08a20a264fda94578a7e3b635b09:a40238be5a3225d5d21e23d7768f67dd
 https://cdn-s-lb2.pluscdn.pl/ch/1455748/98/dash/6070cf90/live.mpd
-#EXTINF:-1 tvg-id="TVN Style" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/p4/p44kw1t97x5eg7jyjo2vfaewna414xt8.png" group-title="Lifestyle",TVN Style
+#EXTINF:-1 tvg-id="TVN Style" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/p4/p44kw1t97x5eg7jyjo2vfaewna414xt8.png" group-title="Lifestyle",TVN Style
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2163305e0fba4b40a9fb8f64925a1c09:aac7db9a1082f598fea26874eaa594be
 https://cdn-s-lb2.pluscdn.pl/ch/1455163/67/dash/85b8fc46/live.mpd
-#EXTINF:-1 tvg-id="TVN Turbo" tvg-logo="https://ipla-e1-90.pluscdn.pl/p/cms_thumbnails/o3/o3svt2412rdjk5hmrarp1cm5unsnor4d.png" group-title="Lifestyle",TVN Turbo
+#EXTINF:-1 tvg-id="TVN Turbo" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/o3/o3svt2412rdjk5hmrarp1cm5unsnor4d.png" group-title="Lifestyle",TVN Turbo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7cc8c95420234b7cb3e20e63a6236909:589f9c2efbca25d28242a5ef5f91bf61
 https://cdn-s-lb2.pluscdn.pl/ch/1455833/118/dash/e000f5d3/live.mpd
-#EXTINF:-1 tvg-id="TLC HD" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/z3/z3235tf8k751o9mwyk44y8ox77edy5e2.png" group-title="Lifestyle",TLC HD
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/z3/z3235tf8k751o9mwyk44y8ox77edy5e2.png" group-title="Lifestyle",TLC HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7b5ca7c93de7462ab3ed5af876b30e09:5966f7df740b69bde4c7bf5a6a6d26c8
 https://cdn-s-lb2.pluscdn.pl/ch/1455447/92/dash/e90f4a78/live.mpd
-#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://ipla-e2-48.pluscdn.pl/p/cms_thumbnails/8r/8r8uuvueuvyrf462s89xmakoogh6i2vh.png" group-title="Lifestyle",Food Network
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/8r/8r8uuvueuvyrf462s89xmakoogh6i2vh.png" group-title="Lifestyle",Food Network
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2a7738c586bf41d8b11b19bb85c41409:3173971e7c0a9422297ee6fd3211b606
 https://cdn-s-lb2.pluscdn.pl/ch/1455169/70/dash/5c0c41d0/live.mpd
-#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-logo="https://ipla-e2-42.pluscdn.pl/p/cms_thumbnails/5v/5v6ovvcyud3o4ayougahxv573kqpg3sg.png" group-title="Lifestyle",Canal+ Kuchnia
+#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/5v/5v6ovvcyud3o4ayougahxv573kqpg3sg.png" group-title="Lifestyle",Canal+ Kuchnia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a8847a5286f24ad992a64afb5b339509:9b466057a94b35151c7328a037c8395c
 https://cdn-s-lb2.pluscdn.pl/ch/1456322/120/dash/49819f3b/live.mpd
-#EXTINF:-1 tvg-id="BBC Lifestyle HD" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/6x/6x561nht2px9i4zbhciuza7hk5xgejsy.png" group-title="Lifestyle",BBC Lifestyle HD
+#EXTINF:-1 tvg-id="BBC Lifestyle HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/6x/6x561nht2px9i4zbhciuza7hk5xgejsy.png" group-title="Lifestyle",BBC Lifestyle HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|35f364c3c1a64a588dddaf76ae57fb09:8f329add1918a2210e4d0d345deaccd5
 https://cdn-s-lb2.pluscdn.pl/ch/1454632/53/dash/79b4ade5/live.mpd
-#EXTINF:-1 tvg-id="E!" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/sn/snk5bdiig7anpn3pq856g9ms43y42r86.png" group-title="Lifestyle",E!
+#EXTINF:-1 tvg-id="E!" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/sn/snk5bdiig7anpn3pq856g9ms43y42r86.png" group-title="Lifestyle",E!
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a711ccd863904c17b12b5309dad6c509:b4898b7435cd818b7832032c3b73c2cf
 https://cdn-s-lb2.pluscdn.pl/ch/1454604/40/dash/b125bfa0/live.mpd
-#EXTINF:-1 tvg-id="Canal+ Domo" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/1b/1bfn9jv7p5feun28xaa3vfae2f1pv2b3.png" group-title="Lifestyle",Canal+ Domo
+#EXTINF:-1 tvg-id="Canal+ Domo" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/1b/1bfn9jv7p5feun28xaa3vfae2f1pv2b3.png" group-title="Lifestyle",Canal+ Domo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8660a2941bdd49c9b4baad8c43927109:1a9f7454a180f249252571be220f0662
 https://cdn-s-lb2.pluscdn.pl/ch/1456326/121/dash/61133a5e/live.mpd
-#EXTINF:-1 tvg-id="Polsat Play HD" tvg-logo="https://ipla-e2-49.pluscdn.pl/p/cms_thumbnails/oc/oczqgic2zjk2x8q6c1vgvz9z9ags31xp.png" group-title="Lifestyle",Polsat Play HD
+#EXTINF:-1 tvg-id="Polsat Play HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/oc/oczqgic2zjk2x8q6c1vgvz9z9ags31xp.png" group-title="Lifestyle",Polsat Play HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|01691f765ca84c3a801facebbb946b09:13340211cd86c74e7f52ff3bf10517f4
 https://cdn-s-lb2.pluscdn.pl/ch/1455766/104/dash/5582600b/live.mpd
-#EXTINF:-1 tvg-id="HG TV" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/k9/k926etf1wf4huqk2iho1gda5xqxhtmuy.png" group-title="Lifestyle",HG TV
+#EXTINF:-1 tvg-id="HG TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/k9/k926etf1wf4huqk2iho1gda5xqxhtmuy.png" group-title="Lifestyle",HG TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e47e9cf1a5b741dd814cae71b1b57009:e335930dfc9fbc032f882bf9dad5acb6
 https://cdn-s-lb2.pluscdn.pl/ch/1455434/86/dash/34c0beea/live.mpd
-#EXTINF:-1 tvg-id="MTV POLSKA" tvg-logo="https://ipla-e2-41.pluscdn.pl/p/cms_thumbnails/wc/wcf1uyqm2ct1mu68oeskjr7dqewegg6e.png" group-title="Muzyczny",MTV POLSKA
+#EXTINF:-1 tvg-id="MTV POLSKA" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/wc/wcf1uyqm2ct1mu68oeskjr7dqewegg6e.png" group-title="Muzyczny",MTV POLSKA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|439e26515e9c45278a89d5d8c37aaf09:a66b57e1e60ee1713cf1db3650eaaea5
 https://cdn-s-lb2.pluscdn.pl/ch/1454368/28/dash/1eac59cd/live.mpd
-#EXTINF:-1 tvg-id="BBC BRIT" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/3b/3b3yt3q45fd3zp2h5rbibm1tmem63y4n.png" group-title="Lifestyle",BBC BRIT
+#EXTINF:-1 tvg-id="BBC BRIT" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/3b/3b3yt3q45fd3zp2h5rbibm1tmem63y4n.png" group-title="Lifestyle",BBC BRIT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2711d26898e1436a88887e1c2684e709:147ff21f809ac1b7f4f38555946f6262
 https://cdn-s-lb2.pluscdn.pl/ch/1455427/80/dash/ccbb8acd/live.mpd
-#EXTINF:-1 tvg-id="Eska TV" tvg-logo="https://ipla-e2-49.pluscdn.pl/p/cms_thumbnails/6p/6pxb6xr1j7skg1k7uomdqmesdw6qqgt2.png" group-title="Muzyczny",Eska TV
+#EXTINF:-1 tvg-id="Eska TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/6p/6pxb6xr1j7skg1k7uomdqmesdw6qqgt2.png" group-title="Muzyczny",Eska TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|74c67d5d30514410b168d630bc252b09:00dbb86aa3ea543e13f49fa42ab4c0a8
 https://cdn-s-lb2.pluscdn.pl/ch/1454631/52/dash/01dc04d1/live.mpd
-#EXTINF:-1 tvg-id="Polsat Music HD" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/r2/r2evx9qxpo9isfnbkiyvr9scsf1kc5q1.png" group-title="Muzyczny",Polsat Music HD
+#EXTINF:-1 tvg-id="Polsat Music HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/r2/r2evx9qxpo9isfnbkiyvr9scsf1kc5q1.png" group-title="Muzyczny",Polsat Music HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1917dfd861514f0cae71aad5aa1ff509:451d13ceb4f8357bb69e9c696b880b9f
 https://cdn-s-lb2.pluscdn.pl/ch/1454616/43/dash/8992f462/live.mpd
-#EXTINF:-1 tvg-id="Polo TV" tvg-logo="https://ipla-e2-44.pluscdn.pl/p/cms_thumbnails/7p/7pezoqg74tb3bdsx8e9te3dauh6cah9j.png" group-title="Muzyczny",Polo TV
+#EXTINF:-1 tvg-id="Polo TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/7p/7pezoqg74tb3bdsx8e9te3dauh6cah9j.png" group-title="Muzyczny",Polo TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|86cf6197c55646e09b31767050f2bd09:69f7edd4fb1e35dc3f2f530478cb9a20
 https://cdn-s-lb2.pluscdn.pl/ch/1454602/38/dash/513045fc/live.mpd
-#EXTINF:-1 tvg-id="DISCO POLO MUSIC" tvg-logo="https://ipla-e1-90.pluscdn.pl/p/cms_thumbnails/7x/7xhhu9hkcrzod791pt5mdqy162f1pyt3.png" group-title="Muzyczny",DISCO POLO MUSIC
+#EXTINF:-1 tvg-id="DISCO POLO MUSIC" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/7x/7xhhu9hkcrzod791pt5mdqy162f1pyt3.png" group-title="Muzyczny",DISCO POLO MUSIC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|db0ab611842742b19d1122922058c309:cb653479a4a54c7d1016614afc52d1b0
 https://cdn-s-lb2.pluscdn.pl/ch/1454605/41/dash/1d3a5efe/live.mpd
-#EXTINF:-1 tvg-id="VOX MUSIC TV" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/uo/uo798iiqdhr8g13wwn2wt7qg61ywnw2w.png" group-title="Muzyczny",VOX MUSIC TV
+#EXTINF:-1 tvg-id="VOX MUSIC TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/uo/uo798iiqdhr8g13wwn2wt7qg61ywnw2w.png" group-title="Muzyczny",VOX MUSIC TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e1b0b8280cad4bec82163f44dd1bdd09:41ef9172fc1c13417c00e71a28ad40ae
 https://cdn-s-lb2.pluscdn.pl/ch/1454401/35/dash/c8b2b0fc/live.mpd
-#EXTINF:-1 tvg-id="ESKA TV EXTRA" tvg-logo="https://ipla-e2-39.pluscdn.pl/p/cms_thumbnails/o5/o5r2c1wtkqcuwnrz55ksga56ybitcz9s.png" group-title="Muzyczny",ESKA TV EXTRA
+#EXTINF:-1 tvg-id="ESKA TV EXTRA" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/o5/o5r2c1wtkqcuwnrz55ksga56ybitcz9s.png" group-title="Muzyczny",ESKA TV EXTRA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d438f3e9bbe84ba4b12c7346f341a509:c06426616f2012bc92c526e57a5cea87
 https://cdn-s-lb2.pluscdn.pl/ch/1457771/151/dash/f14fac33/live.mpd
-#EXTINF:-1 tvg-id="ESKA ROCK TV" tvg-logo="https://ipla-e2-49.pluscdn.pl/p/cms_thumbnails/ne/ne43h44f69y9fx1r5ev7vm5yf1a49db9.png" group-title="Muzyczny",ESKA ROCK TV
+#EXTINF:-1 tvg-id="ESKA ROCK TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ne/ne43h44f69y9fx1r5ev7vm5yf1a49db9.png" group-title="Muzyczny",ESKA ROCK TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4dce6f91e54f4e0bb5d41a3372aaab09:477f0b2d16a936508fa796a5a22c02c2
 https://cdn-s-lb2.pluscdn.pl/ch/1456459/134/dash/53461b8f/live.mpd
-#EXTINF:-1 tvg-id="4Fun TV" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/z9/z9wn6tqhxjnpc9yup7qr15i7otpagj8u.png" group-title="Muzyczny",4Fun TV
+#EXTINF:-1 tvg-id="4Fun TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/z9/z9wn6tqhxjnpc9yup7qr15i7otpagj8u.png" group-title="Muzyczny",4Fun TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7601969a8c0e4157a5c84187a7803c09:7e8c5e33fda7091075017b37706ace7c
 https://cdn-s-lb2.pluscdn.pl/ch/1454078/20/dash/3b228ce8/live.mpd
-#EXTINF:-1 tvg-id="4fun Dance" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/1s/1sazm8gojc29qrno266xm4zwo443m4jp.png" group-title="Muzyczny",4fun Dance
+#EXTINF:-1 tvg-id="4fun Dance" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/1s/1sazm8gojc29qrno266xm4zwo443m4jp.png" group-title="Muzyczny",4fun Dance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|27fa105777034df68c5a98636a294809:271352c0b11034d33239a00c68dfcd03
 https://cdn-s-lb2.pluscdn.pl/ch/1454062/16/dash/c9968589/live.mpd
-#EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-logo="https://ipla-e1-82.pluscdn.pl/p/cms_thumbnails/97/972ttd3wvj5r1t8bira1wjcjc1aufdxe.png" group-title="Muzyczny",Kino Polska Muzyka
+#EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/97/972ttd3wvj5r1t8bira1wjcjc1aufdxe.png" group-title="Muzyczny",Kino Polska Muzyka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8422cd9d61024359b72f2f64de2a9e09:83a75f2fd862b6a8d03d034c2a1302d2
 https://cdn-s-lb2.pluscdn.pl/ch/1455416/76/dash/3709d598/live.mpd
-#EXTINF:-1 tvg-id="360 Tune Box" tvg-logo="https://ipla-e2-44.pluscdn.pl/p/cms_thumbnails/79/79vkzny3qoczwykwjbzgrx4o4kteaeuo.png" group-title="Muzyczny",360 Tune Box
+#EXTINF:-1 tvg-id="360 Tune Box" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/79/79vkzny3qoczwykwjbzgrx4o4kteaeuo.png" group-title="Muzyczny",360 Tune Box
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7038ccfdb447476384d6f447a2c46309:6208dfd2145b7440516bb4171d4c91cf
 https://cdn-s-lb2.pluscdn.pl/ch/1441254/2/dash/67c58d3b/live.mpd
-#EXTINF:-1 tvg-id="FashionBox" tvg-logo="https://ipla-e1-81.pluscdn.pl/p/cms_thumbnails/7s/7sgb1ebu27fyf7ue3uxb4z23boat8xuf.png" group-title="Lifestyle",FashionBox
+#EXTINF:-1 tvg-id="FashionBox" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/7s/7sgb1ebu27fyf7ue3uxb4z23boat8xuf.png" group-title="Lifestyle",FashionBox
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0209f2122fad4c88a0580620a3053509:2e073b357f60ae96d70d029eab78170a
 https://cdn-s-lb2.pluscdn.pl/ch/1454041/13/dash/11408f29/live.mpd
-#EXTINF:-1 tvg-id="TV Republika" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/ep/epyz4fxcfcriha2yr5ocm36ahbjob853.png" group-title="News",TV Republika
+#EXTINF:-1 tvg-id="TV Republika" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ep/epyz4fxcfcriha2yr5ocm36ahbjob853.png" group-title="News",TV Republika
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a7e42cd2aace4a49ae04d2760e5d8209:f35e1b491f61f8bcf372afcb1315e6e3
 https://cdn-s-lb2.pluscdn.pl/ch/1454064/17/dash/cc140553/live.mpd
-#EXTINF:-1 tvg-id="WP PL" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/wi/wiyeb5yv1hnrv4jnmb6wtwcbdn2t7q8r.png" group-title="Ogólny",WP PL
+#EXTINF:-1 tvg-id="WP PL" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/wi/wiyeb5yv1hnrv4jnmb6wtwcbdn2t7q8r.png" group-title="Ogólny",WP PL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|27eb637ff3384753820a14c4a40f3309:9b71db0dc5b4ad0a2e2605097bf54857
 https://cdn-s-lb2.pluscdn.pl/ch/1454634/55/dash/73291e5f/live.mpd
-#EXTINF:-1 tvg-id="wPolsce24" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/ca/cafghu1zfs72dkgfmy8j4ak1vb4xxmjs.png" group-title="News",wPolsce24
+#EXTINF:-1 tvg-id="wPolsce24" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ca/cafghu1zfs72dkgfmy8j4ak1vb4xxmjs.png" group-title="News",wPolsce24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0e9ac4aec5024726a9d7d256c685aa09:c0c3dcc8bcaef367a4435f8deab855ae
 https://cdn-s-lb2.pluscdn.pl/ch/1454414/36/dash/fac0a4d2/live.mpd
-#EXTINF:-1 tvg-id="wPolsce 24 4K" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/ca/cafghu1zfs72dkgfmy8j4ak1vb4xxmjs.png" group-title="News",wPolsce 24 4K
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:mimetype=video/mp2t
-http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105464
-#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://ipla-e1-77.pluscdn.pl/p/cms_thumbnails/8q/8qmu8vgahrvcdtkbdq4drwer213n9q1k.png" group-title="News",CNN International
+#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/8q/8qmu8vgahrvcdtkbdq4drwer213n9q1k.png" group-title="News",CNN International
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a167e1c41baf4ac596b9c37015fd5909:9f8157067e83e42d7dedfa29eb77fbe6
 https://cdn-s-lb2.pluscdn.pl/ch/1454060/15/dash/a00663e1/live.mpd
-#EXTINF:-1 tvg-id="1+1" tvg-logo="https://ipla-e1-79.pluscdn.pl/p/cms_thumbnails/xk/xkp6ieoink5rs4613sqa9dpe8cfm244r.png" group-title="Ogólny",1+1
+#EXTINF:-1 tvg-id="POLSAT 1 HD" tvg-logo="https://ipla.pluscdn.pl/p/versions/8y/8ybkykm42uvqxyhu2i3mhnrgtvgtwnrp/polsatboxgo_tv_lg_backgound_image_1920x1080.png" group-title="Ogólny",POLSAT 1 HD
+KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_host=212.86.120.82
+#KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8000
+http://212.86.120.82:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="1+1" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/xk/xkp6ieoink5rs4613sqa9dpe8cfm244r.png" group-title="Ogólny",1+1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|18ebce6789a7423492337e05b8431409:3e74e23e52bdf7fb89ef9052c750835f
 https://cdn-s-lb2.pluscdn.pl/ch/1457285/140/dash/8d59a274/live.mpd
-#EXTINF:-1 tvg-id="Kyc Kyc" tvg-logo="https://ipla-e1-77.pluscdn.pl/p/cms_thumbnails/zt/ztcqnh2r6i3kgbxpg11sinr49n1my55m.png" group-title="Lifestyle",Kyc Kyc
+#EXTINF:-1 tvg-id="Kyc Kyc" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/zt/ztcqnh2r6i3kgbxpg11sinr49n1my55m.png" group-title="Lifestyle",Kyc Kyc
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6008928a858a44a18e3ee073ea0f8509:526d4bc1e50beb0287629d1e8a75699d
 https://cdn-s-lb2.pluscdn.pl/ch/1457287/141/dash/7fb912ff/live.mpd
-#EXTINF:-1 tvg-id="X-Sport HD" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/ve/vean33tn14yyp759oz1ym5yon47352j9.png" group-title="Sport",X-Sport HD
+#EXTINF:-1 tvg-id="X-Sport HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/ve/vean33tn14yyp759oz1ym5yon47352j9.png" group-title="Sport",X-Sport HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ab905bbff5c04162b163733b95e04009:b6149b6f4e46a94203f174fc8377ce52
 https://cdn-s-lb2.pluscdn.pl/ch/1457755/148/dash/a89944af/live.mpd
-#EXTINF:-1 tvg-id="Star Cinema HD" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/k4/k4d5c4fuarcwo88uz3e9pn893jn3nuzq.png" group-title="Filmy i seriale",Star Cinema HD
+#EXTINF:-1 tvg-id="Star Cinema HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/k4/k4d5c4fuarcwo88uz3e9pn893jn3nuzq.png" group-title="Filmy i seriale",Star Cinema HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|32068a135d954820a935caef9063e509:c91be36a50c748b859de300b8982cb30
 https://cdn-s-lb2.pluscdn.pl/ch/1457282/138/dash/c2290bec/live.mpd
-#EXTINF:-1 tvg-id="Star Family HD" tvg-logo="https://ipla-e1-83.pluscdn.pl/p/cms_thumbnails/65/652g7uytq92cnjzvm832twu81i3txtwd.png" group-title="Filmy i seriale",Star Family HD
+#EXTINF:-1 tvg-id="Star Family HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/65/652g7uytq92cnjzvm832twu81i3txtwd.png" group-title="Filmy i seriale",Star Family HD
 https://polsatboxgo.pl/kanaly-tv/Star%20Family%20HD/1457284
 #EXTINF:-1 tvg-id="Film UA Drama HD" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/w1/w1wv4sq6z464ifhw1zsvpd2f4qbwuh23.png" group-title="Filmy i seriale",Film UA Drama HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cd974b7eccc04036bbfdb480247e2a09:6ef71fb50928889cac3b5b22a8810499
 https://cdn-s-lb2.pluscdn.pl/ch/1457280/136/dash/c2d72497/live.mpd
-#EXTINF:-1 tvg-id="Kvartal TV" tvg-logo="https://ipla-e1-90.pluscdn.pl/p/cms_thumbnails/6x/6xjhx7oh6ecbb721rqzdn3kv1p2eambv.png" group-title="Filmy i seriale",Kvartal TV
+#EXTINF:-1 tvg-id="Kvartal TV" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/6x/6xjhx7oh6ecbb721rqzdn3kv1p2eambv.png" group-title="Filmy i seriale",Kvartal TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9e6fc676d0ed4739a9e53ec9439aff09:685dd06df030b7aecbecfd20185e9887
 https://cdn-s-lb2.pluscdn.pl/ch/1457295/143/dash/24b57151/live.mpd
-#EXTINF:-1 tvg-id="Dacha HD" tvg-logo="https://ipla-e1-91.pluscdn.pl/p/cms_thumbnails/32/323co231siymf8t5pwkc3zdbs32rb43f.png" group-title="Lifestyle",Dacha HD
+#EXTINF:-1 tvg-id="Dacha HD" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/32/323co231siymf8t5pwkc3zdbs32rb43f.png" group-title="Lifestyle",Dacha HD
 https://polsatboxgo.pl/kanaly-tv/Dacha%20HD/1457289
-#EXTINF:-1 tvg-id="TV Okazje" tvg-logo="https://ipla-e2-46.pluscdn.pl/p/cms_thumbnails/gp/gpozm8hc5zca6shayahbrasnae3dq3tx.png" group-title="Lifestyle",TV Okazje
+#EXTINF:-1 tvg-id="TV Okazje" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/gp/gpozm8hc5zca6shayahbrasnae3dq3tx.png" group-title="Lifestyle",TV Okazje
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e74d29af730847f2b69e53e76706b809:ebfc0bbf7b88f3c9ae5bb75c6066cfc9
 https://cdn-s-lb2.pluscdn.pl/ch/1454058/14/dash/2cf1d5ac/live.mpd
-#EXTINF:-1 tvg-id="Mango Telezakupy" tvg-logo="https://ipla-e1-76.pluscdn.pl/p/cms_thumbnails/vu/vurcyxfjeqkpzujvkps3m2o8nx5ttc5x.png" group-title="Lifestyle",Mango Telezakupy
+#EXTINF:-1 tvg-id="Mango Telezakupy" tvg-logo="https://ipla.pluscdn.pl/p/cms_thumbnails/vu/vurcyxfjeqkpzujvkps3m2o8nx5ttc5x.png" group-title="Lifestyle",Mango Telezakupy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
 https://cdn-s-lb2.pluscdn.pl/ch/1580235/3496/dash/4f947bbb/live.mpd
