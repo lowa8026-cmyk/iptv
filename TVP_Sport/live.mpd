@@ -1,47 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="1970-01-01T00:00:00.000000Z" publishTime="https://r.dcs.redcdn.pl/utc" minimumUpdatePeriod="PT3S" minBufferTime="PT10S" timeShiftBufferDepth="PT2M0S">
-<Location>https://s-pl-01.mediatool.tv/playout/sepl-abr/index.mpd</Location><Period id="69eb5cf48468222e0b548697" start="P20567DT12H7M10.495S">
-<BaseURL>https://s-pl-01.mediatool.tv/playout/sepl-abr/</BaseURL>
-<AdaptationSet id="2" mimeType="video/mp4" contentType="video" maxWidth="1920" maxHeight="1080" par="1920:1080"  maxFrameRate="50" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
-            <Representation id="tracks-v1" width="1920" height="1080" sar="1:1" frameRate="50" bandwidth="4932000" codecs="avc1.4d402a">
-              <SegmentTemplate initialization="tracks-v1/init.m4v" media="tracks-v1/seg-1774942852-$Number$.m4v?t=$Time$" timescale="1000"  startNumber="257373">
-                 <SegmentTimeline>
-                   <S t="2374294429" d="5000" r="3"/>
-                 </SegmentTimeline>
-              </SegmentTemplate>
-            </Representation>
-            <Representation id="tracks-v2" width="1280" height="720" sar="1:1" frameRate="50" bandwidth="2980000" codecs="avc1.4d4020">
-              <SegmentTemplate initialization="tracks-v2/init.m4v" media="tracks-v2/seg-1774942852-$Number$.m4v?t=$Time$" timescale="1000"  startNumber="257373">
-                 <SegmentTimeline>
-                   <S t="2374294429" d="5000" r="3"/>
-                 </SegmentTimeline>
-              </SegmentTemplate>
-            </Representation>
-            <Representation id="tracks-v3" width="960" height="540" sar="1:1" frameRate="50" bandwidth="1504000" codecs="avc1.4d401f">
-              <SegmentTemplate initialization="tracks-v3/init.m4v" media="tracks-v3/seg-1774942852-$Number$.m4v?t=$Time$" timescale="1000"  startNumber="257373">
-                 <SegmentTimeline>
-                   <S t="2374294429" d="5000" r="3"/>
-                 </SegmentTimeline>
-              </SegmentTemplate>
-            </Representation>
-            <Representation id="tracks-v4" width="640" height="360" sar="1:1" frameRate="50" bandwidth="597000" codecs="avc1.4d401f">
-              <SegmentTemplate initialization="tracks-v4/init.m4v" media="tracks-v4/seg-1774942852-$Number$.m4v?t=$Time$" timescale="1000"  startNumber="257373">
-                 <SegmentTimeline>
-                   <S t="2374294429" d="5000" r="3"/>
-                 </SegmentTimeline>
-              </SegmentTemplate>
-            </Representation>
-        </AdaptationSet>
-        <AdaptationSet id="1" mimeType="audio/mp4" contentType="audio" lang="pol" segmentAlignment="true" startWithSAP="1">
-            <Representation id="tracks-a1" audioSamplingRate="48000" bandwidth="194000" codecs="mp4a.40.2">
-              <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-              <SegmentTemplate initialization="tracks-a1/init.m4v" media="tracks-a1/seg-1774942852-$Number$.m4v?t=$Time$" timescale="1000"  startNumber="257373">
-                 <SegmentTimeline>
-                   <S t="2374294429" d="5000" r="3"/>
-                 </SegmentTimeline>
-              </SegmentTemplate>
-            </Representation>
-        </AdaptationSet>
-    </Period>
-    <UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="https://r.dcs.redcdn.pl/utc" />
+<?xml version="1.0"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" profiles="urn:mpeg:dash:profile:isoff-live:2011" timeShiftBufferDepth="PT222041H32M4S" type="dynamic" minimumUpdatePeriod="PT32S" availabilityStartTime="2001-01-01T00:00:00.000Z" maxSegmentDuration="PT6S" minBufferTime="PT4S" publishTime="2026-05-01T17:32:00.000Z">
+	<BaseURL>https://n-22-21.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/canal_plus_sport/live.isml</BaseURL>
+	<UTCTiming schemeIdUri="urn:mpeg:dash:utc:http-head:2014" value="https://r.dcs.redcdn.pl/utc" />
+	<Period sequence="0" start="PT0S" />
 </MPD>
