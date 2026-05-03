@@ -1,0 +1,15 @@
+#EXTINF:0, Eurosport 2 HD
+PSSH:AAAANHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABQIARIQalymNO9WZdEOFbIAdT9dVg==
+https://n-16-15.dcs.redcdn.pl/livedash/play/playtv/indigo/live/eurosport2/live.livx
+#EXTINF:0, Romance TV
+PSSH:AAAANHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABQIARIQKDxSKFSJ6GLkdl8Y0L7IuQ==
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/romancetv/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+#EXTINF:0, Polsat HD
+PSSH:AAAANHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABQIARIQwwQ8O4Vc9ZTDc6Do8vKFQg==
+https://n-16-15.dcs.redcdn.pl/livedash/play/playtv/indigo/live/polsat/live.livx
+#EXTINF:0, TV 4 HD
+PSSH:AAAANHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABQIARIQSzlGiwZh/1LuBT1Ff5pf9Q==
+https://n-16-15.dcs.redcdn.pl/livedash/play/playtv/indigo/live/tv4/live.livx
+#EXTINF:0, TV Puls HD
+PSSH:AAAANHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABQIARIQVHvz5PIooN6PQMT+ruRb3w==
+https://n-16-15.dcs.redcdn.pl/livedash/play/playtv/indigo/live/tv_puls/live.livx
