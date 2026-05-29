@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="1970-01-01T00:00:00.000000Z" publishTime="2026-05-29T08:54:19.000000Z" minimumUpdatePeriod="PT3S" minBufferTime="PT10S" timeShiftBufferDepth="PT2M0S">
-<Location>https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd</Location><Period id="6a158371ec784663527a7cc6" start="P20599DT11H26M35.68S">
-<BaseURL>https://estreams.tv.nej.cz/content/CH_TVP1_Portable.ism/</BaseURL>
+<Location>https://lowa8026-cmyk.github.io/WPolscePL.m3u8</Location><Period id="6a158371ec784663527a7cc6" start="P20599DT11H26M35.68S">
+<BaseURL>https://lowa8026-cmyk.github.io/WPolscePL m3u8.</BaseURL>
 <AdaptationSet contentType="video">
 <Representation width="1280" height="720" sar="1:1" mimeType="video/mp4" codecs="avc1.640020" id="766964656F2F627731353030303030" bandwidth="1500000">
-<SegmentTemplate timescale="90000" presentationTimeOffset="160181531611252" startNumber="38416844" media="video/bw1500000/$Time$.mp4" initialization="video/bw1500000/6a158371ec784663527a7cc6.mp4">
+<SegmentTemplate timescale="90000" presentationTimeOffset="160181531611252" startNumber="38416844" media="$Time$.mp4" initialization="6a158371ec784663527a7cc6.mp4">
 <SegmentTimeline>
 <S t="160204026751251" d="540000" r="17"/>
 </SegmentTimeline>
@@ -14,7 +14,7 @@
 <AdaptationSet lang="pl" contentType="audio">
 <Representation audioSamplingRate="24000" mimeType="audio/mp4" codecs="mp4a.40.2" id="617564696F2F637A65" bandwidth="128000">
 <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-<SegmentTemplate timescale="24000" presentationTimeOffset="42715075096334" startNumber="38416844" media="audio/cze/$Time$.mp4" initialization="audio/cze/6a158371ec784663527a7cc6.mp4">
+<SegmentTemplate timescale="24000" presentationTimeOffset="42715075096334" startNumber="38416844" media="$Time$.mp3" initialization="audio6a158371ec784663527a7cc6.mp3">
 <SegmentTimeline>
 <S t="42721073799846" d="143360"/>
 <S d="144384"/>
