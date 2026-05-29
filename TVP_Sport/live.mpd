@@ -1,49 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd" profiles="urn:mpeg:dash:profile:cmaf:2019,urn:mpeg:dash:profile:isoff-live:2011" id="1a5844339ed94d4ea252c7cc2c8210c7/a0bad759c904475180a86932f6d0a890" type="dynamic" minBufferTime="PT1.000S" maxSegmentDuration="PT2.200S" availabilityStartTime="1970-01-01T00:00:00.000Z" publishTime="2026-05-03T18:07:46.898Z" minimumUpdatePeriod="PT2.000S" timeShiftBufferDepth="PT42.000S">
-  <Period id="4045859383898" start="PT1776705470.993S">
-    <AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2f0000-8D07-C409-0000-0000-C"/>
-    <AdaptationSet id="1" contentType="video" mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" maxWidth="1920" maxHeight="1080" maxFrameRate="25" par="16:9">
-      <SegmentTemplate availabilityTimeOffset="-14.200" timescale="90000" initialization="$RepresentationID$-init.m4s" media="$RepresentationID$-0-T-$Time$.m4s" presentationTimeOffset="4045859383898">
-        <SegmentTimeline>
-          <S t="4147213326698" d="180000" r="20"/>
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation id="v0_121" bandwidth="6000000" codecs="avc3.4D4028" width="1920" height="1080" frameRate="25" sar="1:1" scanType="progressive"/>
-      <Representation id="v1_121" bandwidth="3600000" codecs="avc3.4D401F" width="1280" height="720" frameRate="25" sar="1:1" scanType="progressive"/>
-      <Representation id="v2_121" bandwidth="2299968" codecs="avc3.4D401F" width="1024" height="576" frameRate="25" sar="1:1" scanType="progressive"/>
-      <Representation id="v3_121" bandwidth="1299968" codecs="avc3.4D401E" width="768" height="432" frameRate="25" sar="1:1" scanType="progressive"/>
-      <Representation id="v4_121" bandwidth="499968" codecs="avc3.4D4015" width="512" height="288" frameRate="25" sar="1:1" scanType="progressive"/>
-    </AdaptationSet>
-    <AdaptationSet id="2" contentType="audio" mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1" lang="pol">
-      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
-      <SegmentTemplate availabilityTimeOffset="-14.200" timescale="90000" initialization="$RepresentationID$-init.m4s" media="$RepresentationID$-0-T-$Time$.m4s" presentationTimeOffset="4045859383898">
-        <SegmentTimeline>
-          <S t="4147213340736" d="168960"/>
-          <S d="190080"/>
-          <S d="168960"/>
-          <S d="190080"/>
-          <S d="168960"/>
-          <S d="190080"/>
-          <S d="168960"/>
-          <S d="190080" r="1"/>
-          <S d="168960"/>
-          <S d="190080"/>
-          <S d="168960"/>
-          <S d="190080"/>
-          <S d="168960"/>
-          <S d="190080"/>
-          <S d="168960"/>
-          <S d="190080"/>
-          <S d="168960"/>
-          <S d="190080"/>
-          <S d="168960"/>
-          <S d="190080"/>
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation id="v4_221" bandwidth="128000" codecs="mp4a.40.2" audioSamplingRate="48000">
-        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-      </Representation>
-    </AdaptationSet>
-  </Period>
-  <UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2026-05-03T18:08:01.098Z"/>
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="1970-01-01T00:00:00.000000Z" publishTime="2026-05-29T08:54:19.000000Z" minimumUpdatePeriod="PT3S" minBufferTime="PT10S" timeShiftBufferDepth="PT2M0S">
+<Location>https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd</Location><Period id="6a158371ec784663527a7cc6" start="P20599DT11H26M35.68S">
+<BaseURL>https://estreams.tv.nej.cz/content/CH_TVP1_Portable.ism/</BaseURL>
+<AdaptationSet contentType="video">
+<Representation width="1280" height="720" sar="1:1" mimeType="video/mp4" codecs="avc1.640020" id="766964656F2F627731353030303030" bandwidth="1500000">
+<SegmentTemplate timescale="90000" presentationTimeOffset="160181531611252" startNumber="38416844" media="video/bw1500000/$Time$.mp4" initialization="video/bw1500000/6a158371ec784663527a7cc6.mp4">
+<SegmentTimeline>
+<S t="160204026751251" d="540000" r="17"/>
+</SegmentTimeline>
+</SegmentTemplate>
+</Representation>
+</AdaptationSet>
+<AdaptationSet lang="pl" contentType="audio">
+<Representation audioSamplingRate="24000" mimeType="audio/mp4" codecs="mp4a.40.2" id="617564696F2F637A65" bandwidth="128000">
+<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+<SegmentTemplate timescale="24000" presentationTimeOffset="42715075096334" startNumber="38416844" media="audio/cze/$Time$.mp4" initialization="audio/cze/6a158371ec784663527a7cc6.mp4">
+<SegmentTimeline>
+<S t="42721073799846" d="143360"/>
+<S d="144384"/>
+<S d="143360"/>
+<S d="144384" r="1"/>
+<S d="143360"/>
+<S d="144384" r="1"/>
+<S d="143360"/>
+<S d="144384"/>
+<S d="143360"/>
+<S d="144384" r="1"/>
+<S d="143360"/>
+<S d="144384" r="1"/>
+<S d="143360"/>
+<S d="144384"/>
+</SegmentTimeline>
+</SegmentTemplate>
+</Representation>
+</AdaptationSet>
+</Period>
+<UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="https://r.dcs.redcdn.pl/utc"/>
 </MPD>
