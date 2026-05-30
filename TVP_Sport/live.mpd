@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="1970-01-01T00:00:00.000000Z" publishTime="2026-05-29T08:54:19.000000Z" minimumUpdatePeriod="PT3S" minBufferTime="PT10S" timeShiftBufferDepth="PT2M0S">
-<Location>https://lowa8026-cmyk.github.io/WPolscePL.m3u8</Location><Period id="6a158371ec784663527a7cc6" start="P20599DT11H26M35.68S">
-<BaseURL>https://lowa8026-cmyk.github.io/WPolscePL m3u8.</BaseURL>
-<AdaptationSet contentType="video">
-<Representation width="1280" height="720" sar="1:1" mimeType="video/mp4" codecs="avc1.640020" id="766964656F2F627731353030303030" bandwidth="1500000">
-<SegmentTemplate timescale="90000" presentationTimeOffset="160181531611252" startNumber="38416844" media="$Time$.mp4" initialization="6a158371ec784663527a7cc6.mp4">
-<SegmentTimeline>
-<S t="160204026751251" d="540000" r="17"/>
-</SegmentTimeline>
-</SegmentTemplate>
-</Representation>
-</AdaptationSet>
-<AdaptationSet lang="pl" contentType="audio">
-<Representation audioSamplingRate="24000" mimeType="audio/mp4" codecs="mp4a.40.2" id="617564696F2F637A65" bandwidth="128000">
-<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-<SegmentTemplate timescale="24000" presentationTimeOffset="42715075096334" startNumber="38416844" media="$Time$.mp3" initialization="audio6a158371ec784663527a7cc6.mp3">
-<SegmentTimeline>
-<S t="42721073799846" d="143360"/>
-<S d="144384"/>
-<S d="143360"/>
-<S d="144384" r="1"/>
-<S d="143360"/>
-<S d="144384" r="1"/>
-<S d="143360"/>
-<S d="144384"/>
-<S d="143360"/>
-<S d="144384" r="1"/>
-<S d="143360"/>
-<S d="144384" r="1"/>
-<S d="143360"/>
-<S d="144384"/>
-</SegmentTimeline>
-</SegmentTemplate>
-</Representation>
-</AdaptationSet>
-</Period>
-<UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="https://r.dcs.redcdn.pl/utc"/>
+<MPD id='dash' type="dynamic" xmlns="urn:mpeg:dash:schema:mpd:2011"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 DASH-MPD.xsd"
+  profiles="urn:mpeg:dash:profile:isoff-live:2011"
+  minBufferTime="PT17S"
+  suggestedPresentationDelay="PT17S"
+  availabilityStartTime="2026-05-16T20:03:48Z"
+  publishTime="2026-05-30T02:35:32Z"
+  minimumUpdatePeriod="PT5.0S"
+  maxSegmentDuration="PT9S"
+  timeShiftBufferDepth="PT28S">
+    <Location>https://de1.dstv.cx/4FunTV/index.mpd?p=1778961828&amp;np=1778961828</Location>
+    <Period id='1778961828' start="PT0S" >
+        <AdaptationSet id="1" mimeType="video/mp4" contentType="video" maxWidth="1024" maxHeight="576" par="1024:576"  maxFrameRate="25" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+            <Representation id="tracks-v1" width="1024" height="576" sar="1:1" frameRate="25" bandwidth="1136000" codecs="avc1.42c01f">
+              <SegmentTemplate initialization="tracks-v1/init.m4v?p=1778961828" media="tracks-v1/seg-1778961828-$Number$.m4v?t=$Time$" timescale="1000"  startNumber="171387">
+                 <SegmentTimeline>
+                   <S t="1146676092" d="7200" r="3"/>
+                 </SegmentTimeline>
+              </SegmentTemplate>
+            </Representation>
+        </AdaptationSet>
+        <AdaptationSet id="2" mimeType="audio/mp4" contentType="audio" segmentAlignment="true" startWithSAP="1">
+            <Representation id="tracks-a1" audioSamplingRate="48000" bandwidth="131000" codecs="mp4a.40.2">
+              <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+              <SegmentTemplate initialization="tracks-a1/init.m4v?p=1778961828" media="tracks-a1/seg-1778961828-$Number$.m4v?t=$Time$" timescale="1000"  startNumber="171387">
+                 <SegmentTimeline>
+                   <S t="1146676092" d="7200" r="3"/>
+                 </SegmentTimeline>
+              </SegmentTemplate>
+            </Representation>
+        </AdaptationSet>
+    </Period>
+    <UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2026-05-30T02:35:32Z" />
 </MPD>
